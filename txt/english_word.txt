@@ -1,0 +1,7222 @@
+n04403638	telescope
+n11722982	aconite
+n03987376	portrait lens
+n03939677	pilothouse
+n04310157	steamroller
+n04569063	webcam
+n01913166	Portuguese man-of-war
+n12413880	German iris
+n04525584	Venetian blind
+n09305898	hot spring
+n01488038	whale shark
+n01976957	crab
+n04141712	scaffolding
+n04555897	watch
+n07709333	greens
+n10355449	newcomer
+n04273972	speed skate
+n04395651	tattoo
+n03395514	French window
+n01554448	woodhewer
+n03405725	furniture
+n10607291	skin-diver
+n07613266	tiramisu
+n12303083	forsythia
+n03506880	hearse
+n02861022	bobsled
+n04208936	shower
+n03710193	mailbox
+n04498389	turban
+n03316406	factory
+n02022684	shorebird
+n03220692	dome
+n04552696	warship
+n02037110	oystercatcher
+n02803666	bass drum
+n12642200	sweet cherry
+n12205694	herb
+n02855925	blue
+n04335209	street
+n05538625	head
+n12732009	white poplar
+n04112147	rotor
+n02028342	greater yellowlegs
+n02493793	spider monkey
+n12527738	coral tree
+n02394477	even-toed ungulate
+n03074380	column
+n11669786	floret
+n01987545	prawn
+n02374149	equine
+n04146862	school ship
+n07744246	currant
+n02824319	belfry
+n03485198	hand glass
+n11960245	dahlia
+n07772147	cashew
+n03073694	columbarium
+n04136161	sari
+n02028727	pectoral sandpiper
+n02898711	bridge
+n04306080	station
+n01501160	skate
+n04421872	thermometer
+n03720163	map
+n03057920	coat hanger
+n01621127	owl
+n02408429	water buffalo
+n02726305	apartment
+n01794158	turkey
+n03388043	fountain
+n12822769	comfrey
+n04531873	vest
+n02999936	chain
+n04207343	shoulder bag
+n04290079	spun yarn
+n07596967	confectionery
+n02127482	bobcat
+n03271574	electric fan
+n02904927	brogan
+n02951585	can opener
+n02042472	ivory gull
+n03871724	packing box
+n03698604	luxury liner
+n03368352	flowerbed
+n01885498	numbat
+n02386853	carthorse
+n03492542	hard disc
+n02929289	buttress
+n04509417	unicycle
+n02859184	boater
+n12620196	rose
+n03082979	computer
+n03837869	obelisk
+n04080705	resort hotel
+n02848523	blade
+n11989869	oxeye daisy
+n02077658	fur seal
+n10304914	medalist
+n03379828	footbridge
+n10577284	seller
+n02084861	cur
+n03967396	plotter
+n04224543	sister ship
+n10599806	singer
+n02939185	caldron
+n02971167	car tire
+n03836976	nylons
+n04057047	razor
+n02737660	arm
+n07695965	sandwich
+n14858292	litter
+n02860640	bobby pin
+n01582856	Australian magpie
+n10635788	sphinx
+n02106662	German shepherd
+n05302499	mouth
+n02812949	bayonet
+n07852833	Camembert
+n04162706	seat belt
+n02101861	springer spaniel
+n10153594	gymnast
+n07832902	dressing
+n03366823	floor cover
+n03227317	double knit
+n04390977	tap
+n07607605	lollipop
+n03419014	garment
+n07866015	croquette
+n02299157	tobacco hornworm
+n02715712	antiaircraft
+n04026180	purl
+n03700963	machine
+n04492375	truss
+n04289690	sprocket
+n02010453	night heron
+n10435988	pitcher
+n07686720	sour bread
+n04251701	snowbank
+n07817315	coriander
+n03706229	magnetic compass
+n07921239	Turkish coffee
+n04398044	teapot
+n12882779	foxglove
+n10120671	gardener
+n07832416	pesto
+n07751004	peach
+n03787523	mortise joint
+n02981911	catapult
+n07683490	chapatti
+n02865665	bolt
+n10317007	military officer
+n02403454	cow
+n02439033	giraffe
+n02008497	great blue heron
+n04140064	saw
+n03071160	colonnade
+n07763792	loquat
+n04582205	wicker
+n10308168	board member
+n02709101	anastigmat
+n02453108	pachyderm
+n02865931	bolt
+n02487547	rhesus
+n12844939	coleus
+n07868955	gefilte fish
+n04131208	salon
+n04235291	sled
+n07817160	comfrey
+n03659292	lever
+n08494231	amusement park
+n02051059	pied-billed grebe
+n01594968	cliff swallow
+n07600696	candied apple
+n03124043	cowboy boot
+n02932400	cabin
+n04050066	rake
+n04507155	umbrella
+n02088238	basset
+n12877838	Mediterranean snapdragon
+n04495843	tugboat
+n02834778	bicycle
+n04284341	spoon
+n07804771	wild rice
+n03313333	facade
+n03159535	dairy
+n02908217	brush
+n09438844	snowcap
+n03350204	fishbowl
+n01754876	rattlesnake
+n01323355	sire
+n07579787	plate
+n01859496	tundra swan
+n10078131	fancier
+n12633638	apple tree
+n04117464	rudder
+n06359193	web site
+n04568069	weathervane
+n12991184	reindeer moss
+n07678729	stuffing
+n07753113	fig
+n02880546	bowed stringed instrument
+n03335030	fighter
+n04040373	radial engine
+n03347617	fire tower
+n04095109	Ritz
+n11939699	common daisy
+n03483316	hand blower
+n04222470	single-breasted suit
+n03791053	motor scooter
+n02190166	fly
+n07876550	scampi
+n10283170	major
+n04125257	safe-deposit
+n02122298	kitty
+n03408054	fuselage
+n10081204	Father
+n01542786	weaver
+n02025043	turnstone
+n10542888	runner
+n07582152	shrimp cocktail
+n07892813	white wine
+n02807616	bathrobe
+n02283201	moth
+n12267677	acorn
+n04547592	wall
+n02968473	carriage
+n10007684	designated hitter
+n03862676	oven
+n13206817	maidenhair
+n03495258	harp
+n02876657	bottle
+n10754189	vintner
+n03938037	pillory
+n03891251	park bench
+n03618982	kirk
+n04065464	recreation room
+n03499907	Hawaiian guitar
+n04330340	stove
+n03870672	pack
+n01823013	cuckoo
+n02951358	canoe
+n09734639	Tuareg
+n02868638	bomb shelter
+n07587111	pottage
+n04177931	settlement house
+n03971218	plywood
+n12521394	common broom
+n03535780	horizontal bar
+n03447721	gong
+n03318294	fairy light
+n10498816	quarterback
+n12810595	phlox
+n01859689	whistling swan
+n02949202	cane
+n04283378	spoke
+n02042046	herring gull
+n07695742	pretzel
+n04438304	timer
+n01994910	daphnia
+n09847543	beldam
+n03178430	derrick
+n04370774	sweat suit
+n04326896	stool
+n07714448	bok choy
+n02992529	cellular telephone
+n11990167	oxeye daisy
+n03397087	frieze
+n03160309	dam
+n11666854	dicot
+n10274815	lowerclassman
+n11733054	delphinium
+n10323634	mistress
+n04590746	windshield wiper
+n03911513	penitentiary
+n02817516	bearskin
+n10441962	plenipotentiary
+n03476313	hairpin
+n02114855	coyote
+n11600372	cycad
+n10315561	miler
+n01918744	ctenophore
+n07691237	cross bun
+n07760153	muscat
+n02492660	howler monkey
+n07873464	pilaf
+n03151077	curtain
+n11676500	pistil
+n02946921	can
+n03518445	highchair
+n10289039	man
+n01839330	downy woodpecker
+n11728099	marsh marigold
+n04462240	toyshop
+n03820318	net
+n10602470	Sister
+n11958080	cosmos
+n12987056	lichen
+n07915094	gin and tonic
+n03973402	pocket flap
+n01612122	sparrow hawk
+n11793779	calla lily
+n02098286	West Highland white terrier
+n03229244	dowel
+n03098140	control panel
+n04122349	sable
+n03571280	inhaler
+n03942920	pinhead
+n02705944	amplifier
+n04056932	rayon
+n03545756	house of cards
+n04598318	woodshed
+n03389761	four-wheel drive
+n02416820	kid
+n11664418	ginkgo
+n01961985	pearl oyster
+n03665924	light bulb
+n03485794	handkerchief
+n09823502	aunt
+n04263257	soup bowl
+n07616487	ice-cream sundae
+n07749969	grapefruit
+n04473108	transom
+n04272054	spectacles
+n14976871	blacktop
+n02095050	fox terrier
+n07750872	apricot
+n10147935	groom
+n04404817	television antenna
+n01697178	crocodile
+n02041246	gull
+n02770830	backseat
+n12729729	purple willow
+n02971691	cartridge
+n12091953	polyanthus
+n12090890	primrose
+n05218119	cadaver
+n07762913	durian
+n09827363	baby
+n11900569	poppy
+n04229816	ski mask
+n12914923	verbena
+n04223299	singlet
+n03171356	defensive structure
+n01893825	hedgehog
+n02379908	Arabian
+n07903841	Cognac
+n02643566	lionfish
+n10009276	detective
+n12041446	orchid
+n02449350	glutton
+n10396106	panelist
+n03525454	holder
+n12785724	sedum
+n03841143	odometer
+n07880458	schnitzel
+n01594004	fairy bluebird
+n04453156	toothbrush
+n04058096	reading room
+n04023249	punch
+n03141823	crutch
+n03108853	cork
+n02018027	coot
+n10620758	sociologist
+n04578934	whisk
+n03767112	millstone
+n02892499	brasserie
+n10411551	peddler
+n02814774	beachwear
+n04543996	wainscot
+n09903501	cellist
+n10040945	eager beaver
+n07756951	watermelon
+n01887623	bull
+n01753959	pit viper
+n01791463	red jungle fowl
+n03256032	Dumpster
+n06267655	gazette
+n01845132	waterfowl
+n11925898	marguerite
+n02091032	Italian greyhound
+n07692614	sweet roll
+n11925303	African daisy
+n04373089	switchblade
+n01548865	eastern kingbird
+n07731587	chicory escarole
+n12741222	soapberry
+n03223553	doorplate
+n02063224	baleen whale
+n07720277	chard
+n07710616	potato
+n03430418	gazebo
+n10667477	stylist
+n01850873	canvasback
+n01639765	frog
+n07924276	nectar
+n03079230	compact disk
+n04107743	room light
+n09376198	ocean
+n04102406	roller coaster
+n07726095	chickpea
+n03544143	hourglass
+n02056228	Adelie
+n02946348	camper
+n12104501	herbage
+n07574602	breakfast
+n03121431	courthouse
+n02700064	alternator
+n02997607	ceramic ware
+n02221414	wood ant
+n03717622	manhole cover
+n02050586	black-necked grebe
+n11978233	sunflower
+n04233124	skyscraper
+n09619168	female
+n01877134	kangaroo
+n02924116	bus
+n09433442	shore
+n10249270	lawgiver
+n07700003	spaghetti
+n09436708	sky
+n04099175	rocket
+n01598588	shrike
+n07721195	pimento
+n03849814	opera
+n03175189	denim
+n01744401	rock python
+n03252637	dry wall
+n07817024	chives
+n01495493	angel shark
+n03722288	marketplace
+n02585872	cichlid
+n09436444	ski slope
+n09972458	cover girl
+n02797295	barrow
+n02873520	boot
+n07606764	kiss
+n04118021	rug
+n01811909	pigeon
+n01576695	starling
+n12929403	camellia
+n04252077	snowmobile
+n02009380	snowy egret
+n03061505	cockpit
+n02433318	fallow deer
+n04063868	recording
+n03988170	post
+n04311595	steel mill
+n01732244	rat snake
+n01905661	invertebrate
+n12452836	crown imperial
+n08521623	cemetery
+n01579578	jackdaw
+n11971783	African daisy
+n02689274	air gun
+n03397532	frill
+n02102605	water spaniel
+n02098550	sporting dog
+n08578517	benthos
+n04329834	storm door
+n07808587	coleslaw
+n12651821	fruit tree
+n02954340	cap
+n02212958	paper wasp
+n02389559	domestic ass
+n04516672	utensil
+n10209082	instigator
+n01812337	dove
+n04028764	pylon
+n04560882	water jump
+n03601840	joist
+n11808721	china pink
+n02820210	bedclothes
+n03683708	locker room
+n02097298	Scotch terrier
+n01615458	ern
+n01324431	carnivore
+n04549919	ward
+n02892767	brassiere
+n01611472	peregrine
+n07904395	gin
+n03045800	cloakroom
+n04560292	watering can
+n01471682	vertebrate
+n07605944	gumdrop
+n04429376	throne
+n02733213	arcade
+n11669921	flower
+n04130257	salad bowl
+n10042845	eccentric
+n12344283	evening primrose
+n08640739	resort area
+n02990373	ceiling
+n11624531	spruce
+n03636248	lamp
+n01874928	opossum
+n02705201	amphitheater
+n02877266	bottle
+n03005285	chandelier
+n04141975	scale
+n04242408	sloop
+n04043733	radio receiver
+n01793249	pullet
+n04566257	weaponry
+n07837362	white sauce
+n12771390	Japanese persimmon
+n01860002	trumpeter
+n03818343	neon lamp
+n02904803	brocade
+n10559288	schoolchild
+n03141065	cruiser
+n11848479	night-blooming cereus
+n09249034	col
+n02774630	baggage
+n03692522	loupe
+n09841188	bartender
+n13001529	meadow mushroom
+n09618957	face
+n03637318	lampshade
+n10141732	granddaughter
+n03529444	homespun
+n07734292	cherry tomato
+n04098513	rocker
+n03642806	laptop
+n07737745	peanut
+n02124484	Manx
+n07895839	Merlot
+n07723559	lettuce
+n09913455	cheerleader
+n10393909	painter
+n02310717	woolly bear
+n03018209	china
+n01482330	shark
+n01563945	goldcrest
+n01751472	taipan
+n03395859	Fresnel lens
+n02509815	lesser panda
+n02086910	papillon
+n01558594	blackbird
+n03007591	character printer
+n12070016	laelia
+n12624381	flowering quince
+n01622352	horned owl
+n03732458	maxi
+n13001930	shiitake
+n03193597	diesel locomotive
+n03991062	pot
+n02769075	background
+n04356056	sunglasses
+n01528654	pipit
+n03216828	dock
+n09638875	White
+n10084295	female child
+n03604400	jumper
+n04197110	shipwreck
+n06595351	magazine
+n03123917	cowbell
+n02113186	Cardigan
+n03770316	ministry
+n01851895	wild duck
+n06263609	print media
+n11971248	gazania
+n03120491	court
+n02729837	appliance
+n07914413	daiquiri
+n03508101	heater
+n02806379	bat
+n02381364	grey
+n04545858	walkie-talkie
+n11710136	southern magnolia
+n03039259	clay pigeon
+n02789487	bar
+n02398521	hippopotamus
+n03940256	pin
+n09238926	cave
+n04041069	radiator
+n04594218	wire
+n09452395	swamp
+n01816887	parrot
+n11736851	love-in-a-mist
+n02165456	ladybug
+n03548402	hula-hoop
+n02041678	mew
+n01915811	coral
+n03397947	Frisbee
+n02910353	buckle
+n07585557	chicken soup
+n04201297	shoji
+n11545524	pteridophyte
+n13035241	false morel
+n02879718	bow
+n02408817	carabao
+n07804900	paddy
+n09622049	juvenile
+n12433081	onion
+n03592669	jalousie
+n04400289	telecommunication system
+n09245515	cirque
+n10439851	player
+n02486410	baboon
+n12063639	rattlesnake plantain
+n02311617	nymph
+n01670802	giant tortoise
+n03837422	oar
+n04228693	ski cap
+n03732114	mausoleum
+n03452741	grand piano
+n03421485	garter stitch
+n12356023	common ginger
+n04519153	valve
+n07755411	melon
+n03378174	food processor
+n10624540	songwriter
+n04370048	sweater
+n03933933	pier
+n12532564	soy
+n03408444	futon
+n02960690	carabiner
+n04369282	swatter
+n02709367	anchor
+n02412080	ram
+n02219486	ant
+n04530566	vessel
+n02691156	airplane
+n03063689	coffeepot
+n09409512	ridge
+n13032115	morel
+n07690892	scone
+n03494278	harmonica
+n03115180	cotton
+n09906449	chameleon
+n03857687	oscillograph
+n11640132	metasequoia
+n02236241	praying mantis
+n07874259	cheese pizza
+n04250224	sniper rifle
+n02042180	laughing gull
+n04297750	stained-glass window
+n07764155	mango
+n08616050	pasture
+n03786901	mortar
+n01317541	domestic animal
+n02692086	airplane propeller
+n04447443	toiletry
+n03463666	groundsheet
+n09308572	iceberg
+n04021028	pullover
+n01526521	songbird
+n12752205	maple
+n10384392	orphan
+n12134025	rye
+n11931918	aster
+n03294833	eraser
+n02749479	assault rifle
+n11821184	ice plant
+n11973341	gumweed
+n12475242	strawflower
+n01646292	bufo
+n09727440	Filipino
+n07745466	raspberry
+n02456962	sloth
+n07733712	lamb's-quarter
+n04112752	rouge
+n03930630	pickup
+n01827403	kingfisher
+n11762433	lead tree
+n01806143	peacock
+n04039848	radar
+n04332074	straight razor
+n09736945	Ugandan
+n02372584	hyrax
+n02747177	ashcan
+n11788727	golden pothos
+n07710283	root vegetable
+n11608250	pine
+n07735404	parsnip
+n10236304	kin
+n04524142	vaulting horse
+n02395003	swine
+n07616046	frozen yogurt
+n02382948	racehorse
+n04326799	stonework
+n03416489	garage
+n13238375	stapelia
+n02404432	longhorn
+n12429352	African lily
+n02889646	brake
+n01859325	whooper
+n12174311	althea
+n04476116	trawler
+n07739125	apple
+n04187061	sheath
+n04510706	universal joint
+n01597906	western tanager
+n03727465	master bedroom
+n12739332	mistletoe
+n04398688	teaspoon
+n02131653	bear
+n02740533	armored vehicle
+n04379964	table
+n10150071	guard
+n08505018	bush
+n10611613	sleuth
+n02777734	balcony
+n04178329	Seven Wonders of the Ancient World
+n03613592	key
+n02402175	ox
+n04469813	tramway
+n12942395	parsley
+n02871439	bookshelf
+n04217882	signboard
+n03484576	handcuff
+n01887787	cow
+n07820145	rosemary
+n04341686	structure
+n03567066	incubator
+n02051845	pelican
+n02195526	horsefly
+n03429137	Gatling gun
+n03731695	maul
+n09443641	spume
+n04358707	supermarket
+n09290444	gorge
+n04354026	summer house
+n07584423	borsch
+n02940570	caller ID
+n07715721	summer squash
+n02746365	artillery
+n04412097	tent-fly
+n03478756	hall
+n03963645	playground
+n02778456	bale
+n02009508	little egret
+n03613294	key
+n07920989	mocha
+n09303528	hillside
+n02686121	airbus
+n02028451	lesser yellowlegs
+n07568502	oatmeal
+n04108822	rope bridge
+n01673282	tuatara
+n01579260	raven
+n03288500	engineering
+n07868340	fried rice
+n12961879	flowering fern
+n01641577	bullfrog
+n03686924	log cabin
+n04468005	train
+n12642090	wild cherry
+n09332890	lakeside
+n07757312	sweet cherry
+n02029706	upland sandpiper
+n03854815	organ pipe
+n09772930	adulteress
+n02946127	campanile
+n02102040	English springer
+n07574923	brunch
+n04285965	sport utility
+n03794056	mousetrap
+n07679356	bread
+n04581829	wick
+n02056728	emperor penguin
+n02342885	hamster
+n12731401	poplar
+n02807731	bathroom
+n02982232	catapult
+n07624466	turnover
+n02034971	black-necked stilt
+n04317420	stick
+n09454153	talus
+n02836174	bidet
+n03351979	fishing rod
+n09899671	casualty
+n02770211	back porch
+n07864934	chili
+n07693972	biscuit
+n02416519	goat
+n03906224	pegboard
+n04447861	toilet seat
+n04295881	stadium
+n02999410	chain
+n12795555	spirea
+n04564581	waxwork
+n02321529	sea cucumber
+n10718131	tourist
+n03378005	food court
+n07902799	aquavit
+n07758680	grape
+n02071636	pilot whale
+n02693246	air terminal
+n12155009	textile screw pine
+n03140292	crucifix
+n03616428	kickstand
+n04282872	split rail
+n03875806	paintball
+n07927197	soft drink
+n04099003	rocker arm
+n07681450	challah
+n10037385	drunkard
+n06793231	sign
+n11720643	meadow buttercup
+n03207941	dishwasher
+n02343320	golden hamster
+n04186051	shaving cream
+n02739427	armlet
+n02021795	seabird
+n04122685	sachet
+n12043444	orchis
+n01914609	sea anemone
+n01848453	bluewing
+n11905392	California poppy
+n04044716	radio telescope
+n12651611	pear
+n03878066	palace
+n03170635	deep-freeze
+n02835724	bicycle pump
+n04045397	raft
+n02364520	cavy
+n02050313	great crested grebe
+n01842235	barbet
+n03678558	litterbin
+n01855672	goose
+n07749731	lime
+n04115456	rowing boat
+n04185071	sharpener
+n07724943	bean
+n01751748	sea snake
+n02037869	red phalarope
+n03443912	goggles
+n02397096	warthog
+n02113023	Pembroke
+n07805594	bird feed
+n04210390	shrine
+n07906111	vodka
+n01610955	falcon
+n03051249	clothespin
+n03000247	chain mail
+n04366367	suspension bridge
+n12921868	crown of thorns
+n04456115	torch
+n03066849	colander
+n04529962	vertical stabilizer
+n07843775	dairy product
+n08492461	agora
+n03823111	nib
+n11542640	liverwort
+n07869611	jambalaya
+n10582746	serviceman
+n03653833	lederhosen
+n04433585	tie
+n04356595	sunhat
+n10756148	viscount
+n01410457	pond scum
+n07573696	meal
+n12854600	lemon balm
+n03125057	CPU board
+n09896170	caricaturist
+n15062057	stucco
+n12421683	daffodil
+n10510245	rear admiral
+n03219135	doll
+n03544360	house
+n04363777	surcoat
+n02920369	bunker
+n04270147	spatula
+n10638922	sport
+n01622959	tawny owl
+n03667664	light meter
+n01695060	Komodo dragon
+n09836786	picador
+n01851038	pochard
+n02953455	cantle
+n04118776	rule
+n12172364	okra
+n02864504	bolero
+n03146846	cultivator
+n10514429	referee
+n03699975	machine
+n09263912	defile
+n03724417	masher
+n11719286	peony
+n01848323	greenwing
+n03279508	electron microscope
+n02108254	mastiff
+n03717447	manhole
+n02389346	ass
+n12646740	flowering almond
+n04122825	sack
+n02075296	carnivore
+n03436891	gig
+n04281375	splashboard
+n09265620	descent
+n02801184	basilica
+n12683407	scabious
+n07690273	muffin
+n02509515	coati
+n07882497	concoction
+n01805801	peafowl
+n12454159	tulip
+n03773035	mirror
+n02537085	trout
+n07753592	banana
+n03396074	fret
+n02359915	eastern chipmunk
+n02870526	book
+n04197391	shirt
+n03680942	local
+n02492035	capuchin
+n10153414	guy
+n03885535	pantry
+n01495701	ray
+n03718335	manometer
+n03625355	knit
+n01861778	mammal
+n04097866	robe
+n01770393	scorpion
+n09326662	knoll
+n09233446	canyon
+n02565324	largemouth
+n03075946	command module
+n13007417	oyster mushroom
+n01559477	hermit thrush
+n03059685	cobweb
+n01804163	golden pheasant
+n02885882	box office
+n02411705	sheep
+n07898745	table wine
+n07858595	sweetening
+n04209613	shower stall
+n07803545	wheat
+n02018207	American coot
+n02776631	bakery
+n12638218	plum
+n07606538	peppermint
+n02407390	Friesian
+n04230808	skirt
+n03682487	lock
+n03904657	pediment
+n03038685	classroom
+n03788365	mosquito net
+n12343480	fuchsia
+n01607962	buzzard
+n02377291	stud
+n03087366	condenser
+n03354903	flag
+n12590232	oil palm
+n10173771	Herr
+n02694662	alarm clock
+n03797182	muffler
+n11783920	anthurium
+n02417387	Angora
+n03358726	flash camera
+n10357613	niece
+n11811473	lychnis
+n04059516	reamer
+n03256166	dump truck
+n12582231	palm
+n04407686	temple
+n04319937	stilt
+n07890540	Guinness
+n01664990	hawksbill turtle
+n02688443	airfoil
+n02395694	piglet
+n03859000	outboard motor
+n07930554	punch
+n04164868	secretary
+n02627532	yellowfin
+n01534155	bullfinch
+n01588002	brown thrasher
+n02727141	aperture
+n04286575	spotlight
+n03061674	cockpit
+n01318894	pet
+n03844815	oilskin
+n03517760	hi-fi
+n04063373	recorder
+n10202624	incumbent
+n03163222	dashboard
+n04154565	screwdriver
+n04387400	tambourine
+n07696625	ham sandwich
+n12950126	valerian
+n03263076	eaves
+n10146104	great-niece
+n07847453	clotted cream
+n04252560	snowsuit
+n03262809	easel
+n12515925	chickpea
+n07639069	doughnut
+n10572706	Secretary of State
+n02916179	bulldozer
+n03547229	hovercraft
+n10382825	organist
+n02801450	basilisk
+n02195819	bee fly
+n01726692	snake
+n04225729	skate
+n04613015	yoke
+n01617095	griffon vulture
+n03321103	fanjet
+n04258333	solar heater
+n01768244	trilobite
+n09728285	Romanian
+n04273796	speedometer
+n10020890	doctor
+n01814921	homing pigeon
+n02050809	dabchick
+n04357314	sunscreen
+n03375575	foil
+n03358380	flash
+n07826091	Tabasco
+n10780632	wife
+n02767665	back
+n02804252	bass horn
+n01803078	pheasant
+n11618290	Japanese black pine
+n04407435	temple
+n03639497	land line
+n12831932	episcia
+n04204081	shopping bag
+n01617766	Egyptian vulture
+n07887634	lager
+n04431745	thumbtack
+n10129825	girl
+n02859443	boathouse
+n03345837	fire extinguisher
+n01826680	European roller
+n02431976	Japanese deer
+n10247880	Latin
+n01849157	pintail
+n03206908	dish
+n07901587	liquor
+n12350758	canna
+n03888605	parallel bars
+n01580870	blue jay
+n09813219	artist's model
+n04354182	sumo ring
+n04391838	tape
+n03020034	chip
+n02536456	chinook
+n03822767	Newtonian telescope
+n03675235	Linotype
+n02460451	ant bear
+n12055516	cymbid
+n02370806	ungulate
+n02799323	baseball cap
+n04134008	sandbag
+n09787765	ambassador
+n10628644	sovereign
+n04189282	sheeting
+n09816771	associate
+n10079399	farmhand
+n02799175	baseball bat
+n04005630	prison
+n03572321	inkwell
+n04458633	totem pole
+n03711999	mainmast
+n04334599	street
+n03291963	envelope
+n01774750	tarantula
+n03322940	farm machine
+n07742704	berry
+n07684938	banana bread
+n03923379	phial
+n03729826	matchstick
+n01787835	horseshoe crab
+n04526964	ventilator
+n09894445	cardiologist
+n07735510	pumpkin
+n01935395	earthworm
+n02469472	tadpole
+n02814860	beacon
+n11980318	strawflower
+n03610418	keg
+n02412440	lamb
+n11953038	chicory
+n04177755	settee
+n10142391	grandfather
+n02008796	egret
+n07874780	porridge
+n07693725	bagel
+n07920052	espresso
+n01623110	barred owl
+n03148324	cupboard
+n04401680	telephone booth
+n04432203	tiara
+n09205509	arete
+n02732827	arbor
+n07682197	crouton
+n09217230	beach
+n02909870	bucket
+n12034141	zinnia
+n11875691	cabbage
+n09684901	swami
+n02159955	insect
+n13003061	fly agaric
+n03365592	floor
+n01940736	mollusk
+n07611046	compote
+n10377021	old woman
+n03380867	footwear
+n02206856	bee
+n12745386	rambutan
+n03744276	memory
+n07831267	tomato sauce
+n11969607	blue daisy
+n04227900	skewer
+n07614500	ice cream
+n12937130	wild carrot
+n06596607	pulp
+n03091374	connection
+n01755581	diamondback
+n08524735	city
+n02127808	big cat
+n04376400	synthesizer
+n04127249	safety pin
+n03086457	concert grand
+n03399677	front porch
+n12371439	Chinese gooseberry
+n02483362	gibbon
+n02751295	astronomical telescope
+n03237416	dress hat
+n03506184	headstock
+n03220513	dome
+n02867715	bomber
+n09918554	child
+n03820728	network
+n12451915	fritillary
+n10739391	Unknown Soldier
+n02916350	bullet
+n03878211	palace
+n10694258	teacher
+n07879350	sashimi
+n11818069	common chickweed
+n11792742	skunk cabbage
+n04062428	recliner
+n02654425	boxfish
+n07718472	cucumber
+n07838905	mustard sauce
+n04474466	trap
+n03016737	chicken yard
+n02391994	rhinoceros
+n07890352	stout
+n02010728	black-crowned night heron
+n03127203	crankcase
+n03487642	hand-me-down
+n12633994	apple
+n03002948	chalice
+n02898369	brickwork
+n07890226	porter
+n11621281	amabilis fir
+n02484322	monkey
+n03621377	kitchenware
+n02403325	bull
+n11910271	bleeding heart
+n01813948	Australian turtledove
+n02098413	Lhasa
+n02084071	dog
+n03939178	pilot boat
+n01858441	swan
+n12024445	common dandelion
+n02121808	domestic cat
+n03903424	pedal
+n02405302	yak
+n10622053	soldier
+n04208427	shovel
+n04409384	tenement
+n03840681	ocarina
+n12385429	reseda
+n07867021	enchilada
+n03063338	coffee maker
+n07730855	chicory
+n03819994	net
+n03222516	doorbell
+n09676247	Punjabi
+n07927931	cola
+n02002556	white stork
+n12367611	St John's wort
+n02168245	firefly
+n04095210	river boat
+n10183931	honor guard
+n02172182	dung beetle
+n02190790	housefly
+n04404412	television
+n07911371	mixed drink
+n08584914	hole-in-the-wall
+n01486838	nurse shark
+n07752966	currant
+n12685831	cranesbill
+n07609840	dessert
+n03854065	organ
+n02805983	bastion
+n01829413	hornbill
+n04532831	vibraphone
+n03767203	millwheel
+n11879054	bok choy
+n10624310	songster
+n05260240	pompadour
+n06785654	crossword puzzle
+n03289660	enlarger
+n08628141	kasbah
+n04231693	ski tow
+n01767661	arthropod
+n02287004	geometrid
+n03666362	light-emitting diode
+n04482393	tricycle
+n02527622	conger
+n01455778	pipefish
+n02180875	rove beetle
+n02447366	badger
+n09846469	Bedouin
+n10001481	demagogue
+n02599958	mullet
+n10182190	homeless
+n01584225	wren
+n03686130	loft
+n12127768	goose grass
+n01496331	electric ray
+n01570676	yellowthroat
+n01543632	Java sparrow
+n04520784	vane
+n12771192	persimmon
+n01582220	magpie
+n03633091	ladle
+n03646916	lattice
+n07815588	pepper
+n03219010	doily
+n12980840	downy mildew
+n03450230	gown
+n02353861	gopher
+n04525417	veneer
+n10583387	settler
+n07627931	puff paste
+n09247410	cloud
+n04371774	swing
+n01569060	Blackburn
+n02683558	afterburner
+n10038409	duchess
+n12426623	mountain lily
+n02537319	brown trout
+n02761834	automobile horn
+n03788195	mosque
+n04563204	waterwheel
+n12807409	American sycamore
+n01536644	song sparrow
+n08547544	crest
+n02858304	boat
+n04277352	spindle
+n07913393	Bloody Mary
+n03586219	iron lung
+n03074855	comb
+n01531971	redpoll
+n02626762	tuna
+n07884567	alcohol
+n01558993	robin
+n02361337	marmot
+n03660909	library
+n02045864	razorbill
+n12909421	petunia
+n12578916	cowpea
+n01813385	turtledove
+n09421799	sandbank
+n07590611	hot pot
+n12544539	lentil
+n11733312	larkspur
+n02065026	finback
+n03889871	parasol
+n01752736	asp
+n03815149	necklet
+n02460009	anteater
+n02885462	boxing glove
+n01503061	bird
+n10318293	mill-hand
+n03541923	hot-air balloon
+n03124170	cowboy hat
+n07654148	barbecue
+n02483708	siamang
+n04437953	timepiece
+n03389889	four-wheeler
+n02087551	hound
+n13137409	berry
+n07860988	dough
+n04112252	rotor blade
+n02048353	tufted puffin
+n03652100	lead pencil
+n01594787	barn swallow
+n12606438	commelina
+n07867421	fondue
+n03857828	oscilloscope
+n07920222	caffe latte
+n03443371	goblet
+n12703557	creeping oxalis
+n03788498	motel
+n07574780	continental breakfast
+n02846511	blackboard
+n07691539	brioche
+n02052204	white pelican
+n03150232	curler
+n15067877	tear gas
+n04064401	record player
+n07891433	sake
+n12793015	saxifrage
+n07927512	pop
+n04594489	wire
+n02731398	apse
+n01560793	stonechat
+n01593028	bushtit
+n04610013	yacht
+n02454379	armadillo
+n07920872	mocha
+n03845190	oil tanker
+n03885904	pantyhose
+n10275395	loyalist
+n04156946	scull
+n07579575	entree
+n12645174	almond
+n04399158	tea urn
+n03836062	nursery
+n12566954	kudzu
+n07734744	mushroom
+n09989502	dancer
+n04592465	winery
+n11926833	arnica
+n02758960	autoclave
+n02655848	porcupinefish
+n03627232	knot
+n11636204	Japanese cedar
+n08517676	bus stop
+n07842308	scrambled eggs
+n02064816	blue whale
+n04571566	weir
+n01882714	koala
+n02329401	rodent
+n09210862	atoll
+n12724942	willow
+n03623556	knife
+n03646296	lathe
+n12733647	aspen
+n07765361	guava
+n02980441	castle
+n03238879	dress shirt
+n07684600	quick bread
+n03409591	gable roof
+n03963198	platter
+n02791270	barbershop
+n02501583	tarsier
+n03527444	holster
+n03467068	guillotine
+n04571958	weld
+n04296562	stage
+n02010272	cattle egret
+n07767847	pear
+n06271778	telecommunication
+n02431785	wapiti
+n02788148	bannister
+n09633969	wrongdoer
+n03016389	chicken coop
+n03367410	florist
+n02672831	accordion
+n02861387	bodice
+n04590933	Windsor chair
+n02880940	bowl
+n09836160	bullfighter
+n04392113	tape
+n01324610	herbivore
+n01323493	dam
+n03072201	color television
+n03261019	earflap
+n01564217	ruby-crowned kinglet
+n07734017	tomato
+n13132656	panicle
+n04289027	sprinkler
+n01850553	Barrow's goldeneye
+n07841907	Easter egg
+n03706653	magnetic disk
+n02969323	carriageway
+n13223710	ground fir
+n04173046	septic tank
+n04603729	worktable
+n04553703	washbasin
+n04606251	wreck
+n11789066	skunk cabbage
+n03782190	monitor
+n03445777	golf ball
+n03352628	fishnet
+n02801938	basket
+n03871628	packet
+n13022709	mycelium
+n04322801	stock car
+n03546235	housetop
+n02508021	raccoon
+n09627906	recipient
+n03340723	finder
+n02842573	biplane
+n12922763	croton
+n01573360	western meadowlark
+n03233905	drawer
+n02484473	Old World monkey
+n02586543	snapper
+n11725015	anemone
+n12329260	crape myrtle
+n04069276	reflector
+n03760310	microprocessor
+n03987266	portrait camera
+n02764779	axle
+n04315948	stereo
+n04548280	wall clock
+n12158443	pumpkin
+n10380672	orator
+n07684517	raisin bread
+n07595914	powdered sugar
+n04482177	tricorn
+n01439514	carp
+n01321579	young
+n03098688	control room
+n10674713	sumo wrestler
+n10734394	twin
+n12658118	mountain ash
+n02382338	plow horse
+n02085620	Chihuahua
+n07691650	crescent roll
+n12278650	cork oak
+n01575401	red-winged blackbird
+n03721384	marimba
+n12710693	sweet orange
+n11915899	everlasting
+n03386011	fortress
+n12830222	achimenes
+n04081699	rest house
+n02619165	goby
+n04254777	sock
+n10602985	sister
+n05586759	exoskeleton
+n03849679	openwork
+n06272803	call
+n03063599	coffee mug
+n02739668	armor
+n11665372	angiosperm
+n03239726	drill
+n04313628	stele
+n02210427	andrena
+n02279257	peacock
+n12190410	kapok
+n07873807	pizza
+n01681940	horned lizard
+n04525038	velvet
+n13897996	balance
+n02027357	least sandpiper
+n01900150	hair
+n02092468	terrier
+n01527347	hedge sparrow
+n03510244	heat sink
+n04026417	purse
+n04453910	top
+n07655263	saute
+n02387346	shire
+n02802426	basketball
+n02968074	carport
+n09889941	camper
+n01874434	marsupial
+n02692232	airport
+n10049363	electrician
+n02110627	affenpinscher
+n03484931	hand glass
+n04262161	sounding board
+n01557185	thrush
+n03497657	hat
+n07601809	caramel
+n07625061	samosa
+n03063073	coffee cup
+n03438661	glass
+n07572957	canned food
+n02730930	apron
+n12455950	gloriosa
+n04100519	rodeo
+n07586894	petite marmite
+n04257790	solar array
+n04000592	press box
+n04121511	saber
+n03274265	electric toothbrush
+n02760429	automatic firearm
+n03617480	kimono
+n01544389	zebra finch
+n04172776	sentry box
+n01536186	field sparrow
+n03614782	keyhole
+n11759404	silk tree
+n10353016	neonate
+n12334293	gum tree
+n02950256	cannon
+n11862835	flame flower
+n12462805	squill
+n13221529	club moss
+n04266375	spacesuit
+n03906997	pen
+n02176261	elaterid beetle
+n01620735	king vulture
+n07804323	rice
+n02824058	beer mug
+n11712282	tulip tree
+n03469175	gun enclosure
+n07749582	lemon
+n04027023	push button
+n03019685	chin rest
+n03927539	photostat
+n09877951	buddy
+n04165409	sectional
+n03826186	Nissen hut
+n10368528	nymph
+n04046590	rail
+n02488702	colobus
+n02881757	bowler hat
+n02055803	penguin
+n10317500	military policeman
+n04033901	quill
+n02100399	setter
+n12352287	banana
+n02426813	eland
+n04492749	truss bridge
+n03050546	clothes closet
+n09215437	basin
+n13077295	mildew
+n07578093	banquet
+n03775071	mitten
+n03033986	circuit board
+n07599998	chewing gum
+n12441183	asparagus
+n11686912	sporophyte
+n12908645	cupflower
+n07820497	sage
+n02032480	great snipe
+n01813088	wood pigeon
+n07886057	home brew
+n03673027	liner
+n02800213	baseball glove
+n03498662	hatchback
+n03089879	conference room
+n11808468	carnation
+n02786058	Band Aid
+n08598301	grassland
+n12676703	trumpet honeysuckle
+n12890265	veronica
+n12992868	fungus
+n03891332	parking meter
+n02676938	acropolis
+n02077152	fur seal
+n03128248	crayon
+n02332755	field mouse
+n02564720	black bass
+n04313503	steering wheel
+n03291819	envelope
+n07612367	whip
+n01622483	great horned owl
+n02188699	dipterous insect
+n12717072	ailanthus
+n02108089	boxer
+n01540832	hawfinch
+n02137015	genet
+n04588739	window
+n09193705	alp
+n02152881	prey
+n09918248	child
+n07711569	mashed potato
+n03661340	lid
+n01769347	arachnid
+n07730406	celery
+n09607630	appointee
+n11838916	bougainvillea
+n03880531	pan
+n02096756	schnauzer
+n03455488	gravestone
+n02088094	Afghan hound
+n04589593	window frame
+n02870676	book bag
+n04074963	remote control
+n04393095	tape recorder
+n04033425	queen
+n04019101	public transport
+n02376679	filly
+n04404997	television camera
+n02049088	loon
+n12480895	sansevieria
+n11969166	Joe-Pye weed
+n03815482	neckpiece
+n03790755	motor hotel
+n02169974	Colorado potato beetle
+n02000954	wading bird
+n03196217	digital clock
+n13139055	pod
+n02731629	aqualung
+n07814487	clove
+n02783324	ballroom
+n12726670	weeping willow
+n07725376	pea
+n10187990	hotelier
+n02739889	armored car
+n01619835	Andean condor
+n01592387	tufted titmouse
+n02773037	bag
+n03873416	paddle
+n07713074	eggplant
+n03517647	hideaway
+n07753743	passion fruit
+n03173387	delicatessen
+n12587803	coconut
+n04161981	seat
+n02892201	brass
+n07697537	hotdog
+n02153203	game bird
+n05578095	heel
+n02935891	cafeteria
+n01699040	caiman
+n04324387	stockroom
+n02016066	spotted crake
+n12282737	downy birch
+n12950314	common valerian
+n04340750	strongbox
+n03709206	magnifier
+n04067658	reel
+n03532342	hook
+n12294871	great yellow gentian
+n03790230	motorboat
+n03287733	engine
+n02871147	bookmark
+n02027492	red-backed sandpiper
+n02209624	bumblebee
+n07843636	fried egg
+n04207903	shoulder pad
+n07584110	consomme
+n02080415	elephant seal
+n03915437	percussion instrument
+n03617312	kilt
+n02424085	bongo
+n03530910	hood
+n01772222	spider
+n03621049	kitchen utensil
+n04543158	wagon
+n03132776	crinoline
+n09840217	baron
+n01828556	kookaburra
+n03132076	cricket bat
+n07892512	red wine
+n07752377	dried fruit
+n12833149	African violet
+n12036939	campanula
+n03529629	homestead
+n02327028	jackrabbit
+n03332393	field artillery
+n02938886	calculator
+n11888800	damask violet
+n04024983	punt
+n03326948	felt-tip pen
+n03981566	pontoon
+n03539678	horse-trail
+n03476083	hairpiece
+n07609215	sugar candy
+n02931836	caber
+n11773987	oleander
+n13148208	Boston ivy
+n03146449	cul
+n04340935	stronghold
+n04395024	tarpaulin
+n01500091	manta
+n03075768	comforter
+n01792158	cock
+n11970586	gaillardia
+n02324045	rabbit
+n04584207	wig
+n04335435	streetcar
+n10104064	boss
+n07842202	poached egg
+n11487732	parhelion
+n03725035	mask
+n03643253	laser
+n01562014	bluebird
+n04217546	signal box
+n04505036	typewriter
+n02099997	pointer
+n04046277	raglan
+n03992703	pottery
+n10226413	juggler
+n12345899	mangrove
+n12822115	forget-me-not
+n07822197	catsup
+n02643112	scorpionfish
+n10595164	sibling
+n12545635	bird's foot trefoil
+n03690938	lotion
+n07710952	baked potato
+n04246271	smocking
+n04008634	projectile
+n03892557	parsonage
+n02732572	arabesque
+n03484083	handcart
+n06255081	vehicle
+n02839592	billiard room
+n02818832	bed
+n07583066	guacamole
+n02423589	springbok
+n01573898	bobolink
+n07612632	pudding
+n03142679	crystal
+n04582349	wicker basket
+n02808440	bathtub
+n09260907	cultivated land
+n07697825	bomber
+n01748906	hamadryad
+n02122948	kitten
+n02934451	cable car
+n15102455	chipboard
+n07879953	tempura
+n11774513	frangipani
+n07685730	rye bread
+n07763629	kiwi
+n01611969	kestrel
+n10332385	mother
+n02373336	odd-toed ungulate
+n03294048	equipment
+n02952109	canopy
+n14820180	concrete
+n02793495	barn
+n03958227	plastic bag
+n01666228	common snapping turtle
+n07747055	citrus
+n02944579	camouflage
+n03466600	guided missile frigate
+n02883205	bow tie
+n13022210	winter mushroom
+n01730960	blacksnake
+n01713764	tyrannosaur
+n07684289	nan
+n02708433	analog watch
+n01397114	alga
+n01317813	feeder
+n01982068	European spider crab
+n03577090	integrated circuit
+n10559996	schoolmaster
+n03736970	mechanical device
+n02683791	after-shave
+n03214253	ditch
+n03870290	pacemaker
+n10406266	patriarch
+n03918480	personal computer
+n02072798	white whale
+n03100240	convertible
+n02763306	auxiliary storage
+n08539072	business district
+n02741475	armrest
+n02482650	pygmy chimpanzee
+n09841696	base runner
+n03802393	muslin
+n03355925	flagpole
+n04309049	steam engine
+n01629962	spotted salamander
+n10387324	right-handed pitcher
+n03373237	fly
+n02787435	bangle
+n03619890	kitchen
+n02169497	leaf beetle
+n04234455	slat
+n07900825	port
+n12004547	stevia
+n04453037	tooth
+n07757132	cherry
+n01319467	marine animal
+n07583197	soup
+n04045644	rafter
+n02431337	hart
+n03560430	igloo
+n03223299	doormat
+n03727605	masterpiece
+n04574067	wet suit
+n04471148	transept
+n04004767	printer
+n03848348	opener
+n11757851	huisache
+n02103841	watchdog
+n02786198	bandanna
+n03169176	decolletage
+n01704323	triceratops
+n10054657	employer
+n12269241	live oak
+n03253796	duffel
+n01806297	peahen
+n11448153	dust storm
+n07928367	ginger ale
+n03995265	power cord
+n02686379	air conditioner
+n07620689	maraschino
+n12969131	earthball
+n02933462	cabinet
+n03504723	headquarters
+n01848123	teal
+n01857851	barnacle goose
+n09650729	Biloxi
+n01558307	fieldfare
+n11995092	sweet false chamomile
+n02069701	bottlenose dolphin
+n03091044	connecting rod
+n12695144	mahogany
+n02710044	andiron
+n02988156	CD drive
+n07565161	chow
+n12098403	plumbago
+n07585758	gazpacho
+n04198797	shock absorber
+n02102318	cocker spaniel
+n07736813	taro
+n04322026	stock
+n04608435	writing desk
+n12316572	sweet gum
+n11892637	stock
+n09763784	acquaintance
+n04317976	stick
+n07698543	Reuben
+n02281015	small white
+n09454412	tangle
+n03336575	filament
+n03199647	diner
+n04414675	Tesla coil
+n03531281	hood
+n03283221	emergency room
+n04252225	snowplow
+n03759954	microphone
+n04545305	walker
+n15090065	vitamin A1
+n07610620	baked Alaska
+n12801520	parnassia
+n01945685	slug
+n01698434	alligator
+n03301568	euphonium
+n04533802	videocassette recorder
+n03291741	envelope
+n09718936	Korean
+n04065789	recycling bin
+n01915700	sea pen
+n12144580	corn
+n10195593	hypocrite
+n04356925	sun parlor
+n02975212	case
+n04028315	puzzle
+n01592694	blue tit
+n04586581	winder
+n03105467	corbel
+n07763987	mangosteen
+n04297098	stagecoach
+n03427296	gate
+n03781787	monitor
+n10259780	lieutenant colonel
+n09873899	breeder
+n03676623	liqueur glass
+n10060352	entrepreneur
+n15019030	sand
+n03186818	dial
+n04525191	velveteen
+n01887896	calf
+n03099274	convenience store
+n13043926	puffball
+n03239054	dress suit
+n03718789	mansard
+n09289331	glacier
+n06596364	comic book
+n04605163	worsted
+n04402057	telephone line
+n01795545	black grouse
+n09189157	aerie
+n02950632	cannon
+n03598930	jigsaw puzzle
+n07682316	dark bread
+n04070727	refrigerator
+n03048883	closed circuit
+n01518878	ostrich
+n04405907	television receiver
+n02981024	catacomb
+n04518132	vacuum flask
+n02882647	bowling pin
+n07617708	plum pudding
+n07623136	pastry
+n03691817	lounge
+n03211117	display
+n12190869	durian
+n01594372	swallow
+n02823335	beer barrel
+n12001707	cineraria
+n03316105	facsimile
+n11953610	chicory
+n07722052	tabasco
+n03359436	flash memory
+n11814584	soapwort
+n04557648	water bottle
+n04080138	resonator
+n02094433	Yorkshire terrier
+n03047052	clock tower
+n03020692	chisel
+n04338517	stringed instrument
+n03822656	newsstand
+n02052775	frigate bird
+n12604228	sour dock
+n03718212	man-of-war
+n04325704	stole
+n04122578	sabot
+n10791221	workman
+n03187268	dialog box
+n09403734	range
+n02192513	flesh fly
+n03688943	lookout
+n07906572	blended whiskey
+n04246855	smoker
+n03188531	diaper
+n03449309	gouge
+n02023992	killdeer
+n03886053	panzer
+n07871436	meatball
+n03547054	hovel
+n02359324	prairie dog
+n01792640	hen
+n07714802	red cabbage
+n02950943	cannonball
+n02822220	bedspread
+n09722658	Mexican
+n02538216	brook trout
+n02851939	blindfold
+n03345487	fire engine
+n04496872	tumbler
+n07713895	cabbage
+n03173929	delivery truck
+n07922764	cocoa
+n04004475	printer
+n02644113	rockfish
+n07584332	bisque
+n02885108	boxcar
+n07715561	squash
+n02366959	coypu
+n12306717	jasmine
+n01881171	phalanger
+n07908411	absinth
+n02548247	goosefish
+n03544238	hour hand
+n13183056	hart's-tongue
+n02099029	retriever
+n02970408	carryall
+n10607478	skinhead
+n03915900	perforation
+n13134947	fruit
+n01859190	mute swan
+n02761557	automobile engine
+n03696065	luggage compartment
+n07916041	martini
+n03207743	dishrag
+n02785648	bandage
+n01887474	livestock
+n01682435	basilisk
+n01456756	seahorse
+n07749446	kumquat
+n12305986	mountain ash
+n12791329	mock orange
+n04513827	upholstery
+n12476510	agave
+n07581346	appetizer
+n01568294	American redstart
+n02365480	capybara
+n01775062	wolf spider
+n03521544	hip boot
+n03841666	office
+n02814533	beach wagon
+n07575726	dinner
+n02082791	aardvark
+n04068441	refinery
+n03612010	ketch
+n01326291	microorganism
+n02839351	billiard ball
+n03898633	patchwork
+n02122725	tom
+n03469903	gunnysack
+n10627252	soul mate
+n04594828	wire cutter
+n04506289	uke
+n04465666	tractor
+n02108551	Tibetan mastiff
+n03904183	pedestrian crossing
+n03982430	pool table
+n12790430	deutzia
+n02125311	cougar
+n06266633	Fleet Street
+n02375302	roan
+n01537544	indigo bunting
+n01747885	cobra
+n10763383	waiter
+n10376523	oldster
+n03095699	container ship
+n03877472	pajama
+n10143172	grandparent
+n03587205	irrigation ditch
+n02677718	action
+n04469003	tramline
+n10320863	minister
+n12189987	baobab
+n01857079	snow goose
+n11876634	cauliflower
+n03884926	pantheon
+n02367492	chinchilla
+n01602832	red-eyed vireo
+n04204347	shopping cart
+n07612137	pavlova
+n01693783	chameleon
+n03791235	motor vehicle
+n02841315	binoculars
+n02922292	burial mound
+n02123597	Siamese cat
+n09362945	mull
+n12782530	sundew
+n02416104	aoudad
+n03924679	photocopier
+n04153025	screen door
+n03792048	mound
+n03113152	cosmetic
+n11866248	spiderflower
+n01614343	golden eagle
+n11901977	oriental poppy
+n01852142	wood duck
+n03647520	launcher
+n07590320	goulash
+n04350458	suede cloth
+n01477525	lamprey
+n07716358	zucchini
+n01580077	jay
+n10116702	futurist
+n02649546	flathead
+n11545714	fern
+n03506370	health spa
+n03073977	column
+n01814217	mourning dove
+n04459610	toweling
+n03101517	cookie cutter
+n02504013	Indian elephant
+n03574816	instrument
+n03116530	counter
+n07705931	edible fruit
+n10672371	Sufi
+n12622875	agrimonia
+n03536122	horizontal stabilizer
+n02307325	tent caterpillar
+n12620546	hip
+n03179701	desk
+n04422727	thermos
+n11544015	hepatica
+n02316707	echinoderm
+n03680355	Loafer
+n09505153	spiritual leader
+n02081571	walrus
+n02087046	toy terrier
+n15075141	toilet tissue
+n01841679	wryneck
+n09934774	coiffeur
+n02813645	bazaar
+n07869775	kabob
+n02377703	saddle horse
+n01591123	red-breasted nuthatch
+n02382437	pony
+n02933112	cabinet
+n10208950	inspector general
+n10682953	sweetheart
+n07619004	custard
+n06277135	radio
+n02113335	poodle
+n10085869	fiance
+n02667379	abbey
+n12719944	garden nasturtium
+n13136556	nut
+n03967562	plow
+n11901759	Iceland poppy
+n03062122	cocktail lounge
+n02086753	King Charles spaniel
+n03903868	pedestal
+n10465451	premature baby
+n03795976	movie projector
+n14976759	pantile
+n07751148	nectarine
+n02843158	birdbath
+n03595860	jet
+n07907429	rye
+n04409806	tennis racket
+n02906734	broom
+n01848648	widgeon
+n01847806	mallard
+n11644046	western red cedar
+n04402449	telephone pole
+n02097047	miniature schnauzer
+n13135832	seed
+n04372370	switch
+n12252168	shortia
+n03372549	flute
+n07687381	baguet
+n02681392	adobe
+n01604330	bird of prey
+n12293723	gentian
+n07830593	hot sauce
+n07819769	nasturtium
+n07560903	diet
+n03785016	moped
+n07903643	Calvados
+n02870880	bookcase
+n03324928	fatigues
+n04528968	vernier caliper
+n07880080	teriyaki
+n03626760	knocker
+n07879174	sukiyaki
+n12574866	gorse
+n03454707	grate
+n11916696	yarrow
+n03320421	fan blade
+n04222210	single bed
+n07923748	juice
+n02312427	pupa
+n01791625	chicken
+n12171316	common mallow
+n10296176	marshal
+n09843443	bat boy
+n12400720	jackfruit
+n03770954	mink
+n03441112	glove
+n09191635	air bubble
+n07893528	sparkling wine
+n04123740	saddle
+n03444034	go-kart
+n03631922	lacquerware
+n10082043	father-in-law
+n09622302	lover
+n04565375	weapon
+n04417809	theater
+n14698884	gravel
+n01792042	chick
+n01548492	Arkansas kingbird
+n09873348	brawler
+n02075927	pinniped mammal
+n12260799	beech
+n04610676	yard
+n12056217	lady's slipper
+n01809106	guinea fowl
+n03206718	disguise
+n01339083	herpes simplex 1
+n02108672	bulldog
+n02132136	brown bear
+n07841800	Easter egg
+n02018368	Old World coot
+n04225031	sitz bath
+n12710295	tangerine
+n10303814	mayor
+n02499316	potto
+n10142747	grandma
+n01806567	quail
+n09770179	adjutant
+n07834507	mayonnaise
+n10422405	philatelist
+n01850192	bufflehead
+n03529175	home room
+n02802215	basket
+n02578771	amberjack
+n02395406	hog
+n03861271	outrigger
+n03795758	movement
+n01619536	condor
+n12291959	prairie gentian
+n03662719	life buoy
+n02396427	wild boar
+n03797390	mug
+n01985128	crayfish
+n12727101	pussy willow
+n02208280	honeybee
+n07774842	pine nut
+n13154494	frond
+n02077923	sea lion
+n01438581	loach
+n01623706	scops owl
+n01856155	gander
+n12822955	common comfrey
+n07772788	hazelnut
+n07726796	common bean
+n10467395	President of the United States
+n03158186	dacha
+n02226429	grasshopper
+n07743544	blueberry
+n03349771	first base
+n02734725	architecture
+n02504458	African elephant
+n03887697	paper towel
+n01857632	honker
+n12607456	pineapple
+n04593866	wiper
+n01504179	fledgling
+n09683757	Buddhist
+n03114379	cosy
+n02134084	ice bear
+n11715430	water nymph
+n02797692	base
+n01605630	hawk
+n07824702	paprika
+n04559451	water faucet
+n02788021	banner
+n03884778	pantheon
+n02078574	California sea lion
+n04597913	wooden spoon
+n12244153	rhododendron
+n04228054	ski
+n07823698	cranberry sauce
+n10578471	senator
+n04263502	soupspoon
+n02676566	acoustic guitar
+n04459362	towel
+n03614007	keyboard
+n02932693	cabin class
+n02754656	atrium
+n04037220	rabbit hutch
+n01609062	swallow-tailed kite
+n02815834	beaker
+n10613996	smasher
+n07560652	fare
+n03498781	hatchback
+n03447447	gondola
+n03320959	fanlight
+n07925966	fruit drink
+n03160740	damask
+n12102133	grass
+n04590021	window seat
+n10091564	fire-eater
+n02016816	moorhen
+n08571898	flea market
+n03993180	pouch
+n03568117	indicator
+n04238617	slide projector
+n01560419	bulbul
+n07719213	asparagus
+n04461879	toy
+n04496614	tulle
+n02233338	cockroach
+n04355267	sun deck
+n03724870	mask
+n04080833	respirator
+n01960459	oyster
+n04380346	table knife
+n03506727	hearing aid
+n12387839	violet
+n03309808	fabric
+n12570394	Japanese pagoda tree
+n03359137	flashlight
+n12093329	cyclamen
+n07847198	cream
+n04584373	wigwam
+n01323599	thoroughbred
+n04205318	short pants
+n03620967	kitchen table
+n07680932	bun
+n03250847	drumstick
+n02331046	rat
+n07905979	tequila
+n02799071	baseball
+n04546340	Walkman
+n09199101	anthill
+n02177972	weevil
+n07651025	puree
+n09915434	Cheops
+n09941964	commanding officer
+n02995345	central processing unit
+n07871810	meat loaf
+n10508710	reader
+n10665698	student
+n03733281	maze
+n12095020	loosestrife
+n12427566	tiger lily
+n03475823	hairdressing
+n03480719	halter
+n04133789	sandal
+n12485653	butterfly bush
+n11972759	cudweed
+n03200701	dining room
+n10753442	villager
+n02667478	abbey
+n07928887	root beer
+n02527271	moray
+n03026907	chronograph
+n02008041	heron
+n02073250	sea cow
+n09453008	tableland
+n03814906	necklace
+n03325941	fedora
+n01872401	echidna
+n12300840	olive tree
+n07712382	snack food
+n01796340	ptarmigan
+n03176386	denture
+n03657511	leotard
+n07769584	quince
+n07712559	chip
+n04590553	windshield
+n07588947	stew
+n01841288	yellow-bellied sapsucker
+n01606522	goshawk
+n02409508	Cape buffalo
+n04447276	toilet powder
+n02732072	aquarium
+n11599324	welwitschia
+n13100677	vine
+n10267311	little brother
+n10055410	enchantress
+n10261624	light heavyweight
+n07901457	muscat
+n11704093	true laurel
+n02427724	waterbuck
+n13108841	conifer
+n04191943	shelter
+n04212165	shuttle bus
+n03220237	dolmen
+n03663531	life preserver
+n09620794	native
+n02977330	cashmere
+n07736692	spinach
+n02963159	cardigan
+n10465831	presbyter
+n03727837	mat
+n01947396	whelk
+n02835915	bicycle seat
+n03528901	home plate
+n12732491	black poplar
+n07608429	nougat bar
+n07817871	fennel
+n12709103	pomelo
+n04579986	white
+n04536866	violin
+n07687626	Italian bread
+n03772584	minute hand
+n10243137	lady
+n01884834	Tasmanian devil
+n11968704	Joe-Pye weed
+n12974987	slime mold
+n02821627	bedroom
+n04381994	tableware
+n03483230	handbell
+n09381242	outcrop
+n10093818	fishmonger
+n03735637	measuring stick
+n04168840	seismograph
+n02780815	ballet skirt
+n01879509	tree wallaby
+n01909906	polyp
+n09720256	Latin American
+n04241249	slip-on
+n02710324	anechoic chamber
+n07694659	shortcake
+n10522035	representative
+n04376876	syringe
+n07883031	filling
+n10178216	hitter
+n01587526	catbird
+n04171629	semiautomatic pistol
+n09789566	amputee
+n03452449	granary
+n07731284	chicory
+n01829869	hoopoe
+n04225987	skateboard
+n12858871	bee balm
+n07588193	won ton
+n06272290	telephone
+n03429288	gauge
+n01531512	siskin
+n04239436	sling
+n02667576	abbey
+n04008385	production line
+n09409752	ridge
+n02083346	canine
+n09416076	rock
+n03122295	covered wagon
+n02803349	bass
+n02790823	barbed wire
+n04269944	spatula
+n03202354	dinner table
+n04304680	starting gate
+n01851731	lesser scaup
+n04508163	undergarment
+n02276749	white admiral
+n03751757	metal detector
+n03548533	hulk
+n10748620	very important person
+n03256928	dungeon
+n03147509	cup
+n02563792	bluegill
+n02703275	ammunition
+n04093625	rink
+n07928790	Pepsi
+n04310018	steam locomotive
+n03236423	dredger
+n03801533	music hall
+n12301180	olive
+n07733394	gumbo
+n03040376	clean room
+n03457902	greenhouse
+n07591049	Irish stew
+n01818832	kea
+n07614730	ice-cream cone
+n02728440	apparel
+n02006364	sacred ibis
+n09689435	Afghan
+n07573347	Spam
+n03656484	lens
+n03488188	handsaw
+n01819734	cockateel
+n02406174	dairy cattle
+n02423022	gazelle
+n12927013	cassava
+n02666943	abattoir
+n04202417	shop
+n07906284	whiskey
+n04137444	satellite
+n02115641	dingo
+n01536035	chipping sparrow
+n01559804	wood thrush
+n02034661	stilt
+n03086580	concert hall
+n01641391	leopard frog
+n10487182	pruner
+n11727091	columbine
+n03696568	lugsail
+n03670208	limousine
+n02430045	deer
+n07575984	supper
+n03067339	cold cream
+n07600285	bubble gum
+n11756092	acacia
+n02898585	bridal gown
+n02302620	silkworm
+n10618342	soccer player
+n03502200	headboard
+n04247736	snack bar
+n01972541	cuttlefish
+n02419796	antelope
+n03496892	harvester
+n02058594	wandering albatross
+n07806221	salad
+n12749679	wahoo
+n03794798	mouthpiece
+n03326795	felt
+n04349401	subwoofer
+n02944459	camouflage
+n03728437	match
+n09923673	citizen
+n03180969	detector
+n12610328	water hyacinth
+n07687469	French bread
+n04264914	spacecraft
+n12867826	skullcap
+n07895435	claret
+n11753355	red clover
+n02200198	mosquito
+n03088580	condominium
+n02090622	borzoi
+n04184880	sharkskin
+n03541269	hospital ship
+n09270735	dune
+n02310585	cabbageworm
+n08583292	hemline
+n12712626	fraxinella
+n02071294	killer whale
+n09861946	boatman
+n03209910	diskette
+n12889713	common mullein
+n02047045	pigeon guillemot
+n02107683	Bernese mountain dog
+n02726681	apartment building
+n11621950	balsam fir
+n09303008	hill
+n04556533	watch case
+n09972010	cousin
+n07607967	cough drop
+n02762508	autostrada
+n07750449	citron
+n04039381	racket
+n04453666	top
+n07605040	cotton candy
+n01741943	boa
+n02686568	aircraft
+n03843438	oilcloth
+n04562935	water tower
+n07903731	Armagnac
+n12997654	basidiomycete
+n03475581	hairbrush
+n09792555	ancestor
+n08640531	resort
+n03494706	harness
+n02387093	Percheron
+n03123809	cowbarn
+n10804287	young buck
+n02056570	king penguin
+n03249342	drugstore
+n03332005	fiberscope
+n02161457	pollinator
+n07906877	corn whiskey
+n03390983	frame
+n03745571	menhir
+n02377388	gelding
+n04613939	Zamboni
+n03888257	parachute
+n12115180	pampas grass
+n04402984	telephone wire
+n02272871	earwig
+n02494079	squirrel monkey
+n02607072	anemone fish
+n03773504	missile
+n03937835	pillbox
+n02809241	batiste
+n12711984	lime
+n07615460	strawberry ice cream
+n03200357	dining car
+n03822171	newspaper
+n02407276	Galloway
+n07643306	jelly
+n02603317	barracuda
+n13103877	snag
+n04147183	schooner
+n03643737	laser printer
+n02813399	bay window
+n01538630	snow bunting
+n10241300	laborer
+n01608814	black kite
+n02918112	bullring
+n07616386	parfait
+n02760199	automat
+n12515711	chickpea
+n12801781	bog star
+n04378956	tabi
+n09779790	agriculturist
+n09974648	craftsman
+n12037691	Canterbury bell
+n04399537	tee
+n04011827	propeller
+n03424325	gasmask
+n04383839	taffeta
+n01621635	owlet
+n03078287	communication system
+n04265904	space rocket
+n02578928	yellowtail
+n11552386	spermatophyte
+n12179122	cotton rose
+n04277493	spindle
+n03149686	curbstone
+n04052442	ranch
+n03928814	piano keyboard
+n01614925	bald eagle
+n04236377	sleeve
+n07685399	Irish soda bread
+n04069434	reflex camera
+n07929172	tonic
+n02118333	fox
+n03989898	posthouse
+n12050533	cattleya
+n01539573	sparrow
+n02364673	guinea pig
+n13003522	blushing mushroom
+n01849863	ruddy duck
+n12345280	pomegranate
+n02410509	bison
+n03760671	microscope
+n02076196	seal
+n12480456	tuberose
+n11870747	alyssum
+n03075370	combination lock
+n10563403	scrambler
+n07749192	navel orange
+n03337140	file
+n02954163	canvas tent
+n07694839	hardtack
+n09846755	beekeeper
+n10137825	gondolier
+n03457686	greengrocery
+n03041810	clerestory
+n03257586	duplicator
+n04516116	urn
+n02047260	murre
+n03935335	piggy bank
+n04091693	rigging
+n04569822	wedge
+n03438071	girdle
+n11620673	fir
+n03738472	mechanism
+n03552749	hydrofoil
+n04411264	tent
+n01820052	lovebird
+n04332243	strainer
+n03819595	net
+n15102894	knothole
+n12641413	cherry
+n02060411	shearwater
+n02979399	cassette tape
+n12566331	red sandalwood
+n04294879	stable
+n03719343	mantel
+n02005399	shoebill
+n08573842	garbage heap
+n03965456	plaza
+n04051825	rampart
+n02068974	dolphin
+n04179913	sewing machine
+n12651229	Pyracantha
+n12483427	Adam's needle
+n10112129	monk
+n03080497	compass
+n07723177	shallot
+n07905038	rum
+n03388183	fountain pen
+n09805324	archer
+n03801353	music box
+n02153109	big game
+n01582398	European magpie
+n07725531	green pea
+n09705124	Ethiopian
+n07823460	salsa
+n04592005	wine cask
+n02804123	bass guitar
+n02376791	colt
+n02927161	butcher shop
+n02005790	ibis
+n02139671	fruit bat
+n10157128	halfback
+n04038440	rack
+n04551055	warehouse
+n03546340	housing
+n01872772	echidna
+n07841495	boiled egg
+n09988063	dad
+n04187547	shed
+n09890749	candidate
+n12860365	basil
+n03241335	drinking fountain
+n02085936	Maltese dog
+n04487394	trombone
+n01586374	cactus wren
+n01596273	bank martin
+n02346627	porcupine
+n11928352	artemisia
+n04467307	trailer
+n03709823	mailbag
+n03782006	monitor
+n12373100	papaya
+n10345015	nan
+n07590502	hotchpotch
+n13108481	sapling
+n09815790	assistant
+n03359566	flask
+n02871963	boomerang
+n04335693	street clothes
+n09712696	Malay
+n10087434	fighter pilot
+n04196502	shipping
+n01797601	sage grouse
+n09361517	mountainside
+n07743902	cranberry
+n03296328	escarpment
+n04530283	vertical tail
+n03914106	peplum
+n01953762	tiger cowrie
+n04447028	toilet bowl
+n07921455	cider
+n09432283	shell
+n02687172	aircraft carrier
+n04105893	room
+n04452757	toolshed
+n03482405	hamper
+n04209239	shower curtain
+n07585208	broth
+n11971927	Barberton daisy
+n03423306	gas gun
+n03743279	megaphone
+n02512938	food fish
+n07572353	commissariat
+n01322343	pup
+n07880213	terrine
+n04179824	sewing kit
+n03694639	LP
+n02678897	adapter
+n07690739	popover
+n07614825	chocolate ice cream
+n01883070	wombat
+n09964202	copilot
+n02120079	Arctic fox
+n03014705	chest
+n02955065	cap
+n03065424	coil
+n07718747	artichoke
+n04128837	sailing vessel
+n02433546	roe deer
+n02993368	censer
+n01519563	cassowary
+n02897820	brick
+n01922303	worm
+n02687821	airdock
+n03662601	lifeboat
+n02902079	brim
+n03201638	dinner dress
+n03580518	internal drive
+n01843383	toucan
+n02812201	battleship
+n02517442	catfish
+n03665366	light
+n12708293	orange
+n02012849	crane
+n03745146	menagerie
+n07765999	jujube
+n03896233	passenger train
+n10192839	hunk
+n04435653	tile roof
+n11853356	Christmas cactus
+n12384839	love-in-a-mist
+n01497118	sawfish
+n12479537	dracaena
+n01608432	kite
+n02114712	red wolf
+n07904934	ouzo
+n02387722	post horse
+n04598582	woodwind
+n02894605	breakwater
+n01585121	marsh wren
+n01821203	parakeet
+n02100877	Irish setter
+n02793089	baritone
+n09242389	chasm
+n10470779	priest
+n04358874	superstructure
+n09428628	seaside
+n04154152	screw
+n02977058	cash machine
+n02698634	alpenstock
+n02815950	beam
+n07696977	open-face sandwich
+n04030518	quad
+n07866277	rissole
+n11950345	chrysanthemum
+n02099712	Labrador retriever
+n02727016	aperture
+n10282482	maid
+n02073831	manatee
+n02988679	CD-ROM
+n10467179	president
+n02268443	dragonfly
+n12768682	buckeye
+n03424630	gasoline engine
+n03037709	clarinet
+n04596852	woman's clothing
+n09624168	male
+n02393580	tapir
+n02251775	plant louse
+n03556992	icebreaker
+n03974070	pogo stick
+n01570839	common yellowthroat
+n04606574	wrench
+n03409297	gabardine
+n07576182	buffet
+n02024763	lapwing
+n04089836	riding crop
+n03038870	clavichord
+n07823105	chutney
+n04589190	window blind
+n11784497	jack-in-the-pulpit
+n10117851	gal
+n03653583	lectern
+n03679712	living room
+n03028596	church bell
+n12501202	tamarind
+n04235860	sleeping bag
+n04249415	snare drum
+n04201733	shooting brake
+n01519873	emu
+n02840619	binding
+n07722217	onion
+n13133932	spadix
+n01981276	king crab
+n09393605	plain
+n02097130	giant schnauzer
+n02879309	boutique
+n03010473	chassis
+n02029378	sanderling
+n04561422	water mill
+n12465557	squaw grass
+n03241093	drill rig
+n07615774	ice lolly
+n03138669	crown
+n04018399	public house
+n03911658	penknife
+n09398677	precipice
+n02173373	Japanese beetle
+n09774783	advocate
+n03487090	handlebar
+n02069412	common dolphin
+n07715103	cauliflower
+n11857875	rose moss
+n03303831	exhibition hall
+n03667829	light microscope
+n02168699	long-horned beetle
+n03026506	Christmas stocking
+n03824381	nightgown
+n01549641	western wood pewee
+n13102775	tendril
+n11901294	Iceland poppy
+n14844693	soil
+n03505133	headrest
+n02880189	bow
+n02374451	horse
+n09629752	traveler
+n02089232	dachshund
+n02900160	bridle
+n10513823	redhead
+n12249542	cowberry
+n03955296	plane
+n09734450	Tibetan
+n03612965	kettle
+n02761392	automaton
+n04365328	surveillance system
+n07928696	Coca Cola
+n01494475	hammerhead
+n04450133	Tommy gun
+n03367059	floor lamp
+n06874185	traffic light
+n07919441	Irish coffee
+n07822845	chili sauce
+n04556948	watchtower
+n07733567	kohlrabi
+n07849733	whey
+n04314914	step
+n02860415	bobbin
+n02032222	whole snipe
+n03273061	electric motor
+n07566340	foodstuff
+n02919414	bundle
+n03376595	folding chair
+n11924849	great burdock
+n11772408	periwinkle
+n07614198	ice
+n01514752	gamecock
+n03859958	outfit
+n04605321	worsted
+n02777927	balcony
+n12828791	Japanese morning glory
+n02428349	oryx
+n02103406	working dog
+n04275175	spice rack
+n07561590	dietary
+n10655594	steward
+n01560105	nightingale
+n03456665	greatcoat
+n02849885	blast furnace
+n07690585	Yorkshire pudding
+n03371875	flush toilet
+n02729965	appliance
+n02791124	barber chair
+n13002750	royal agaric
+n04238128	slide
+n03372029	flute
+n07804657	white rice
+n02828884	bench
+n03213826	distributor point
+n01601694	water ouzel
+n03743902	memorial
+n04317833	stick
+n12719684	nasturtium
+n10263411	lineman
+n02758863	autobahn
+n09376526	ocean floor
+n03011741	checkout
+n02792552	barge
+n02062744	whale
+n10185793	horseman
+n03703730	macrame
+n04596742	wok
+n03334912	fifth wheel
+n07838073	gravy
+n13131618	petiole
+n04259630	sombrero
+n02047975	Atlantic puffin
+n04335886	streetlight
+n04566756	weathercock
+n02048115	horned puffin
+n03179910	desk phone
+n04328186	stopwatch
+n02137549	mongoose
+n02433925	caribou
+n04466871	trail bike
+n09283405	foothill
+n11785668	caladium
+n13163991	branchlet
+n02887970	bracelet
+n01515303	bird of passage
+n02209354	carpenter bee
+n11924445	burdock
+n01562265	robin
+n04517823	vacuum
+n12483625	bear grass
+n03055418	clutch bag
+n07919572	cafe au lait
+n11754893	mimosa
+n01529672	finch
+n10387196	right fielder
+n02470325	ape
+n07766173	litchi
+n01664674	Pacific ridley
+n03320519	fancy dress
+n04146614	school bus
+n12655869	raspberry
+n07611267	flan
+n07841639	hard-boiled egg
+n04474035	transporter
+n03516844	Hessian boot
+n01806847	California quail
+n09896685	carpenter
+n02496913	lemur
+n07611358	frozen dessert
+n03196062	digital camera
+n02080146	harp seal
+n04392526	tape deck
+n07924834	orange juice
+n10145590	great grandmother
+n10098710	foe
+n01521756	rhea
+n03221720	door
+n11680596	pollen tube
+n07889274	malt
+n07816052	sassafras
+n02524202	pollack
+n07682808	garlic bread
+n12939282	common fennel
+n07746186	persimmon
+n01541102	pine grosbeak
+n07936745	mineral water
+n02068541	bottle-nosed whale
+n01957335	soft-shell clam
+n04136510	sash
+n04484432	triode
+n09457979	tidal basin
+n02532602	sardine
+n09475925	waterside
+n07842433	deviled egg
+n03549589	hurdle
+n07881800	beverage
+n07863374	pasta
+n03742019	medicine ball
+n02096177	cairn
+n02565573	bass
+n09230041	burrow
+n02105855	Shetland sheepdog
+n07818995	marjoram
+n07801508	oil cake
+n04096848	roadblock
+n10787470	woman
+n12338796	mountain ash
+n11883328	wallflower
+n02043063	tern
+n01592257	black-capped chickadee
+n03497352	hasp
+n04244379	sluice
+n02377181	stallion
+n07587700	clam chowder
+n02422106	hartebeest
+n15089258	vitamin
+n10652605	state treasurer
+n07903208	brandy
+n13125117	root
+n07860805	batter
+n09294877	grotto
+n02570838	surfperch
+n02007558	flamingo
+n02027897	greenshank
+n11727358	meeting house
+n07721018	green pepper
+n11892029	Malcolm stock
+n09415584	riverbank
+n03502509	headdress
+n04060647	receiver
+n10077593	fan
+n03525074	hoist
+n07867324	fish and chips
+n02011805	American bittern
+n03409393	gable
+n07933154	tea bag
+n09415671	riverbed
+n04160586	seaplane
+n12450344	dogtooth violet
+n01609956	marsh harrier
+n12596709	royal palm
+n02407959	Old World buffalo
+n09472597	volcano
+n09331251	lakefront
+n03343853	firearm
+n03973945	pod
+n07907943	liqueur
+n03461385	grocery store
+n09610405	commoner
+n01339336	herpes zoster
+n03644378	lasso
+n07746334	acerola
+n02226970	locust
+n12173664	hollyhock
+n09916348	chief executive officer
+n10529231	rich person
+n01663401	sea turtle
+n12560282	pea
+n12924623	castor-oil plant
+n09835506	ballplayer
+n02880393	bow and arrow
+n07605380	fondant
+n01537895	ortolan
+n03863108	overall
+n02736798	argyle
+n02127292	common lynx
+n07841345	egg yolk
+n02847631	black tie
+n03314780	face powder
+n04613696	yurt
+n03817191	negative
+n10568358	second cousin
+n02402010	bovine
+n04386792	talcum
+n03713436	majolica
+n02127678	caracal
+n00007846	person
+n03928116	piano
+n01936391	polychaete
+n04453390	toothpick
+n03469493	gunlock
+n04102618	roller skate
+n03594734	jean
+n04220250	silo
+n04309348	steamer
+n02266050	dobson
+n07764847	avocado
+n07765208	elderberry
+n10036929	drummer
+n03555426	hypermarket
+n07732636	popcorn
+n07248320	book jacket
+n03607659	Kalashnikov
+n12939874	cow parsnip
+n12849416	henbit
+n10450303	politician
+n02381261	dun
+n04574999	wheel
+n04247630	smooth plane
+n12259316	pinesap
+n04357121	sunroof
+n03417042	garbage truck
+n04486054	triumphal arch
+n09929298	climber
+n02129463	lioness
+n07809096	ingredient
+n02281787	lycaenid
+n03660124	Levi's
+n02978055	casket
+n07869391	hash
+n03896103	passenger ship
+n02757462	audio system
+n07722485	green onion
+n02708711	analyzer
+n10078806	farmer
+n12201580	cacao
+n02256656	cicada
+n10624074	son
+n03884397	panpipe
+n01852671	muscovy duck
+n07579688	piece de resistance
+n04166281	sedan
+n03636649	lamp
+n03847823	open-air market
+n13130726	scape
+n04111668	rotor
+n11711537	star magnolia
+n04199027	shoe
+n03325584	feather boa
+n02934168	cable
+n03187037	dial
+n07936548	soda water
+n04517408	vacation home
+n02035210	black-winged stilt
+n04508949	underwear
+n04350905	suit
+n02500267	indri
+n09259219	crater
+n01558765	ring ouzel
+n07802026	hay
+n03490884	hanger
+n03016868	chiffon
+n10053808	employee
+n04303497	stapler
+n10015485	director
+n15092227	vitamin D
+n09443281	spoor
+n07844867	soya milk
+n03877845	palace
+n02854926	blouse
+n03676759	liquid crystal display
+n02062430	cetacean
+n01796729	moorhen
+n04279462	spinning wheel
+n03459775	grille
+n02631475	black marlin
+n02949542	canister
+n04020298	pulley
+n02226183	orthopterous insect
+n04190052	shelf
+n02997391	ceramic
+n03431745	gearing
+n07829412	sauce
+n02629230	bonito
+n03779128	mohair
+n12530818	woodwaxen
+n07731952	corn
+n12849279	white dead nettle
+n03411079	gaiter
+n02083672	bitch
+n12166128	bottle gourd
+n13220122	scouring rush
+n12953484	royal fern
+n03902482	peach orchard
+n02411999	ewe
+n07743224	bilberry
+n03428090	gatehouse
+n01852400	mandarin duck
+n02769290	backhoe
+n04476259	tray
+n02954938	cap
+n03207835	dishtowel
+n02811468	battle-ax
+n07581775	cocktail
+n07875152	potpie
+n01569423	myrtle warbler
+n01860187	black swan
+n02086079	Pekinese
+n03721047	marble
+n07930433	pina colada
+n03393912	freight car
+n02618827	dragonet
+n07890068	pale ale
+n10300154	mate
+n12568186	black locust
+n07557434	dish
+n02109961	Eskimo dog
+n03643149	laryngoscope
+n04285146	sports equipment
+n07608098	marshmallow
+n02930766	cab
+n03344642	firebrick
+n02043333	sea swallow
+n03039827	cleaners
+n04533700	videocassette
+n03358172	flash
+n03644858	latch
+n02761206	automation
+n03387653	foundry
+n07273802	cairn
+n03085219	computer monitor
+n02860847	bobsled
+n02988304	CD player
+n01620414	black vulture
+n02826886	bell tower
+n12062468	helleborine
+n06267991	yellow journalism
+n03856012	orphanage
+n02133161	American black bear
+n10207169	in-law
+n03838899	oboe
+n07720875	bell pepper
+n03028079	church
+n03309465	eyepiece
+n02422699	impala
+n02117135	hyena
+n04234887	slate roof
+n02786837	bandsaw
+n13084184	succulent
+n07569644	whole wheat flour
+n03624134	knife
+n04340521	stroboscope
+n04608329	writing desk
+n03470629	gun trigger
+n02873839	booth
+n11959632	artichoke
+n02913152	building
+n01603953	Bohemian waxwing
+n04531098	vessel
+n02754103	atomizer
+n07886849	beer
+n09632518	worker
+n04258138	solar dish
+n07723039	leek
+n12059314	dendrobium
+n09445289	steppe
+n03400231	frying pan
+n04576211	wheeled vehicle
+n12629666	loquat
+n03934656	pieta
+n02381460	wild horse
+n03327234	fence
+n03864692	overhead projector
+n04074185	reliquary
+n02123045	tabby
+n04425804	third base
+n03793489	mouse
+n02212062	wasp
+n07812184	spice
+n02871314	bookmobile
+n01458842	embryo
+n03805725	nail polish
+n03415486	gangplank
+n02312640	chrysalis
+n01732614	corn snake
+n10477713	probationer
+n02912557	buggy
+n07815424	nutmeg
+n02657694	flounder
+n09792969	anchor
+n02537525	rainbow trout
+n07774719	pecan
+n04153751	screw
+n02831724	berth
+n03145147	cuckoo clock
+n03273551	electric organ
+n03346455	fireplace
+n09208496	asterism
+n07693048	cinnamon roll
+n03976467	Polaroid camera
+n03712337	mainsail
+n09871229	cub
+n02207805	worker bee
+n02980036	caster
+n07576781	barbecue
+n10146416	Green Beret
+n04150980	scraper
+n03410938	gaiter
+n13194572	lady fern
+n07907161	Irish
+n02300797	silkworm
+n11815491	silene
+n10282672	maid
+n04273569	speedboat
+n07886463	aperitif
+n03078995	compact
+n03158885	dagger
+n02813544	bazaar
+n02429456	pronghorn
+n04602762	workroom
+n02002724	black stork
+n01616318	vulture
+n12997919	mushroom
+n03715669	mallet
+n07842753	omelet
+n04479046	trench coat
+n02733524	arch
+n01917289	brain coral
+n02534734	salmon
+n07772935	coconut
+n02760658	automatic pistol
+n04041544	radio
+n03592245	jail
+n04051549	ramp
+n09269472	downhill
+n09259025	crag
+n03033362	circuit
+n06267145	newspaper
+n11623967	deodar
+n02481823	chimpanzee
+n03445326	gold plate
+n03996849	power steering
+n11542137	sphagnum
+n02489166	proboscis monkey
+n03489162	hand tool
+n03683079	lock
+n03528100	home
+n03109881	corner
+n04414199	terrarium
+n12281241	birch
+n04406239	television room
+n03473227	gyroscope
+n07755929	cantaloup
+n04037443	racer
+n10633450	spectator
+n04125021	safe
+n01555004	pitta
+n03037404	clapperboard
+n03378765	football
+n12717224	tree of heaven
+n01584853	house wren
+n03786715	mortar
+n04538552	vise
+n07827410	sesame seed
+n03300443	ethernet cable
+n03061211	cockhorse
+n03253886	duffel bag
+n07908647	anisette
+n12806732	plane tree
+n11895092	radish
+n03443149	goalpost
+n03054901	clutch
+n02583890	tetra
+n03045337	cloak
+n04186455	shawl
+n04224842	sitar
+n02101108	spaniel
+n07750146	pomelo
+n03604156	jukebox
+n12814643	catalpa
+n02704949	amphitheater
+n03864356	overhang
+n03384352	forklift
+n02755823	attic
+n09626238	peer
+n12931906	angelica
+n09903153	celebrity
+n12086539	vanilla
+n02813752	bazooka
+n09928136	cleric
+n03436417	gift shop
+n09893191	captain
+n02421449	gnu
+n04128499	sailboat
+n02109047	Great Dane
+n02132580	grizzly
+n03758089	mezzanine
+n12879527	calceolaria
+n03704549	magazine rack
+n03430551	gear
+n04382880	tachometer
+n11853813	night-blooming cereus
+n03977966	police van
+n02764044	ax
+n03929660	pick
+n09930257	closer
+n01623615	screech owl
+n04038727	rack
+n01533339	canary
+n04506506	ultracentrifuge
+n02093647	Bedlington terrier
+n03777754	modem
+n03978966	polo shirt
+n02963302	card index
+n04208210	shovel
+n03394480	freight train
+n12582665	sago palm
+n03351434	fishing gear
+n12611640	naiad
+n02114100	wolf
+n12049562	calypso
+n13133613	ear
+n04138261	satin
+n07857170	miso
+n03550153	hut
+n01792955	brood hen
+n03927299	Photostat
+n02933340	cabinet
+n03079741	compartment
+n07807922	fruit salad
+n01606809	Cooper's hawk
+n09676884	Slav
+n03594945	jeep
+n01677747	marine iguana
+n10229883	keyboardist
+n07839312	pepper sauce
+n04587559	windmill
+n02752615	athletic supporter
+n02946270	camp chair
+n02821202	bedpan
+n01530439	chaffinch
+n01498041	stingray
+n12785889	stonecrop
+n04587648	window
+n07725789	snow pea
+n03640988	lantern
+n04096066	road
+n01613294	eagle
+n03424489	gas meter
+n07865484	chow mein
+n02948557	candlestick
+n07930864	cup
+n02106166	Border collie
+n07643981	gelatin
+n02808304	bath towel
+n02317335	starfish
+n03894379	partition
+n01785667	house centipede
+n09359803	mountain
+n12546183	lupine
+n03850245	operating room
+n02960903	carafe
+n03859170	outboard motorboat
+n03495039	harness
+n01627424	amphibian
+n03606251	junk shop
+n04540053	volleyball
+n02391049	zebra
+n12198286	Chinese parasol tree
+n04520382	van
+n03177165	depilatory
+n03043958	clip
+n03015254	chest of drawers
+n07935379	oolong
+n04461437	town hall
+n12662772	coffee
+n01667778	terrapin
+n10486166	protegee
+n03098959	control tower
+n10249459	lawman
+n11709205	star anise
+n02313008	queen
+n02699629	altar
+n02493509	titi
+n04232800	skylight
+n03277771	electronic device
+n07936263	drinking water
+n12805146	currant
+n03904909	peeler
+n07816164	basil
+n02919648	bung
+n12862512	plectranthus
+n03438257	glass
+n02526121	eel
+n03719053	mansion
+n09858165	black belt
+n03566193	incinerator
+n03610682	kepi
+n02776205	bait
+n03467984	gun
+n07929351	coffee bean
+n03948459	pistol
+n11674332	inflorescence
+n01322221	baby
+n02699494	altar
+n04214282	sidecar
+n10076604	falconer
+n02013177	whooping crane
+n02413593	Hampshire
+n04571292	weight
+n01664065	loggerhead
+n03404149	fur
+n03946162	pipefitting
+n02416880	billy
+n01821869	budgerigar
+n04131690	saltshaker
+n13232779	honey mushroom
+n10155849	hairdresser
+n02887489	brace
+n03446070	golf club
+n07907548	Scotch
+n11989393	edelweiss
+n04524313	vehicle
+n07642933	jam
+n03205574	dirndl
+n03343560	fire
+n07687211	white bread
+n03909160	pendulum
+n03045228	clipper
+n03835197	nude
+n02355227	squirrel
+n03267696	elastic
+n09620078	inhabitant
+n01581984	Clark's nutcracker
+n03581125	intersection
+n01533000	purple finch
+n01839086	green woodpecker
+n12449296	camas
+n02432983	elk
+n12902662	night jasmine
+n12116429	orchard grass
+n00005787	benthos
+n04250850	snorkel
+n04124202	saddle blanket
+n02424305	kudu
+n02977936	casino
+n04018667	public toilet
+n03770679	minivan
+n09246464	cliff
+n07760859	custard apple
+n04264628	space bar
+n03094159	contact
+n03206282	disco
+n03068998	collar
+n07615671	vanilla ice cream
+n01591301	white-breasted nuthatch
+n01579410	rook
+n04206225	shot glass
+n01572489	Baltimore oriole
+n09942970	commissioned officer
+n11820965	fig marigold
+n07586604	pea soup
+n01854415	merganser
+n03811295	nautilus
+n03201208	dining table
+n03100346	convertible
+n10092794	first lady
+n04123567	sacking
+n07929519	coffee
+n09433839	shoreline
+n03610524	kennel
+n07611839	mousse
+n02123478	Angora
+n03306385	express
+n02050004	grebe
+n02824448	bell
+n07697313	cheeseburger
+n03113657	costume
+n04257986	solar cell
+n12743352	longan
+n01338685	herpes
+n09403211	radiator
+n10002760	demonstrator
+n12709901	mandarin
+n00021265	food
+n03376159	fold
+n04554406	washboard
+n02742753	arrow
+n03084420	computer circuit
+n04555291	washroom
+n03908204	pencil
+n03157348	cymbal
+n03584254	iPod
+n03757604	metronome
+n03779370	mold
+n04477219	treadmill
+n03329663	ferry
+n07739506	eating apple
+n03908618	pencil box
+n10500217	queen
+n04052757	random-access memory
+n03563967	implement
+n02390015	jennet
+n04239074	sliding door
+n03602883	joystick
+n03062015	cocktail dress
+n01727646	colubrid snake
+n07606669	jelly bean
+n10340312	musician
+n07932841	tea
+n07690019	frankfurter bun
+n04114844	router
+n09767197	actor
+n12658308	rowan
+n03128519	cream
+n03558176	ice rink
+n03281145	elevator
+n02402425	cattle
+n02108915	French bulldog
+n10375314	old lady
+n09874725	bride
+n12088223	yam
+n12086012	vanda
+n02030035	ruff
+n04258438	solar house
+n04502670	tweeter
+n02115096	jackal
+n09437454	slope
+n07561112	diet
+n04269822	spat
+n03511175	hedge
+n04508489	underpants
+n03273913	electric refrigerator
+n12709688	grapefruit
+n03092166	conservatory
+n03302938	exhaust
+n04181228	shackle
+n14915184	ice
+n02404186	beef
+n01662622	chelonian
+n04270891	spear
+n04270371	speakerphone
+n12020507	marigold
+n03437741	gingham
+n03442756	goal
+n03355768	flagon
+n04277826	spin dryer
+n02379329	Morgan
+n03119396	coupe
+n00015388	animal
+n10645017	staff sergeant
+n04460130	tower
+n02086240	Shih-Tzu
+n04451818	tool
+n03055857	coach house
+n07682477	English muffin
+n04539794	voile
+n07903962	grappa
+n12328398	loosestrife
+n10092488	first baseman
+n03154073	cutter
+n07696839	club sandwich
+n07937461	couscous
+n02837789	bikini
+n07745940	strawberry
+n10419785	Peter Pan
+n04504141	two-piece
+n03336282	figure skate
+n09606527	anomaly
+n07924033	fruit juice
+n11758799	coralwood
+n02709637	anchor chain
+n03753077	meter
+n02508213	common raccoon
+n10159533	hang glider
+n02740300	armored personnel carrier
+n03927091	photomicrograph
+n03668488	lightship
+n07755707	muskmelon
+n09468604	valley
+n07753275	pineapple
+n02806088	bastion
+n04073948	religious residence
+n10120330	garbage man
+n11690455	petal
+n03254862	dulcimer
+n10679174	surgeon
+n03992325	potpourri
+n03948242	piste
+n09641002	white man
+n03272562	electric locomotive
+n04019541	puck
+n02869837	bonnet
+n07596684	sweet
+n03385557	fortification
+n02568959	grouper
+n12461466	scilla
+n02620578	archerfish
+n12806015	gooseberry
+n07754451	breadfruit
+n04275548	spider web
+n09913593	cheerleader
+n10299250	master of ceremonies
+n01567879	Wilson's warbler
+n02757061	audio CD
+n11966083	daisy fleabane
+n03775388	mixer
+n12761284	mango
+n03110669	cornet
+n03029197	church tower
+n04232153	skullcap
+n03356858	flange
+n03697007	lumbermill
+n02382204	hack
+n01603600	waxwing
+n01942869	abalone
+n01968897	chambered nautilus
+n01632601	tiger salamander
+n03113835	costume
+n04295081	stable gear
+n09239302	cavern
+n02767433	back
+n03208556	disk
+n02843276	birdcage
+n03057021	coat
+n03513137	helmet
+n01674990	gecko
+n03414162	game equipment
+n12947313	common white dogwood
+n09636339	Black
+n03919289	pestle
+n10247358	lass
+n09274152	escarpment
+n04264765	space capsule
+n03259505	dwelling
+n03032252	cinema
+n03934042	pier
+n02041875	black-backed gull
+n07886572	brew
+n04528079	verdigris
+n09991867	darling
+n03272010	electric guitar
+n10082687	featherweight
+n04161358	seat
+n12606545	spiderwort
+n02191773	blowfly
+n01443537	goldfish
+n03679384	living quarters
+n01991028	woodlouse
+n03262932	easy chair
+n02871005	bookend
+n03532672	hook
+n07844042	milk
+n02656670	ocean sunfish
+n07823951	curry
+n12767648	varnish tree
+n04256520	sofa
+n02942699	camera
+n03555564	hypodermic needle
+n04523525	vault
+n02291748	clothes moth
+n09366317	natural elevation
+n02445715	skunk
+n02787622	banjo
+n09428293	seashore
+n02669723	academic gown
+n02099849	Chesapeake Bay retriever
+n03412058	gallery
+n04290615	sputnik
+n03085013	computer keyboard
+n01943087	ormer
+n01944390	snail
+n04509260	uneven parallel bars
+n03938244	pillow
+n03325088	faucet
+n02852360	blister pack
+n07592481	beef stew
+n04591517	wind turbine
+n04028581	pylon
+n01640846	true frog
+n09932508	coal miner
+n02079851	harbor seal
+n03078802	commuter
+n10167152	heavyweight
+n02958343	car
+n02872529	booster
+n02683323	afghan
+n09894143	cardinal
+n02869249	bones
+n04489817	trowel
+n09743792	Minnesotan
+n04160847	searchlight
+n03096960	control
+n03577672	interceptor
+n02112826	corgi
+n11825351	cockscomb
+n04497570	tunic
+n08596076	littoral
+n04465501	tractor
+n03435593	geodesic dome
+n01906749	sponge
+n03148727	cupola
+n04520170	van
+n02747802	ashtray
+n03425769	gas ring
+n10223177	jockey
+n02169023	sawyer
+n10260706	life
+n12142085	wheat
+n10004718	department head
+n01924916	flatworm
+n04336792	stretcher
+n02790996	barbell
+n10279018	machinist
+n02174001	rhinoceros beetle
+n07867164	falafel
+n03916031	perfume
+n10300303	mate
+n03733805	measuring cup
+n05450617	histiocyte
+n04256891	softball
+n04374735	synagogue
+n01532511	pine siskin
+n11786539	taro
+n04559730	water gauge
+n09818022	astronaut
+n04053508	rangefinder
+n11621547	European silver fir
+n07755089	cocoa
+n04593077	wing chair
+n03732020	Mauser
+n04067818	refectory
+n10780284	widow
+n02110063	malamute
+n02758134	auditorium
+n02126640	margay
+n02976939	cashbox
+n03859495	outerwear
+n02140049	flying fox
+n04501550	turntable
+n04385799	tail rotor
+n02984061	cathedral
+n04349306	subway train
+n12493208	carob
+n04413969	terraced house
+n02066245	grey whale
+n04573281	welt
+n09450163	sun
+n07609632	truffle
+n01589286	creeper
+n03365991	floor
+n03120778	court
+n03565830	in-basket
+n01532829	house finch
+n11628793	green douglas fir
+n03224603	dormer
+n02593019	snapper
+n11672400	wildflower
+n09800964	appointee
+n02333909	black rat
+n11508382	snow
+n07727048	kidney bean
+n03984234	porcelain
+n10091651	fireman
+n04592099	wineglass
+n02104523	shepherd dog
+n03599486	jinrikisha
+n01970667	paper nautilus
+n07883251	potion
+n09229709	bubble
+n04330267	stove
+n01730812	racer
+n10696508	technician
+n07827284	saffron
+n02689144	airframe
+n02112137	chow
+n02640242	sturgeon
+n04068601	reflecting telescope
+n02738031	armament
+n02588286	grunt
+n07744682	red currant
+n03703862	madras
+n10575463	seeded player
+n07844604	milk
+n04446276	toilet
+n10570019	secretary
+n12157769	gourd
+n12858150	monarda
+n04575824	wheel and axle
+n01848555	garganey
+n01613615	young bird
+n07747607	orange
+n03899768	patio
+n01616764	Old World vulture
+n04379243	table
+n07754684	jackfruit
+n02900705	briefcase
+n01464844	yolk
+n07587023	potage
+n03482252	hammock
+n03251766	dryer
+n04374315	sword cane
+n04467665	trailer truck
+n02124623	wildcat
+n04237423	slicer
+n03767745	minaret
+n09836519	matador
+n11943660	common marigold
+n03631177	lace
+n03891051	parka
+n12020736	African marigold
+n02892948	brass knucks
+n10017272	disk jockey
+n03262072	earplug
+n10091450	fire-eater
+n12648045	peach
+n12827537	moonflower
+n02759387	autogiro
+n03685307	lodge
+n03001627	chair
+n07768694	pomegranate
+n01534582	dark-eyed junco
+n02962200	carburetor
+n04598965	woof
+n09416890	roof
+n03133050	crochet needle
+n04479823	trestle
+n02213107	hornet
+n03086670	concertina
+n04457767	torque converter
+n09872066	bragger
+n03945615	pipe
+n03417749	garden
+n04587404	windmill
+n01619310	buzzard
+n02129604	tiger
+n03557590	ice machine
+n02139199	bat
+n09287968	geological formation
+n02580679	horse mackerel
+n13040303	stinkhorn
+n01775370	European wolf spider
+n04471632	transistor
+n03479397	hall of residence
+n12171966	okra
+n10631309	Speaker
+n10732010	trumpeter
+n13044778	earthstar
+n01743086	anaconda
+n12023726	tansy
+n04042358	radiogram
+n02849154	blanket
+n02403231	bullock
+n01963571	mussel
+n02891188	brake system
+n07814634	cumin
+n02835271	bicycle-built-for-two
+n07686873	toast
+n03976657	pole
+n02442845	mink
+n01592084	chickadee
+n04532670	viaduct
+n11876432	brussels sprout
+n04465358	traction engine
+n13055577	Boletus edulis
+n10512372	recruit
+n04261767	sounder
+n10707233	therapist
+n04001265	pressure cooker
+n04525305	vending machine
+n11855274	pokeweed
+n03721590	marina
+n03770439	miniskirt
+n07698250	gyro
+n03563460	impeller
+n12279458	black oak
+n01570267	ovenbird
+n01407798	green algae
+n02376918	male horse
+n02437136	camel
+n03519081	highlighter
+n09406793	reef
+n09917593	child
+n02127052	lynx
+n01443831	crucian carp
+n03666591	lighter
+n04539203	vivarium
+n07617188	pudding
+n02672371	accommodation
+n03004824	chancel
+n07612996	pudding
+n10225219	judge
+n02959942	car
+n03118969	country house
+n03401279	fuel injection
+n04110178	rose window
+n04058239	read-only memory
+n12168565	lobelia
+n12877244	snapdragon
+n04371563	swimsuit
+n02437616	llama
+n03649909	lawn mower
+n03958752	plastic wrap
+n03541696	hostel
+n02280649	cabbage butterfly
+n04583620	widebody aircraft
+n07575076	lunch
+n07599911	peanut brittle
+n04081844	restraint
+n04108268	rope
+n02931417	cabaret
+n01538059	reed bunting
+n13110915	nut tree
+n03454885	grater
+n04067472	reel
+n03070193	collider
+n03363749	flintlock
+n10421016	Pharaoh
+n03404360	fur hat
+n03221059	domino
+n02978881	cassette
+n04599235	wool
+n03079136	compact
+n07861158	bread dough
+n02804610	bassoon
+n01629276	salamander
+n03247083	dropper
+n03146777	culotte
+n04548362	wallet
+n03800933	musical instrument
+n04115256	row house
+n11792341	spathiphyllum
+n11887119	wallflower
+n01527194	accentor
+n11876803	broccoli
+n07819166	mint
+n11931540	common mugwort
+n07744811	blackberry
+n07840804	egg
+n02512053	fish
+n04347519	submachine gun
+n03089624	confectionery
+n01968315	cephalopod
+n02896442	breeches
+n02093428	American Staffordshire terrier
+n04318787	stile
+n03434188	generator
+n02935658	cafe
+n12915140	lantana
+n10324560	model
+n01579028	crow
+n03957420	plaster
+n07856270	spread
+n01838598	woodpecker
+n04095342	rivet
+n10360747	noncommissioned officer
+n07816296	bay leaf
+n04350581	sugar bowl
+n11892181	Virginian stock
+n04568841	webbing
+n03268790	electric
+n07920349	cappuccino
+n07680517	breadstick
+n09288635	geyser
+n12400489	breadfruit
+n12904314	henbane
+n02112706	Brabancon griffon
+n02332156	house mouse
+n03099945	converter
+n03908714	pencil sharpener
+n02810471	battery
+n13003254	death cap
+n04184316	shantung
+n12711596	lemon
+n04452615	toolbox
+n01581166	Canada jay
+n07719839	beet
+n07690511	corn muffin
+n04450749	tongs
+n01521399	rhea
+n01844917	aquatic bird
+n01568892	yellow warbler
+n05259914	pigtail
+n03593526	jar
+n01469103	sea squirt
+n02863750	boiler
+n01491361	tiger shark
+n04363991	surgery
+n04000311	press
+n02130308	cheetah
+n01623880	spotted owl
+n02121620	cat
+n02023341	plover
+n02795169	barrel
+n08518171	campsite
+n02946824	camshaft
+n03602081	jolly boat
+n03967942	plug
+n03917198	peristyle
+n03238131	dressing room
+n01674464	lizard
+n07891726	wine
+n01322604	puppy
+n12121610	fescue
+n03254189	dugout
+n11634736	incense cedar
+n02878222	bottom
+n03742115	medicine chest
+n11844892	night-blooming cereus
+n03877351	paisley
+n01624833	long-eared owl
+n02490219	marmoset
+n04141076	sax
+n04103206	rolling pin
+n03051540	clothing
+n04397768	teakettle
+n03278248	electronic equipment
+n03650551	layette
+n03115400	cotton flannel
+n01873310	platypus
+n01886756	placental
+n12284262	alder
+n09828216	baby
+n03645011	latch
+n02326432	hare
+n02004492	policeman bird
+n11934807	Michaelmas daisy
+n01449374	mosquitofish
+n04188179	sheet
+n04515003	upright
+n03565288	imprint
+n12360108	begonia
+n01776313	tick
+n11810358	baby's breath
+n02619550	mudskipper
+n02710201	android
+n03822504	newsroom
+n02278210	fritillary
+n02088364	beagle
+n04143897	scarf
+n03941684	pincer
+n02921884	burial chamber
+n04243546	slot
+n03032811	circle
+n02905036	broiler
+n03689157	loom
+n04026813	push-bike
+n10200781	important person
+n03168217	deck chair
+n01955084	chiton
+n04299370	stall
+n09399592	promontory
+n10432441	pilgrim
+n03085915	computer system
+n03619650	kit
+n03236735	dress
+n03518943	highlighter
+n03007130	chapel
+n02775483	bagpipe
+n09820263	athlete
+n04132985	samovar
+n01444339	electric eel
+n11690254	hypanthium
+n03035252	circus tent
+n01558149	song thrush
+n03254374	dugout canoe
+n02309337	caterpillar
+n03467517	guitar
+n02274822	nymphalid
+n04482297	tricot
+n02480855	gorilla
+n10405694	patient
+n02947818	candelabrum
+n04436329	timber
+n12766869	poison ivy
+n02763604	aviary
+n03049782	closeup lens
+n04450640	toner
+n03924069	phonograph record
+n11753700	white clover
+n07859284	sugar
+n04591887	wine bucket
+n03237992	dressing gown
+n10560106	schoolmate
+n03449451	gourd
+n03874293	paddlewheel
+n03322836	farmhouse
+n02848216	blade
+n01611800	gyrfalcon
+n02923129	burner
+n07935504	water
+n04247440	smoking room
+n07691091	drop scone
+n07642742	apple butter
+n02932019	cabin
+n02107312	miniature pinscher
+n07762244	papaya
+n10722575	trainer
+n12245319	azalea
+n02896294	breechcloth
+n12865824	common sage
+n01853498	scoter
+n12840749	bugle
+n10098245	flutist
+n04554211	washboard
+n03880323	pan
+n04561287	water meter
+n03584829	iron
+n03344393	fireboat
+n04475411	trapeze
+n07713763	mustard
+n03261776	earphone
+n07570720	nutriment
+n04009552	projector
+n04001499	pressure gauge
+n04037964	racing boat
+n09905185	certified public accountant
+n09889065	call girl
+n01616086	osprey
+n07902121	neutral spirits
+n02911332	buffer
+n10070711	exhibitionist
+n03491032	hang glider
+n02850732	blender
+n03036022	city hall
+n01855032	red-breasted merganser
+n03186285	dhow
+n03050864	clothes hamper
+n10737103	understudy
+n03066359	coil spring
+n02445394	sea otter
+n12336224	red gum
+n09398076	pothole
+n02944075	camisole
+n03974915	point-and-shoot camera
+n04502197	turtleneck
+n09713108	Netherlander
+n03507963	heat engine
+n03094503	container
+n07680761	brown bread
+n04605726	wrapping
+n01574045	New World blackbird
+n03595523	jersey
+n09830194	back
+n03208938	disk brake
+n04527648	veranda
+n03895866	passenger car
+n01835276	goatsucker
+n04145863	Schmidt telescope
+n04138977	saucepan
+n01944812	edible snail
+n04266162	space station
+n04130143	salad bar
+n03766935	millstone
+n09920283	choreographer
+n03145522	cue
+n04125853	safety belt
+n09809925	arranger
+n02152740	predator
+n12128071	dallisgrass
+n04238321	slide fastener
+n03125729	cradle
+n02434954	muntjac
+n01622779	great grey owl
+n12427184	tiger lily
+n03282401	embellishment
+n04127904	sail
+n02095727	Welsh terrier
+n03695857	Luger
+n04375405	synchronous converter
+n03112869	corset
+n07587441	chowder
+n10740868	upstart
+n03528523	home computer
+n03075634	combine
+n02922578	burqa
+n08659861	oilfield
+n03333129	field glass
+n03376279	folder
+n04305572	stateroom
+n03225988	double bed
+n04568557	web
+n02895438	breathalyzer
+n04200800	shoe shop
+n02580830	horse mackerel
+n03454211	grapnel
+n02692877	airship
+n10205457	infielder
+n04329477	storeroom
+n12050959	helleborine
+n04265275	space heater
+n01527917	skylark
+n03986704	portico
+n11625003	Norway spruce
+n04405762	television monitor
+n01389507	protozoan
+n05453657	neutrophil
+n03202940	diode
+n02694045	aisle
+n13111881	bonsai
+n02419336	chamois
+n01578180	hill myna
+n02760855	automatic rifle
+n02229544	cricket
+n13108545	shade tree
+n07879450	sushi
+n03790512	motorcycle
+n04139395	sauna
+n02470238	simian
+n03625646	knitting needle
+n03664943	ligament
+n07690152	hamburger bun
+n11955896	mistflower
+n04511002	university
+n01910747	jellyfish
+n03162460	darkroom
+n03097362	control center
+n02361587	groundhog
+n02128757	snow leopard
+n03574555	institution
+n07814390	stick cinnamon
+n03863923	overgarment
+n02444819	otter
+n02769748	backpack
+n04603399	workstation
+n02099601	golden retriever
+n12811027	moss pink
+n09971273	countrywoman
+n02146371	brown bat
+n02753394	atomic clock
+n10189278	house physician
+n03766322	millinery
+n03652729	lean-to
+n04288533	spring balance
+n07821260	sweet woodruff
+n04061793	reception room
+n02330245	mouse
+n07694516	buttermilk biscuit
+n07711080	french fries
+n11921395	pearly everlasting
+n04355511	sundress
+n02801525	basin
+n01314388	pest
+n09934337	cog
+n04238763	slide rule
+n14974264	paper
+n01424420	plasmodium
+n03226880	double door
+n07802417	grain
+n03384891	formalwear
+n03064935	cog
+n12753573	red maple
+n04389033	tank
+n02961544	car bomb
+n07917392	sidecar
+n07819896	parsley
+n03855214	organza
+n03041632	cleaver
+n01663782	green turtle
+n03423719	gasket
+n03612814	kettle
+n02510455	giant panda
+n07831146	carbonara
+n01846331	duck
+n02128385	leopard
+n12580654	Japanese wistaria
+n03434285	generator
+n12618727	eelgrass
+n08633683	waterfront
+n02360282	chipmunk
+n11703669	laurel
+n04440963	tire chain
+n03484487	hand cream
+n02752496	athletic sock
+n04607869	wristwatch
+n11981192	strawflower
+n04128710	sailcloth
+n10034201	drinker
+n03071021	cologne
+n07857356	wasabi
+n03000684	chain saw
+n01610552	harrier eagle
+n03956157	planetarium
+n12027222	salsify
+n04243941	slot machine
+n04194289	ship
+n04216634	sieve
+n10348526	Navy SEAL
+n09251407	comet
+n02992211	cello
+n02085374	toy dog
+n03726760	mast
+n07707451	vegetable
+n07843464	souffle
+n04192698	shield
+n03013580	chemise
+n11614250	yellow pine
+n03426134	gas tank
+n03980874	poncho
+n01395254	ciliate
+n02782093	balloon
+n03410740	gag
+n02831595	Bermuda shorts
+n07898117	Saint Emilion
+n02441942	weasel
+n03548626	hull
+n04609651	X-ray machine
+n07769731	rambutan
+n12887293	balloon flower
+n01641739	green frog
+n01856553	greylag
+n03020416	chip
+n02763901	awning
+n07681691	cinnamon bread
+n09718217	Japanese
+n07876651	Scotch egg
+n04022332	pump
+n04312432	steeple
+n04518343	vacuum gauge
+n03474779	hacksaw
+n03802007	musket
+n03662887	life jacket
+n11839568	four o'clock
+n04397452	teacup
+n02128925	jaguar
+n02598878	white croaker
+n07858978	honey
+n03180504	destroyer
+n03417345	garden
+n03919430	pestle
+n02472293	homo
+n02803934	bass fiddle
+n03578055	intercommunication system
+n02106854	police dog
+n02569484	hind
+n03691459	loudspeaker
+n02380583	mustang
+n03865371	overnighter
+n02939866	caliper
+n02164464	beetle
+n03916720	peripheral
+n07577374	bite
+n02509197	kinkajou
+n07724269	crisphead lettuce
+n03503997	headlight
+n02129165	lion
+n02768114	backboard
+n03289985	ensemble
+n07732168	sweet corn
+n07933274	tea
+n01632777	axolotl
+n03590306	jacket
+n04021798	pump
+n03159640	dais
+n07575510	tea
+n07860331	grenadine
+n00006484	cell
+n07895237	Bordeaux
+n09933098	cobbler
+n03683995	locket
+n03199901	dinghy
+n07725255	lentil
+n01959029	razor clam
+n01603812	cedar waxwing
+n04230603	ski pole
+n11752578	clover
+n04146050	school
+n12164363	sweet melon
+n04403413	telephoto lens
+n02058221	albatross
+n12336092	red gum
+n10671613	successor
+n01592540	Carolina chickadee
+n03156279	cylinder
+n02110958	pug
+n04326547	stone wall
+n03950228	pitcher
+n03169063	decoder
+n02817799	beating-reed instrument
+n10151760	guitarist
+n04309833	steam iron
+n03761084	microwave
+n12129738	reed canary grass
+n10148035	groom
+n12401684	fig
+n07912211	highball
+n01528396	wagtail
+n07852229	Stilton
+n02782681	ballot box
+n03509394	heat lamp
+n03423568	gas holder
+n12796022	bergenia
+n09842528	bass
+n03487444	hand lotion
+n02715513	anteroom
+n03370387	fluorescent lamp
+n03743016	megalith
+n04402580	telephone receiver
+n03382292	forecourt
+n02883344	box
+n02961451	carbine
+n02961035	caravansary
+n03381126	footwear
+n11618861	larch
+n03699591	machete
+n03017168	chime
+n03439814	glider
+n03718458	manor
+n10521662	reporter
+n02533209	pilchard
+n04552348	warplane
+n03413684	gambrel
+n04127521	safety razor
+n12713063	kumquat
+n07878145	beef Stroganoff
+n03804744	nail
+n10267865	little sister
+n13052670	hen-of-the-woods
+n04227144	sketch
+n03789946	motor
+n03494537	harmonium
+n02090475	wolfhound
+n03218198	dogsled
+n04435180	tile
+n03914438	pepper shaker
+n04419642	theremin
+n07868200	French toast
+n02065407	lesser rorqual
+n03748162	mercantile establishment
+n07593199	smorgasbord
+n03450516	gown
+n03429914	gauze
+n03349892	first class
+n04105068	roof
+n04185804	shaver
+n02211444	leaf-cutting bee
+n02105641	Old English sheepdog
+n03865949	overshoe
+n01491006	blue shark
+n09873473	breadwinner
+n04020912	Pullman
+n07748912	sweet orange
+n03127925	crate
+n04282494	splint
+n03329302	Ferris wheel
+n02050442	red-necked grebe
+n03585073	iron
+n02133704	Asiatic black bear
+n09946814	compere
+n02123394	Persian cat
+n01661091	reptile
+n13136316	bean
+n03223686	doorsill
+n03868242	oxcart
+n03201776	dinner jacket
+n03303217	exhaust fan
+n02363005	beaver
+n02279972	monarch
+n07764630	tamarind
+n04563413	waterwheel
+n02311060	larva
+n03920288	Petri dish
+n03431243	gear
+n04061969	recess
+n12124627	rye grass
+n09308743	icecap
+n07860447	maple syrup
+n03996145	power saw
+n02601344	mullet
+n03453443	grape arbor
+n12640839	Japanese apricot
+n04254680	soccer ball
+n07895595	Chianti
+n02910145	bucket seat
+n04152593	screen
+n12399132	mulberry
+n01667114	mud turtle
+n02555863	perch
+n01950731	sea slug
+n03792782	mountain bike
+n04171208	semaphore
+n03092656	console
+n02843684	birdhouse
+n07714990	broccoli
+n03309110	eyeliner
+n04140631	sawhorse
+n03836906	nylon
+n07893642	champagne
+n03876231	paintbrush
+n03590588	jack-in-the-box
+n04040247	radial
+n07875436	risotto
+n02807133	bathing cap
+n04255899	sod house
+n07894298	Medoc
+n03240892	drill press
+n14696793	rock
+n04483307	trimaran
+n02470899	anthropoid ape
+n02054036	cormorant
+n03787032	mortarboard
+n12912670	salpiglossis
+n07751451	plum
+n03361550	flats
+n04200000	shoe
+n09811852	artilleryman
+n02076779	eared seal
+n01599556	loggerhead shrike
+n03642444	lapel
+n09855433	biographer
+n03238586	dressing table
+n04585980	Winchester
+n01959492	giant clam
+n12593994	date palm
+n03165466	day nursery
+n03684823	locomotive
+n04015908	protractor
+n02861886	body
+n02321170	feather star
+n02203152	midge
+n02755529	attack submarine
+n02974697	case
+n03039015	clavier
+n12074408	oncidium
+n07930062	fruit punch
+n02397529	peccary
+n04045255	radome
+n03521076	hinge
+n02404573	Brahman
+n03460297	grindstone
+n03733925	measuring instrument
+n03150511	curling iron
+n03126707	crane
+n07911677	cocktail
+n10321340	minor leaguer
+n04347754	submarine
+n03676483	lipstick
+n07713267	pieplant
+n12560621	garden pea
+n10763620	waitress
+n03180384	dessert spoon
+n04052658	ranch house
+n03947798	pique
+n03502331	head covering
+n07597365	candy
+n02163297	collembolan
+n04212282	shuttlecock
+n02016358	gallinule
+n04116098	rubber band
+n03589513	jack
+n03996416	power shovel
+n10689306	tailback
+n02738535	armchair
+n04122492	sable coat
+n03957315	planter
+n04072551	rein
+n02410702	American bison
+n03135532	cross
+n12759273	cashew
+n04535524	villa
+n02298541	hawkmoth
+n02973017	cartridge holder
+n12164656	cantaloupe
+n02590702	sea bream
+n04477548	treasure chest
+n02487347	macaque
+n04389521	tank car
+n02823428	beer bottle
+n10019406	diver
+n12256112	wintergreen
+n10542761	runner
+n10386984	outfielder
+n03427202	gat
+n12953206	flowering fern
+n12494794	royal poinciana
+n07611991	mousse
+n12337617	blue gum
+n02776825	balaclava
+n03442597	gnomon
+n12484784	water shamrock
+n03825080	nightwear
+n02276355	red admiral
+n01812662	rock dove
+n03543735	hot-water bottle
+n07775050	pistachio
+n02809105	batik
+n04039742	racquetball
+n07914995	gimlet
+n03605598	jump suit
+n10548537	salesman
+n03003091	chalk
+n07765073	date
+n03100490	conveyance
+n07748753	bitter orange
+n07822323	cardamom
+n06272612	voice mail
+n01504344	nestling
+n04113194	roulette
+n11902200	corn poppy
+n04141327	scabbard
+n01982650	lobster
+n02399000	ruminant
+n04142731	scanner
+n01662784	turtle
+n03956922	plant
+n03557692	ice maker
+n02760099	automat
+n02156871	quadruped
+n04489695	trousseau
+n04191595	shelter
+n04285008	sports car
+n07814203	cinnamon
+n07887967	light beer
+n02984203	cathedral
+n04474187	transport ship
+n10427764	physical therapist
+n04345028	study
+n02006656	spoonbill
+n03609397	kazoo
+n03605915	junction
+n03394916	French horn
+n03196598	digital display
+n03541091	hospital room
+n02106030	collie
+n11918286	ageratum
+n04281260	spittoon
+n10092978	first lieutenant
+n04350769	sugar spoon
+n13144084	hazel
+n01742172	boa constrictor
+n03049924	cloth cap
+n04592741	wing
+n03938522	pillow lace
+n13237188	wax plant
+n02901377	brig
+n12159055	summer squash
+n11992806	African daisy
+n03356982	flannel
+n03874599	padlock
+n01484850	great white shark
+n04004990	printer cable
+n07930315	mimosa
+n01530575	brambling
+n03121298	courthouse
+n03709363	magnum
+n01946630	nerita
+n02112018	Pomeranian
+n12638753	Allegheny plum
+n07896287	dessert wine
+n03261603	earmuff
+n01990800	isopod
+n10502329	rabbi
+n09927451	clergyman
+n03549732	hurricane deck
+n02777100	balance
+n03445617	golf bag
+n12932966	cow parsley
+n12310349	lilac
+n02475669	Homo sapiens sapiens
+n03275681	electrolytic
+n03407865	fusee drive
+n03222176	door
+n02624167	mackerel
+n10560637	scientist
+n02927887	butterfly valve
+n04337287	stretch pants
+n11697560	barberry
+n02584449	piranha
+n04442312	toaster
+n12946849	dogwood
+n01392380	ameba
+n03416640	garage
+n03296081	escapement
+n04119751	rundle
+n11875938	head cabbage
+n04215402	sidewalk
+n07866723	egg roll
+n02682922	aerosol
+n03701391	machine gun
+n07854184	mozzarella
+n03724066	mascara
+n10630188	speaker
+n10308732	mender
+n07906718	bourbon
+n03904433	pedicab
+n02431122	red deer
+n04086273	revolver
+n02443346	ferret
+n04595028	wireless local area network
+n03992509	potter's wheel
+n10761190	voyager
+n02319095	sea urchin
+n02089555	foxhound
+n02117900	spotted hyena
+n07714571	head cabbage
+n03708036	magnetic tape
+n03661043	library
+n03250089	drum brake
+n12327022	water milfoil
+n02940385	call center
+n07591961	paella
+n03571625	ink bottle
+n12714755	prickly ash
+n02481366	mountain gorilla
+n03542333	hotel
+n04049303	rain barrel
+n12065316	fringed orchis
+n02979836	cast
+n01756291	sidewinder
+n04103364	rolling stock
+n03464053	G-string
+n03858183	otoscope
+n07826930	Chinese anise
+n12794985	astilbe
+n03492922	hard hat
+n03383099	foresail
+n07748416	tangerine
+n02046939	black guillemot
+n04485082	tripod
+n03165096	daybed
+n06276697	broadcasting
+n04004210	printed circuit
+n15093298	vitamin C
+n03831382	noseband
+n01740551	blind snake
+n01318381	head
+n11857696	portulaca
+n04097373	roadster
+n04550184	wardrobe
+n03973839	pocket watch
+n12460697	grape hyacinth
+n04167346	seeder
+n02679257	adding machine
+n03681477	local area network
+n04049405	raincoat
+n10366966	nurse
+n02844307	bit
+n12836337	baby blue-eyes
+n04175574	service club
+n04450994	tongue
+n04401088	telephone
+n02282257	blue
+n02474777	Homo sapiens
+n02252226	aphid
+n03785237	moquette
+n09256479	coral reef
+n10259997	lieutenant commander
+n01953361	cowrie
+n03343737	fire alarm
+n09951274	computer user
+n02437312	Arabian camel
+n07894102	Beaujolais
+n07697100	hamburger
+n04160372	seam
+n03046257	clock
+n03716966	mandolin
+n09902954	celebrant
+n03309687	eyeshadow
+n03984381	porch
+n04572935	well
+n03235042	drawing room
+n12215579	banksia
+n02138441	meerkat
+n02948072	candle
+n04380255	tablefork
+n12675876	Japanese honeysuckle
+n07744057	lingonberry
+n02851099	blind
+n03146219	cuirass
+n04164406	second base
+n03213538	distributor cap
+n04317175	stethoscope
+n03440216	Global Positioning System
+n10123844	general
+n02109525	Saint Bernard
+n02377480	mare
+n01797020	capercaillie
+n11661372	yew
+n03320046	fan
+n04136333	sarong
+n02893608	breadbasket
+n04398951	tea table
+n03244047	driver
+n07869111	haggis
+n06278338	cable television
+n07771212	walnut
+n02234355	American cockroach
+n02891788	brass
+n02796995	barroom
+n03251533	dry dock
+n02682569	aerator
+n03478907	hall
+n02887209	brace
+n09834699	ballet dancer
+n02802990	basket weave
+n03516266	herringbone
+n04409515	tennis ball
+n09760609	companion
+n02921029	bunsen burner
+n03197337	digital watch
+n01606672	sparrow hawk
+n01891633	shrew
+n07747951	mandarin
+n04445952	toggle switch
+n04410086	tenor drum
+n02952374	canteen
+n04534359	videotape
+n02312006	grub
+n02667093	abaya
+n01955933	bivalve
+n04469514	trampoline
+n04044498	radiotelephone
+n07850329	cheese
+n02768226	backboard
+n03715386	mallet
+n03714235	makeup
+n07899108	vermouth
+n04059157	ready-to-wear
+n04177820	settle
+n04057981	reading lamp
+n04135710	cling film
+n03357716	flap
+n04023962	punching bag
+n03595614	jersey
+n04094720	riser
+n01321456	adult
+n03064758	coffin
+n04346511	stylus
+n03855604	O ring
+n03120198	court
+n12268246	oak
+n02977438	cash register
+n12821895	garden forget-me-not
+n02123159	tiger cat
+n04141198	saxhorn
+n09206896	arroyo
+n02162561	scorpion fly
+n03943266	pinnacle
+n02794156	barometer
+n02766534	baby buggy
+n02715229	antenna
+n04099429	rocket
+n07801342	silage
+n03196324	digital computer
+n02881193	bowl
+n09938449	color guard
+n04193377	shift key
+n07750586	almond
+n12330891	bayberry
+n03534580	hoopskirt
+n02439398	okapi
+n09859152	blacksmith
+n03338821	film
+n07822518	cayenne
+n04381073	tablespoon
+n04599124	woofer
+n02202006	common mosquito
+n04494204	tube
+n09224725	bluff
+n07876189	sauerkraut
+n04367480	swab
+n02988486	CD-R
+n02125494	ocelot
+n02671780	accessory
+n04198562	shirtwaist
+n04559166	water cooler
+n09451237	supernova
+n02036053	stilt
+n02978753	casserole
+n12602980	rhubarb
+n04284002	spoon
+n12145477	popcorn
+n04463679	track
+n01990007	mantis shrimp
+n01576076	golden oriole
+n12708654	sour orange
+n01728572	thunder snake
+n03481172	hammer
+n11748002	legume
+n01525720	oscine
+n03744840	memory device
+n03249569	drum
+n01744100	reticulated python
+n12416073	blackberry-lily
+n03652932	leash
+n04076284	repeating firearm
+n07735803	turnip
+n02811059	batting cage
+n04554684	washer
+n02919792	bungalow
+n12578626	cowpea
+n12833985	streptocarpus
+n02027075	spotted sandpiper
+n03912218	pennywhistle
+n07730207	carrot
+n12800586	miterwort
+n06277280	television
+n12319414	English walnut
+n01573074	meadowlark
+n02687992	airfield
+n10043643	economist
+n12418221	blue-eyed grass
+n02430559	stag
+n02773838	bag
+n02438272	alpaca
+n03176594	deodorant
+n07582277	hors d'oeuvre
+n03279153	electronic instrument
+n03553019	hydrofoil
+n01677366	common iguana
+n02438173	guanaco
+n02944146	camisole
+n09616922	entertainer
+n03423479	gas heater
+n07895710	Cabernet
+n10522759	rescuer
+n02727426	apiary
+n03482523	hand
+n12646605	fuji
+n03109150	corkscrew
+n03832673	notebook
+n03861430	outrigger canoe
+n13100156	poisonous plant
+n04181718	shade
+n07684164	matzo
+n03837698	oast house
+n03423877	gas lamp
+n12022054	painted daisy
+n02731900	aquaplane
+n02992795	cellulose tape
+n01732789	black rat snake
+n03441345	glove compartment
+n03619396	kit
+n11834654	saltwort
+n04452848	tooth
+n04373704	swivel chair
+n02607862	wrasse
+n02872752	boot
+n07729485	soy
+n02928049	butter knife
+n08598568	mecca
+n04137897	satellite television
+n11705387	cassia bark
+n03874138	paddle steamer
+n07749312	Valencia orange
+n03667235	lighting
+n01620135	California condor
+n01623425	screech owl
+n01859852	Bewick's swan
+n03543012	hot line
+n02744844	arthrogram
+n02759963	autoloader
+n03333610	field house
+n12920204	poinsettia
+n12154773	pandanus
+n01979874	blue crab
+n12052787	coelogyne
+n12421467	narcissus
+n04143140	scanner
+n07802863	groats
+n03183080	device
+n01535690	white-crowned sparrow
+n02943241	camera lens
+n01937909	leech
+n02176439	click beetle
+n07767344	olive
+n04047401	railing
+n04046400	raglan sleeve
+n02871525	bookshop
+n13193856	male fern
+n02694426	alarm
+n09302616	highland
+n01916388	sea feather
+n03718581	manor hall
+n05244934	macule
+n04546194	walking stick
+n02853016	block
+n01697611	Asian crocodile
+n07591586	bouillabaisse
+n02777292	balance beam
+n01446760	killifish
+n01595974	house martin
+n03877674	pajama
+n07818277	garlic
+n02936714	cage
+n03973628	pocketknife
+n03524574	hoe
+n05238282	skin
+n12437513	kniphofia
+n02889425	brake
+n10305802	medical practitioner
+n11692265	perianth
+n09979321	critic
+n04493381	tub
+n03331077	fez
+n02129837	Bengal tiger
+n02670382	accelerator
+n07847917	light cream
+n02469248	scapular
+n07934282	ice tea
+n09981939	Cub Scout
+n02912894	bugle
+n07870167	lasagna
+n07836456	Chinese brown sauce
+n02490811	pygmy marmoset
+n04443257	tobacco shop
+n02126139	serval
+n07859583	syrup
+n03578656	interface
+n02220804	carpenter ant
+n07919310	fizz
+n11834272	glasswort
+n02817031	bearing
+n07903101	bitters
+n02869737	bongo
+n03112719	corselet
+n07724492	cos
+n03875218	paint
+n04331277	straight chair
+n13005984	inky cap
+n02074367	dugong
+n02793199	bark
+n02942349	camcorder
+n04467099	trailer
+n12695975	chinaberry
+n07732904	watercress
+n03514693	hemstitch
+n03885028	pantie
+n04219424	silk
+n02122510	alley cat
+n04079244	residence
+n01877812	wallaby
+n07800740	fodder
+n04554871	washer
+n03792334	mound
+n02317781	brittle star
+n06263369	press
+n12333530	guava
+n07892418	vintage
+n02088466	bloodhound
+n04078574	reservoir
+n03223162	doorlock
+n04059947	rearview mirror
+n11949402	chamomile
+n04560113	water heater
+n10726031	transvestite
+n03106722	cord
+n07568818	roughage
+n03195332	digester
+n02987492	cavalry sword
+n09304750	hole
+n03729951	material
+n12744387	litchi
+n02704792	amphibian
+n02763714	awl
+n04164757	second hand
+n12483841	Spanish dagger
+n07828987	vinegar
+n12957924	water clover
+n04192858	shield
+n03871083	package
+n02538010	lake trout
+n02110185	Siberian husky
+n01672032	soft-shelled turtle
+n11791569	pistia
+n02132788	Alaskan brown bear
+n07854982	Emmenthal
+n07909593	Drambuie
+n11939491	daisy
+n12019827	stevia
+n04299963	stamp
+n04390577	tank top
+n03402941	funeral home
+n04049585	rain gauge
+n11959259	hawk's-beard
+n02503517	elephant
+n03968293	plug
+n02912065	buffet
+n03656957	lens
+n02382850	Exmoor
+n03639077	landing net
+n01557962	missel thrush
+n11611758	stone pine
+n12684379	jewelweed
+n04099969	rocking chair
+n04590129	window shade
+n04371430	swimming trunks
+n07920540	iced coffee
+n01779629	mite
+n02328150	Angora
+n04487081	trolleybus
+n10566072	sculptor
+n02779435	ball
+n04251144	snorkel
+n03234164	drawers
+n01484097	mako
+n01753032	puff adder
+n04273064	spectroscope
+n07849336	yogurt
+n03654576	leg
+n03589791	jacket
+n02029087	curlew sandpiper
+n01934440	annelid
+n03498962	hatchet
+n01321230	male
+n04187970	sheepskin coat
+n01904029	plastron
+n03323703	fastener
+n03762332	midiron
+n02418064	goat antelope
+n03058107	coating
+n02620167	flathead
+n02594250	sciaenid fish
+n04116512	rubber eraser
+n07801779	alfalfa
+n02480495	orangutan
+n00017222	plant
+n12237641	mountain laurel
+n03685820	lodging house
+n02328429	pika
+n03002711	chaise longue
+n06278475	high-definition television
+n07762740	ackee
+n00021939	artifact
+n00120010	hop
+n00141669	check-in
+n00288000	dressage
+n00288384	piaffe
+n00324978	funambulism
+n00326094	rock climbing
+n00433458	contact sport
+n00433661	outdoor sport
+n00433802	gymnastics
+n00434075	acrobatics
+n00439826	track and field
+n00440218	jumping
+n00440382	broad jump
+n00440509	high jump
+n00440747	skiing
+n00440941	cross-country skiing
+n00442115	swimming
+n00442437	bathe
+n00442847	dip
+n00442981	dive
+n00444651	skin diving
+n00445055	surfing
+n00445226	water-skiing
+n00445351	rowing
+n00445685	sculling
+n00445802	boxing
+n00446311	professional boxing
+n00446411	in-fighting
+n00446493	fight
+n00446804	spar
+n00446980	archery
+n00447540	wrestling
+n00447957	Greco-Roman wrestling
+n00448126	professional wrestling
+n00448232	sumo
+n00448466	skating
+n00448748	figure skating
+n00448958	roller skating
+n00449054	skateboarding
+n00449168	speed skating
+n00449295	racing
+n00450070	horse racing
+n00450335	riding
+n00451370	cycling
+n00452034	bullfighting
+n00452152	cockfighting
+n00452293	hunt
+n00453935	fishing
+n00454237	angling
+n00454395	fly-fishing
+n00454624	casting
+n00455173	surf casting
+n00456465	day game
+n00463246	athletic game
+n00463543	ice hockey
+n00464478	water polo
+n00464651	outdoor game
+n00464894	golf
+n00466377	round of golf
+n00466524	medal play
+n00466630	match play
+n00466712	miniature golf
+n00466880	croquet
+n00467320	quoits
+n00467536	shuffleboard
+n00467995	field hockey
+n00468480	football
+n00469651	American football
+n00470554	professional football
+n00470682	touch football
+n00470830	hurling
+n00470966	rugby
+n00471613	baseball
+n00474657	professional baseball
+n00474769	hardball
+n00475014	no-hit game
+n00475787	softball
+n00476389	cricket
+n00477392	lacrosse
+n00477639	polo
+n00478262	soccer
+n00479440	handball
+n00479616	racquetball
+n00479887	squash
+n00480211	volleyball
+n00480366	jai alai
+n00480508	badminton
+n00480993	basketball
+n00482298	tennis
+n00483313	singles
+n00483409	singles
+n00483508	doubles
+n00483605	doubles
+n00523513	sport
+n00812526	clasp
+n00825773	judo
+n00887544	team sport
+n01055165	camping
+n01315213	peeper
+n01315581	poikilotherm
+n01323781	giant
+n01332181	Marburg virus
+n01339801	cytomegalovirus
+n01340935	reovirus
+n01365885	gonococcus
+n01369358	Salmonella typhimurium
+n01379389	staphylococcus
+n01381044	streptococcus
+n01382033	spirochete
+n01384164	zooplankton
+n01390763	heliozoan
+n01402600	brown algae
+n01415626	eukaryote
+n01419888	giardia
+n01421333	cryptomonad
+n01439121	cyprinid
+n01439808	domestic carp
+n01442450	roach
+n01448291	swordtail
+n01459791	fetus
+n01462544	gastrula
+n01462803	morula
+n01467804	lancelet
+n01468238	tunicate
+n01469723	salp
+n01486010	thresher
+n01515078	night bird
+n01520576	kiwi
+n01526766	honey eater
+n01533893	crossbill
+n01540566	evening grosbeak
+n01541760	pyrrhuloxia
+n01545574	lyrebird
+n01556514	thickhead
+n01568720	Cape May warbler
+n01569971	yellow-breasted chat
+n01574801	rusty blackbird
+n01579729	chough
+n01581730	nutcracker
+n01589718	brown creeper
+n01589893	European creeper
+n01593553	verdin
+n01596608	purple martin
+n01615303	Kamchatkan sea eagle
+n01625121	laughing owl
+n01633781	giant salamander
+n01638722	amphiuma
+n01654637	African clawed frog
+n01655344	caecilian
+n01666585	alligator snapping turtle
+n01674216	saurian
+n01697457	African crocodile
+n01698640	American alligator
+n01698782	Chinese alligator
+n01701859	stegosaur
+n01710177	diplodocus
+n01714231	allosaur
+n01717467	velociraptor
+n01724840	ichthyosaurus
+n01744270	Indian python
+n01749742	black mamba
+n01758757	carcase
+n01770795	false scorpion
+n01771417	whip-scorpion
+n01780142	acarid
+n01782209	spider mite
+n01787006	sea spider
+n01787191	Merostomata
+n01790711	game fowl
+n01793340	spring chicken
+n01803893	argus
+n01811243	dodo
+n01814549	squab
+n01815036	carrier pigeon
+n01821554	Carolina parakeet
+n01824344	ani
+n01832167	swift
+n01835769	European goatsucker
+n01844551	quetzal
+n01851573	greater scaup
+n01860497	screamer
+n01875313	common opossum
+n01879217	pademelon
+n01880152	rat kangaroo
+n01889520	mole
+n01903234	squama
+n01903346	scute
+n01903498	sclerite
+n01911839	hydrozoan
+n01930112	nematode
+n01936671	lugworm
+n01936858	sea mouse
+n01948573	limpet
+n01951613	Hermissenda crassicornis
+n01958038	quahog
+n01958346	littleneck
+n01960177	edible cockle
+n01971280	squid
+n01972131	architeuthis
+n01977485	stone crab
+n01985493	Old World crayfish
+n01988701	krill
+n01992773	amphipod
+n01995686	brine shrimp
+n01998183	barnacle
+n01999186	goose barnacle
+n02003037	adjutant bird
+n02030996	woodcock
+n02038466	Wilson's phalarope
+n02039171	courser
+n02044908	great skua
+n02046171	little auk
+n02046759	guillemot
+n02061217	stormy petrel
+n02063662	right whale
+n02065726	humpback
+n02067240	sperm whale
+n02068206	beaked whale
+n02070430	porpoise
+n02071028	grampus
+n02080713	bearded seal
+n02084732	pooch
+n02086346	toy spaniel
+n02086646	Blenheim spaniel
+n02087122	hunting dog
+n02090721	Irish wolfhound
+n02102177	Welsh springer spaniel
+n02103181	griffon
+n02109150	guide dog
+n02112497	griffon
+n02125010	sand cat
+n02125081	European wildcat
+n02129991	liger
+n02136103	binturong
+n02147947	pipistrelle
+n02160947	social insect
+n02167944	searcher
+n02168427	glowworm
+n02179012	blister beetle
+n02181235	darkling beetle
+n02183857	louse
+n02184473	common louse
+n02184720	body louse
+n02197689	drosophila
+n02197877	vinegar fly
+n02200509	wiggler
+n02201626	malarial mosquito
+n02202287	gnat
+n02205673	blackfly
+n02207179	drone
+n02207345	queen bee
+n02207449	worker
+n02214499	potter wasp
+n02214773	velvet ant
+n02216740	gall wasp
+n02217563	chalcid fly
+n02218371	ichneumon fly
+n02220518	army ant
+n02223266	termite
+n02227247	migratory locust
+n02234848	German cockroach
+n02238594	lace bug
+n02242137	giant water bug
+n02243209	water boatman
+n02248510	scale insect
+n02250280	cochineal insect
+n02256172	jumping plant louse
+n02257715	spittle insect
+n02257985	froghopper
+n02259377	plant hopper
+n02262803	stonefly
+n02271897	thrips
+n02274259	butterfly
+n02286089	gypsy moth
+n02305636	tiger moth
+n02308735	fall webworm
+n02313709	bryozoan
+n02315487	brachiopod
+n02315821	peanut worm
+n02322047	trepang
+n02324850	European rabbit
+n02327842	snowshoe hare
+n02333546	brown rat
+n02338145	muskrat
+n02350105	kangaroo rat
+n02364840	aperea
+n02365108	mara
+n02366002	agouti
+n02369680	naked mole rat
+n02372952	rock hyrax
+n02378625	charger
+n02378755	steed
+n02381831	Przewalski's horse
+n02386224	hackney
+n02386746	packhorse
+n02390101	mule
+n02390258	hinny
+n02393161	black rhinoceros
+n02396796	babirusa
+n02403740	heifer
+n02405929	Aberdeen Angus
+n02406533	Brown Swiss
+n02407071	Durham
+n02407625	Hereford
+n02408660	Indian buffalo
+n02414043	broadtail
+n02419056	serow
+n02423218	Thomson's gazelle
+n02431441	hind
+n02435853	chevrotain
+n02472987	world
+n02475078	Neandertal man
+n02484975	guenon
+n02486908	mandrill
+n02499808	galago
+n02513355	groundfish
+n02513560	young fish
+n02515713	coelacanth
+n02516188	lungfish
+n02522399	cod
+n02523877	haddock
+n02530421	shad
+n02533834	anchovy
+n02535537	Atlantic salmon
+n02536165	sockeye
+n02538406	char
+n02540412	smelt
+n02550460	flying fish
+n02551668	saury
+n02574910	remora
+n02577164	runner
+n02587618	schoolmaster
+n02600298	goatfish
+n02601767	striped mullet
+n02603540	great barracuda
+n02604480	Bermuda chub
+n02611898	stargazer
+n02614978	gunnel
+n02625258	wahoo
+n02648625	greenling
+n02650050	gurnard
+n02652132	flying gurnard
+n02653786	filefish
+n02654112	leatherjacket
+n02656032	balloonfish
+n02660640	Pacific halibut
+n02666196	abacus
+n02669295	abutment
+n02670186	accelerator
+n02670683	accelerator
+n02675077	acetate disk
+n02675522	achromatic lens
+n02680754	adjustable wrench
+n02684962	agora
+n02686227	air compressor
+n02687682	air cushion
+n02692513	air pump
+n02692680	air search radar
+n02693540	air-to-ground missile
+n02700258	altimeter
+n02701002	ambulance
+n02701730	American organ
+n02702989	ammeter
+n02708093	analog clock
+n02708224	analog computer
+n02709908	AND circuit
+n02710600	aneroid barometer
+n02725872	anvil
+n02727825	apparatus
+n02734835	architrave
+n02735361	arc lamp
+n02735538	arctic
+n02735688	area
+n02740764	armor plate
+n02751215	astrolabe
+n02752810	atlas
+n02753044	atom bomb
+n02755140	attache case
+n02755352	attachment
+n02756098	attire
+n02756854	audio amplifier
+n02757927	audiovisual
+n02758490	auger
+n02769669	backlighting
+n02771547	backstop
+n02774152	bag
+n02775039	baggage car
+n02775689	bailey
+n02778669	ball
+n02782778	ballpark
+n02786611	bandoleer
+n02786736	bandoneon
+n02787120	bandwagon
+n02795528	barrel
+n02795670	barrelhouse
+n02800497	basement
+n02803539	bass clarinet
+n02806530	bath
+n02808829	bathyscaphe
+n02810270	batter's box
+n02811618	battle cruiser
+n02814338	beach house
+n02814428	beach towel
+n02816656	beanbag
+n02823848	beer hall
+n02827606	belt
+n02829596	bench press
+n02844214	bistro
+n02854378	blockhouse
+n02854739	bloomers
+n02857477	boarding house
+n02862048	body armor
+n02866578	bomb
+n02867966	bomber jacket
+n02873623	boot camp
+n02874086	booth
+n02874214	booth
+n02879087	bouquet
+n02885233	box coat
+n02890940	brake shoe
+n02897097	Bren
+n02897389	brewpub
+n02904640	broadsword
+n02907082	broomstick
+n02917067	bullet train
+n02917742	bullpen
+n02921406	Burberry
+n02925666	buskin
+n02926426	bustier
+n02930645	byway
+n02932891	cabin cruiser
+n02933990	cable
+n02945161	camp
+n02945813	camp
+n02950482	cannon
+n02951843	canopy
+n02953552	Canton crepe
+n02955247	capacitor
+n02955540	caparison
+n02955767	cape
+n02957252	capstan
+n02957755	capsule
+n02965216	cargo liner
+n02965529	carillon
+n02971473	cartouche
+n02971579	car train
+n02979074	cassette deck
+n02980203	caster
+n02984469	catheter
+n02984699	cathode
+n02985137	cathode-ray tube
+n02991048	cell
+n02991302	cell
+n02992368	cellophane
+n02993546	center
+n02995871	centrifugal pump
+n02998841	chador
+n03001115	chain store
+n03002341	chairlift
+n03004409	chambray
+n03009794	charnel house
+n03012373	cheesecloth
+n03015478	chest protector
+n03017070	child's room
+n03019198	chinning bar
+n03019806	chin strap
+n03027001	chronometer
+n03031012	cigarette case
+n03034244	circuit breaker
+n03034663	circular saw
+n03036244	city university
+n03045074	clipper
+n03047690	clog
+n03050655	clothes dryer
+n03053047	clove hitch
+n03056873	coaster brake
+n03059366	coaxial cable
+n03063199	coffee filter
+n03063485	coffee mill
+n03067093	cold cathode
+n03072440	color tube
+n03077741	communications satellite
+n03080633	compass
+n03082450	compress
+n03082807	compressor
+n03086868	concertina
+n03087245	condensation pump
+n03087521	condenser
+n03088389	condominium
+n03090710	congress boot
+n03092476	console
+n03097535	control circuit
+n03097673	control key
+n03099454	convent
+n03100897	conveyer belt
+n03102654	cooler
+n03102859	cooling system
+n03107488	cords
+n03111690	correctional institution
+n03114041	costume
+n03116767	counter
+n03121190	Courtelle
+n03126385	crampon
+n03128085	cravat
+n03129471	creche
+n03129636	creche
+n03129848	creel
+n03130233	crematory
+n03132666	crinoline
+n03133415	crock
+n03134394	Crookes tube
+n03137579	crosspiece
+n03140771	cruise missile
+n03140900	cruiser
+n03141327	cruise ship
+n03141702	crusher
+n03145843	cuff
+n03148808	cupola
+n03152951	cutaway
+n03154895	cutwork
+n03156071	cyclotron
+n03156767	cylinder lock
+n03162818	dart
+n03164344	data system
+n03165823	dead axle
+n03166120	deadhead
+n03171635	defibrillator
+n03173270	delft
+n03174731	demitasse
+n03175843	dental floss
+n03175983	dental implant
+n03176763	department store
+n03178000	depth finder
+n03180011	desktop computer
+n03185868	Dewar flask
+n03189083	diaphragm
+n03191561	dickey
+n03193107	diesel
+n03196990	digital subscriber line
+n03202760	diode
+n03204134	dipole
+n03205458	dirk
+n03205669	dirndl
+n03206405	discount house
+n03207548	dishpan
+n03209477	disk controller
+n03215191	dive bomber
+n03219859	dolman
+n03219966	dolman
+n03221351	dongle
+n03222722	doorframe
+n03224893	dormitory
+n03225458	dosemeter
+n03226254	double boiler
+n03236217	dredge
+n03239607	drift net
+n03240140	electric drill
+n03241496	drinking vessel
+n03243218	drive
+n03244775	driving iron
+n03249956	drum
+n03255030	dumbbell
+n03258456	dust cover
+n03260206	dye-works
+n03262248	earplug
+n03262519	earthenware
+n03267468	ejection seat
+n03268311	elbow
+n03270165	electrical system
+n03271030	electric chair
+n03271260	electric clock
+n03273740	electric range
+n03282060	embankment
+n03282295	embassy
+n03285912	enclosure
+n03292475	epee
+n03293863	equatorial
+n03294604	erasable programmable read-only memory
+n03296217	escape wheel
+n03297735	establishment
+n03300216	ethernet
+n03306869	extension
+n03314608	faceplate
+n03316873	factory ship
+n03326371	feedlot
+n03333349	field hospital
+n03334492	fife
+n03338287	filling
+n03339296	film
+n03340009	filter
+n03340923	finery
+n03349599	first-aid station
+n03351151	fishhook
+n03355468	flageolet
+n03357267	flannelette
+n03363363	flight simulator
+n03364156	flipper
+n03365374	flood
+n03367321	flophouse
+n03369276	flugelhorn
+n03373611	flying boat
+n03374570	flytrap
+n03374838	fob
+n03375171	foghorn
+n03381231	forceps
+n03381776	fore-and-aft sail
+n03382104	forecastle
+n03382533	fore edge
+n03391613	frame buffer
+n03391770	framework
+n03392648	Francis turbine
+n03396580	friary
+n03398228	frock coat
+n03399971	fruit machine
+n03407369	fuse
+n03411339	galleon
+n03412906	gallows
+n03413828	game
+n03418402	garden trowel
+n03420801	garrison cap
+n03421117	garter
+n03421324	garter belt
+n03422072	gas burner
+n03422771	gas engine
+n03425595	gas range
+n03426574	gas turbine
+n03428349	gatepost
+n03429003	gathered skirt
+n03430091	gauze
+n03430959	gear
+n03431570	gearbox
+n03432129	gearshift
+n03433877	generator
+n03436656	gig
+n03436990	gig
+n03437430	gilt
+n03437829	girandole
+n03438780	glass cutter
+n03441465	glow lamp
+n03443543	godown
+n03445924	golfcart
+n03448590	gorget
+n03449858	government office
+n03453320	granny knot
+n03455355	graver
+n03456548	greasy spoon
+n03459328	griddle
+n03462110	grosgrain
+n03464467	guard
+n03465605	guesthouse
+n03468696	gun carriage
+n03469832	gunnery
+n03471030	gusher
+n03474167	habit
+n03474352	hacienda
+n03474896	haft
+n03477143	hairspring
+n03477512	half binding
+n03485309	hand grenade
+n03485407	hand-held computer
+n03487331	handloom
+n03487533	hand luggage
+n03488887	handstamp
+n03492087	hansom
+n03495671	harpoon
+n03496296	harpsichord
+n03496612	harrow
+n03501152	hazard
+n03501614	head
+n03505667	headset
+n03512147	helicopter
+n03512911	helm
+n03516996	heterodyne receiver
+n03517509	hibachi
+n03522990	hitching post
+n03530511	hone
+n03531447	hood
+n03532919	hook
+n03537085	horn
+n03538300	horsecar
+n03539433	horseshoe
+n03539546	horseshoe
+n03540267	hosiery
+n03540595	hospital
+n03541537	hostel
+n03543112	hot pants
+n03543511	hot spot
+n03543945	houndstooth check
+n03550289	hutch
+n03553486	hydrometer
+n03554460	hygrometer
+n03556173	I-beam
+n03556679	ice ax
+n03556811	iceboat
+n03558007	icepick
+n03558633	ice tongs
+n03559999	idle pulley
+n03566730	inclinometer
+n03569293	inertial guidance system
+n03576215	instrument of torture
+n03580615	internet
+n03583419	ion engine
+n03585438	irons
+n03585682	iron foundry
+n03586631	ironmongery
+n03588951	jack
+n03592931	jammer
+n03593222	japan
+n03596285	jet engine
+n03598151	jib
+n03605722	junction
+n03609235	kayak
+n03616763	kick starter
+n03618101	king
+n03621694	kite balloon
+n03625539	knitting machine
+n03625943	knitwear
+n03628215	koto
+n03629100	Kurdistan
+n03635330	lame
+n03637787	lancet arch
+n03640850	lanolin
+n03642573	lap joint
+n03646148	lath
+n03654826	leg
+n03658858	level
+n03660562	Liberty ship
+n03664675	lifting device
+n03668067	lightning rod
+n03668279	light pen
+n03668803	Lilo
+n03669245	limber
+n03672521	linen
+n03672827	line printer
+n03673450	lingerie
+n03674440	linkage
+n03674842	linocut
+n03678879	live axle
+n03684740	lockup
+n03688066	long iron
+n03695753	luge
+n03695957	luggage carrier
+n03696301	luggage rack
+n03697366	lunar excursion module
+n03698360	lute
+n03699280	lyre
+n03705379	magnet
+n03707372	magnetic needle
+n03710079	mailboat
+n03711711	mainframe
+n03722007	marker
+n03723439	marriage bed
+n03727067	mastaba
+n03727946	mat
+n03728982	match
+n03730494	maternity ward
+n03731019	mattock
+n03733131	maypole
+n03736064	meat grinder
+n03744684	memory chip
+n03749807	mercury thermometer
+n03751065	mess
+n03751269	mess jacket
+n03751458	mess kit
+n03752398	metal wood
+n03758992	microbrewery
+n03759243	microfiche
+n03759661	micrometer
+n03766044	miller
+n03766508	millinery
+n03767459	mimeograph
+n03770224	minicomputer
+n03775199	mixer
+n03776877	moccasin
+n03778817	module
+n03779000	module
+n03780799	moleskin
+n03781244	monastery
+n03782794	monkey-wrench
+n03783430	monocle
+n03783873	monoplane
+n03785721	morion
+n03786194	morning dress
+n03789171	motion-picture camera
+n03793850	mouse button
+n03795123	mouthpiece
+n03796605	mudguard
+n03797264	mufti
+n03799375	multistage rocket
+n03799610	munition
+n03814817	neckerchief
+n03815278	neckline
+n03815615	necktie
+n03816136	needle
+n03816394	needle
+n03817647	negligee
+n03820154	net
+n03822361	newsroom
+n03834040	nuclear reactor
+n03838298	objective
+n03843883	oil heater
+n03844233	oil paint
+n03850492	operating table
+n03852688	optical telescope
+n03854421	organdy
+n03854506	organic light-emitting diode
+n03855756	Orlon
+n03870980	pack
+n03874487	paddock
+n03882611	paneling
+n03885788	panty girdle
+n03889503	parapet
+n03889726	parasail
+n03891538	parlor
+n03894933	party line
+n03895170	parvis
+n03897943	patch
+n03898129	patchcord
+n03899612	patina
+n03900194	patrol boat
+n03900979	pavilion
+n03901974	pawnbroker's shop
+n03902220	PC board
+n03902756	pea jacket
+n03904782	pedometer
+n03906106	peg
+n03907475	penal colony
+n03907908	penalty box
+n03908111	pen-and-ink
+n03909406	pendulum clock
+n03911767	penlight
+n03911866	pennant
+n03912821	penthouse
+n03914583	pepper spray
+n03915118	percolator
+n03917048	periscope
+n03917814	permanent press
+n03918737	personal digital assistant
+n03920641	pet shop
+n03920737	petticoat
+n03923918	phonograph needle
+n03929202	pick
+n03931765	picture frame
+n03931885	picture hat
+n03935883	pilaster
+n03936269	pile
+n03936466	pile driver
+n03943115	pinion
+n03947111	pipet
+n03947888	pirate
+n03948950	piston
+n03949317	piston rod
+n03951971	pivot
+n03953020	place of business
+n03953901	placket
+n03955809	planetarium
+n03956331	planetary gear
+n03957762	plasterboard
+n03959014	plastron
+n03961939	platform
+n03963028	plating
+n03965907	pleat
+n03966976	pliers
+n03971960	p-n junction
+n03972524	pocket
+n03977158	pole
+n03980478	pommel horse
+n03981760	pontoon bridge
+n03985232	portable computer
+n03986355	portfolio
+n03989349	postern
+n03990474	pot
+n03991443	potential divider
+n03991646	potentiometer
+n03993403	poultice
+n03994008	powder
+n03995372	power drill
+n03999992	press
+n04012482	propjet
+n04018155	public address system
+n04019696	pull
+n04020744	pull-off
+n04025633	purdah
+n04026053	purifier
+n04028221	putty knife
+n04029647	pyrograph
+n04030414	pyxis
+n04033287	queen
+n04035836	quiver
+n04037873	raceway
+n04044307	radiotelegraph
+n04045085	radio transmitter
+n04047834	railroad bed
+n04050600	RAM disk
+n04053677	range hood
+n04061681	reception desk
+n04062179	reciprocating engine
+n04065272	recreational vehicle
+n04066767	reduction gear
+n04069777	reformatory
+n04070207	refracting telescope
+n04070415	refractometer
+n04075916	repair shop
+n04076052	repeater
+n04077430	reproducer
+n04077889	research center
+n04079933	resistor
+n04080454	resonator
+n04081281	restaurant
+n04089152	ridge
+n04090263	rifle
+n04096733	roadbed
+n04098795	rocker
+n04100174	rod
+n04101375	roll
+n04102285	roller blind
+n04102872	roll film
+n04111190	rotating shaft
+n04111962	rotor
+n04113641	round
+n04114428	roundhouse
+n04117216	rudder
+n04120842	runway
+n04121728	saber saw
+n04123448	sack coat
+n04124488	saddlery
+n04127395	safety rail
+n04127633	safety valve
+n04129766	sailor suit
+n04131015	salon
+n04133114	sampan
+n04134632	sandglass
+n04135024	sand wedge
+n04136045	sarcophagus
+n04136800	sash fastener
+n04137355	sateen
+n04139859	savings bank
+n04141838	scale
+n04142434	scalpel
+n04146343	schoolbag
+n04146976	school system
+n04147793	scimitar
+n04148054	scissors
+n04149813	scoreboard
+n04150371	scow
+n04154938	screw thread
+n04156140	scrub brush
+n04157320	sculpture
+n04158250	scythe
+n04164002	secondary coil
+n04166111	security system
+n04169437	selector
+n04169597	selenium cell
+n04171831	semiconductor device
+n04173172	sequence
+n04175147	server
+n04176528	set
+n04178190	seventy-eight
+n04179126	sewer
+n04180063	sewing needle
+n04180888	sextant
+n04182322	shaft
+n04184435	shaper
+n04189651	sheet pile
+n04190747	shell
+n04190997	shell
+n04192238	shelter
+n04193883	shim
+n04200537	shoehorn
+n04204755	short circuit
+n04205062	short iron
+n04206356	shotgun
+n04208760	showboat
+n04211356	shutter
+n04211528	shutter
+n04213353	sickle
+n04213530	sickroom
+n04215153	sidesaddle
+n04218564	silencer
+n04220805	silver plate
+n04221823	simulator
+n04224395	siren
+n04226537	skeleton
+n04226962	skep
+n04229480	skiff
+n04229620	ski jump
+n04233715	slacks
+n04236001	sleeping car
+n04236702	sleeve
+n04241394	slipper
+n04242704	slop basin
+n04244847	smack
+n04246459	smoke bomb
+n04247011	smoke screen
+n04248209	snap
+n04252653	snow thrower
+n04253931	soapbox
+n04262678	sound recording
+n04265428	space helmet
+n04267091	Spandau
+n04267165	spandex
+n04267435	spanker
+n04269270	spark plug
+n04271531	specialty store
+n04272389	spectator pump
+n04275661	spike
+n04278605	spinner
+n04279172	spinning machine
+n04280845	spirometer
+n04280970	spit
+n04282992	Spode
+n04285803	sportswear
+n04287747	spray gun
+n04288272	spring
+n04289827	sprocket
+n04290259	spur
+n04290507	spur gear
+n04291759	square knot
+n04301000	stand
+n04304215	starship
+n04305210	Statehouse
+n04305471	state prison
+n04306592	stator
+n04306847	statue
+n04307878	steakhouse
+n04308583	steam bath
+n04308807	steamboat
+n04310507	steam shovel
+n04310604	steam turbine
+n04310721	steam whistle
+n04311174	steel drum
+n04312154	steelyard
+n04314107	stem-winder
+n04323519	stockinet
+n04323819	stocking
+n04328329	storage battery
+n04329958	storm window
+n04331443	straightedge
+n04344734	studio apartment
+n04344873	studio couch
+n04346428	sty
+n04347119	subcompact
+n04350688	sugar refinery
+n04351550	suite
+n04353573	sulky
+n04354589	sunbonnet
+n04355338	sundial
+n04359589	support
+n04360501	support
+n04361937	surcoat
+n04363210	surface-to-air missile
+n04368496	swallow-tailed coat
+n04370456	sweatshirt
+n04370600	sweatshop
+n04373894	sword
+n04375615	synchronous motor
+n04375775	synchrotron
+n04377057	system
+n04382695	tachograph
+n04383130	tack
+n04384593	tailgate
+n04384910	taillight
+n04387261	tambour
+n04388574	tangram
+n04388743	tank
+n04389718	tank destroyer
+n04392985	tape player
+n04395106	tartan
+n04396808	tea bag
+n04397027	tea cart
+n04398497	teashop
+n04400499	telegraph
+n04400737	telegraph key
+n04409279	tender
+n04414101	terra cotta
+n04414476	terry
+n04417361	textile mill
+n04419073	theodolite
+n04422875	thermostat
+n04426184	third rail
+n04428191	thresher
+n04434932	tights
+n04436992	time capsule
+n04438507	timer
+n04443433	toboggan
+n04444218	toe
+n04445040	toga
+n04448070	toilet water
+n04449966	tomahawk
+n04455250	topmast
+n04455579	topper
+n04456472	torpedo
+n04459122	touring car
+n04461696	tow truck
+n04464125	track
+n04464615	trackball
+n04475496	trave
+n04475749	trawl
+n04477725	treasure ship
+n04479694	trestle
+n04485884	triskelion
+n04486934	troll
+n04490091	truck
+n04491388	truncheon
+n04491769	trunk
+n04498523	turbine
+n04502502	tweed
+n04503413	twin bed
+n04507326	umbrella tent
+n04507453	undercarriage
+n04515729	upstairs
+n04516354	used-car
+n04521987	varnish
+n04522168	vase
+n04524716	velocipede
+n04524941	velour
+n04525821	Venn diagram
+n04529108	vernier scale
+n04533199	vibrator
+n04533594	vicuna
+n04533946	videodisk
+n04534127	video recording
+n04535252	villa
+n04536153	viol
+n04536335	viola
+n04536765	viola d'amore
+n04541320	voltmeter
+n04541777	von Neumann machine
+n04550676	wardroom
+n04555700	wastepaper basket
+n04557751	water butt
+n04558199	water chute
+n04559994	water hazard
+n04560804	water jug
+n04566561	weapons carrier
+n04568713	web
+n04570214	Wedgwood
+n04573937	wet fly
+n04576002	wheelchair
+n04577426	whetstone
+n04579432	whistle
+n04583212	wide-angle lens
+n04585128	Wilton
+n04585745	winch
+n04586072	windbreak
+n04586932	wind instrument
+n04591157	Windsor tie
+n04600312	workbasket
+n04601938	workpiece
+n04602840	works
+n04604276	World Wide Web
+n04608567	writing implement
+n04614655	ziggurat
+n04615226	zither
+n04950952	wood grain
+n04951071	graining
+n04951373	light
+n04951875	sunniness
+n04959672	chromatic color
+n04960277	black
+n04960582	coal black
+n04961331	bone
+n04961691	gray
+n04962062	ash grey
+n04962240	charcoal
+n04963111	sanguine
+n04963588	crimson
+n04964001	claret
+n04965179	orange
+n04965661	yellow
+n04966543	gamboge
+n04967191	green
+n04967882	bottle green
+n04968139	olive green
+n04968749	jade green
+n04968895	blue
+n04969242	azure
+n04969540	steel blue
+n04969798	greenish blue
+n04970059	purple
+n04970398	indigo
+n04970631	reddish purple
+n04970916	pink
+n04971211	carnation
+n04972451	chocolate
+n04972801	light brown
+n04973291	beige
+n04973386	reddish brown
+n04973669	copper
+n04974340	olive
+n04976319	pigmentation
+n04976952	complexion
+n04979002	aposematic coloration
+n05239437	skin graft
+n05242928	squamous cell
+n05245192	freckle
+n05257476	bouffant
+n05258051	forelock
+n05399034	milk
+n05399356	colostrum
+n05418717	vein
+n05449196	osteocyte
+n05449959	leukocyte
+n05451384	lymphocyte
+n05467758	astrocyte
+n05469861	dendrite
+n05482922	subarachnoid space
+n05486510	cerebral cortex
+n06008896	coordinate axis
+n06254669	medium
+n06255613	paper
+n06259898	channel
+n06267758	school newspaper
+n06273555	call-in
+n06273743	call waiting
+n06273986	local call
+n06274092	long distance
+n06274921	telegraphy
+n06275095	cable
+n06275353	wireless
+n06275471	radiotelegraph
+n06276501	radiotelephone
+n06281175	signal detection
+n06359467	chat room
+n06470073	document
+n06591815	album
+n06592281	rock opera
+n06592421	tribute album
+n06613686	movie
+n06892775	concert
+n06998748	artwork
+n07556970	course
+n07557165	dainty
+n07564971	vegetarianism
+n07565259	board
+n07567139	coloring
+n07567707	meal
+n07568095	cornmeal
+n07569106	flour
+n07573103	canned meat
+n07574176	potluck
+n07576438	picnic
+n07577918	coffee break
+n07581607	canape
+n07581931	fruit cocktail
+n07584938	bouillon
+n07587618	corn chowder
+n07588817	vichyssoise
+n07589458	bigos
+n07592094	fricassee
+n07593004	pot-au-feu
+n07594737	choice morsel
+n07595180	caramel
+n07595649	cane sugar
+n07598622	hardbake
+n07598734	hard candy
+n07599649	bonbon
+n07607361	licorice
+n07607832	cachou
+n07608339	nougat
+n07609407	taffy
+n07610746	blancmange
+n07614348	water ice
+n07615289	sherbert
+n07615569	tutti-frutti
+n07616590	split
+n07618119	duff
+n07624757	knish
+n07624924	pirogi
+n07641928	fish cake
+n07650903	mince
+n07672914	margarine
+n07678586	mincemeat
+n07680168	anadama bread
+n07681264	tea bread
+n07681926	cracker
+n07683039	graham bread
+n07683617	pita
+n07685031	date bread
+n07686461	salt-rising bread
+n07687053	wafer
+n07689313	spoon bread
+n07689490	cinnamon toast
+n07689842	zwieback
+n07691863	soft roll
+n07691954	kaiser roll
+n07692517	bialy
+n07693590	danish
+n07694403	baking-powder biscuit
+n07695187	saltine
+n07695410	oyster cracker
+n07695504	water biscuit
+n07695652	graham cracker
+n07698782	wrap
+n07709046	pulse
+n07709172	potherb
+n07712063	sweet potato
+n07719330	bamboo shoot
+n07720084	sugar beet
+n07726672	black-eyed pea
+n07727140	navy bean
+n07730708	celeriac
+n07733847	wild spinach
+n07735179	oyster plant
+n07735687	radish
+n07736087	rutabaga
+n07736371	sorrel
+n07738224	cling
+n07740597	Empire
+n07740954	McIntosh
+n07741461	Pippin
+n07742012	cooking apple
+n07743384	huckleberry
+n07743723	wintergreen
+n07744430	gooseberry
+n07745661	saskatoon
+n07746749	ceriman
+n07748276	satsuma
+n07752514	dried apricot
+n07752664	raisin
+n07752782	seedless raisin
+n07756325	honeydew
+n07764315	sapodilla
+n07768230	bartlett
+n07773428	coconut milk
+n07801091	eatage
+n07803093	barley
+n07803310	buckwheat
+n07804543	brown rice
+n07805254	mash
+n07805731	petfood
+n07805966	dog food
+n07806879	Caesar salad
+n07807317	combination salad
+n07807594	potato salad
+n07808022	Waldorf salad
+n07810907	condiment
+n07812790	lemon oil
+n07813107	salt
+n07813324	celery salt
+n07814007	allspice
+n07814790	fennel
+n07814925	ginger
+n07815163	ginger
+n07819303	mustard seed
+n07819480	mustard
+n07820297	rue
+n07821610	tarragon
+n07823591	mint sauce
+n07823814	curry powder
+n07824502	marinade
+n07825850	applesauce
+n07826250	tomato paste
+n07826340	angelica
+n07826453	angelica
+n07826653	anise
+n07830690	hard sauce
+n07832592	ravigote
+n07837545	cream sauce
+n07839478	roux
+n07839730	Soubise
+n07840395	curry sauce
+n07840520	Worcester sauce
+n07840672	coconut milk
+n07841037	egg white
+n07843348	western omelet
+n07845702	raw milk
+n07845863	homogenized milk
+n07846143	powdered milk
+n07846471	condensed milk
+n07846557	skim milk
+n07846802	whole milk
+n07848093	sour cream
+n07849912	curd
+n07850083	curd
+n07851298	cream cheese
+n07851554	mascarpone
+n07851767	cottage cheese
+n07852045	bleu
+n07852919	cheddar
+n07853762	grated cheese
+n07854348	Parmesan
+n07854614	ricotta
+n07860629	miraculous food
+n07864638	Tetrazzini
+n07867883	fondue
+n07869291	ham and eggs
+n07869937	kedgeree
+n07870069	souvlaki
+n07872593	moussaka
+n07873057	marrow
+n07874995	oatmeal
+n07875086	loblolly
+n07877675	steak tartare
+n07882886	mix
+n07883384	elixir
+n07888909	malt
+n07889990	Burton
+n07896765	Moselle
+n07898895	Tokay
+n07900406	fortified wine
+n07900958	sherry
+n07901355	Marsala
+n07903543	applejack
+n07904637	sloe gin
+n07910379	maraschino
+n07910538	pastis
+n07913774	cobbler
+n07913882	collins
+n07914777	spritzer
+n07915491	julep
+n07915918	margarita
+n07916319	vodka martini
+n07917272	screwdriver
+n07917507	Scotch and soda
+n07917618	sling
+n07918028	sour
+n07918193	whiskey sour
+n07918309	stinger
+n07918706	swizzle
+n07919165	zombie
+n07919894	drip coffee
+n07920663	instant coffee
+n07924560	grape juice
+n07925116	pineapple juice
+n07925229	lemon juice
+n07925327	lime juice
+n07925500	tomato juice
+n07926250	lemonade
+n07926442	orangeade
+n07926920	mulled wine
+n07927836	bitter lemon
+n07928163	cream soda
+n07931452	planter's punch
+n07931612	White Russian
+n07932039	eggnog
+n07934530	black tea
+n07934800	Darjeeling
+n07936015	spring water
+n07942152	people
+n07951464	collection
+n07954211	book
+n08182379	crowd
+n08238463	class
+n08242223	core
+n08249459	concert band
+n08256735	wedding
+n08376250	chain
+n08539276	outskirts
+n08540532	borough
+n08571642	firebreak
+n08613733	outdoors
+n08640962	rough
+n08645212	weald
+n08663703	desktop
+n08663860	top
+n08679167	high-water mark
+n08685188	zodiac
+n09193551	alluvial flat
+n09206985	ascent
+n09213565	bank
+n09214916	barrier reef
+n09231117	caldera
+n09262690	dale
+n09264803	delta
+n09267854	divot
+n09268007	divot
+n09270657	drumlin
+n09279986	fireball
+n09289596	glen
+n09300306	gully
+n09309168	ice floe
+n09315159	ion
+n09319604	isthmus
+n09337048	leak
+n09337253	ledge
+n09344198	lowland
+n09349648	meander
+n09353815	microfossil
+n09389867	perforation
+n09391386	photosphere
+n09400987	pulsar
+n09403427	rainbow
+n09405787	ravine
+n09410224	rift valley
+n09411295	ripple mark
+n09421031	saltpan
+n09439032	snowfield
+n09439213	soapsuds
+n09442595	spit
+n09444783	star
+n09452291	swale
+n09463226	tundra
+n09470222	vein
+n09478210	whinstone
+n09495962	gryphon
+n09537660	messiah
+n09606009	adventurer
+n09608709	benefactor
+n09613191	contestant
+n09624559	mediator
+n09635973	Aryan
+n09639919	Semite
+n09640715	Elamite
+n09643799	gook
+n09644657	Tatar
+n09648743	Nahuatl
+n09654518	Delaware
+n09663999	Oneida
+n09665367	Penobscot
+n09679170	gentile
+n09679925	Catholic
+n09681107	Uniat
+n09681234	Copt
+n09696763	French Canadian
+n09701148	English person
+n09706029	Finn
+n09708889	Parisienne
+n09709673	Creole
+n09710164	Greek
+n09715165	Irishman
+n09716047	Italian
+n09720033	Lapp
+n09726621	South American Indian
+n09729062	Muscovite
+n09736798	Uzbek
+n09738400	American
+n09748101	East German
+n09748648	Prussian
+n09754217	abbess
+n09756049	abettor
+n09759501	academician
+n09760913	accompanist
+n09764201	acquirer
+n09765278	actor
+n09769076	addict
+n09771435	admirer
+n09773962	advertiser
+n09778783	agitator
+n09782167	alcoholic
+n09785659	alpinist
+n09785891	altar boy
+n09787534	ambassador
+n09791816	anarchist
+n09805151	archbishop
+n09809538	army engineer
+n09814488	assemblywoman
+n09816654	assistant professor
+n09820044	atheist
+n09822830	attorney general
+n09823832	au pair girl
+n09824135	authoritarian
+n09824609	authority
+n09830400	backbencher
+n09830629	backpacker
+n09833751	balancer
+n09833997	balker
+n09840435	baron
+n09842395	Basket Maker
+n09842823	bastard
+n09843602	bather
+n09843716	batman
+n09843824	baton twirler
+n09845849	beatnik
+n09848489	believer
+n09850760	berserker
+n09851165	best
+n09861863	boatbuilder
+n09863031	bodyguard
+n09864632	bombshell
+n09866817	bootblack
+n09869317	bounty hunter
+n09869578	Bourbon
+n09871095	slugger
+n09876701	Brother
+n09877288	brother-in-law
+n09885866	cabinetmaker
+n09886403	caddie
+n09886540	cadet
+n09889170	calligrapher
+n09889691	campaigner
+n09890192	camp follower
+n09892693	captain
+n09893344	captain
+n09895222	careerist
+n09901642	caterer
+n09902353	cavalryman
+n09902731	caveman
+n09902851	celebrant
+n09904837	centrist
+n09906704	champion
+n09911226	charwoman
+n09912681	cheapskate
+n09917214	chief of staff
+n09927089	cleaner
+n09929577	clinician
+n09931165	clown
+n09931418	coach
+n09931640	coach
+n09932336	coachman
+n09936892	college student
+n09941089	comer
+n09941571	commander
+n09942697	commissar
+n09943811	commissioner
+n09944160	committee member
+n09945319	communist
+n09953350	confectioner
+n09954639	confidant
+n09958292	Anglican
+n09960688	contractor
+n09961739	convener
+n09968652	cotter
+n09968845	counselor
+n09971839	courtier
+n09972587	cow
+n09975425	craftsman
+n09976917	creep
+n09980985	croupier
+n09981278	crown princess
+n09982152	cuckold
+n09985809	cyberpunk
+n09986700	Cynic
+n09994673	deacon
+n10000787	delegate
+n10001217	deliveryman
+n10001764	demigod
+n10015215	director
+n10019072	district attorney
+n10019187	district manager
+n10023264	doge
+n10026976	dosser
+n10028402	down-and-out
+n10030277	dramatist
+n10033412	dressmaker
+n10035952	drug addict
+n10037080	drunk
+n10039271	duffer
+n10041373	earl
+n10041887	earner
+n10044879	editor
+n10048367	elder
+n10055297	enchantress
+n10057271	endorser
+n10058962	enlisted woman
+n10061043	envoy
+n10061882	epidemiologist
+n10063635	Eskimo
+n10068234	examiner
+n10069981	executive secretary
+n10070563	exhibitor
+n10077879	fanatic
+n10080869	father
+n10082423	Fauve
+n10082997	federalist
+n10086383	fielder
+n10091349	fire chief
+n10094584	flag officer
+n10095265	flanker back
+n10095420	flapper
+n10095869	flatterer
+n10097995	flower girl
+n10099375	follower
+n10102800	forefather
+n10105733	forward
+n10106387	foster-father
+n10106509	foster-mother
+n10107303	founder
+n10109443	freak
+n10115430	fullback
+n10117415	gagman
+n10123122	gendarme
+n10126177	generator
+n10126424	geneticist
+n10131815	gladiator
+n10134760	godfather
+n10134982	godparent
+n10140597	governor general
+n10140929	graduate nurse
+n10147710	grocer
+n10149867	prison guard
+n10150940	guest
+n10151133	guest
+n10151570	guide
+n10152616	guru
+n10152763	guru
+n10154186	Gypsy
+n10157271	half blood
+n10159289	handyman
+n10162354	hatmaker
+n10165448	hearer
+n10168584	heir
+n10169241	heir presumptive
+n10170060	hire
+n10171456	herbalist
+n10173410	heroine
+n10174330	highbrow
+n10186068	horse trader
+n10187491	hostess
+n10188715	housekeeper
+n10188957	housemate
+n10191613	humanitarian
+n10194231	ex-husband
+n10196404	iceman
+n10198437	idol
+n10204177	industrialist
+n10205231	inferior
+n10208847	inspector
+n10209731	insurance broker
+n10210648	interior designer
+n10210911	interlocutor
+n10212501	interpreter
+n10212780	interpreter
+n10215623	investigator
+n10216106	investor
+n10218164	Jack of all trades
+n10220080	Javanese
+n10221312	jester
+n10222497	jobber
+n10224578	journalist
+n10227266	junior
+n10227490	Junior
+n10227985	jurist
+n10228468	justice of the peace
+n10233248	kingmaker
+n10235024	king
+n10240235	know-it-all
+n10244913	land agent
+n10245863	landscape architect
+n10248008	Latin
+n10249950	lawyer
+n10251329	lazybones
+n10252222	lector
+n10259348	lieutenant
+n10260473	lieutenant junior grade
+n10276045	lumberman
+n10277027	pyromaniac
+n10280674	magician
+n10281896	mahatma
+n10283366	major
+n10284064	maker
+n10293590	marchioness
+n10296444	martinet
+n10297234	mascot
+n10297367	masochist
+n10297531	mason
+n10297841	masquerader
+n10298647	master
+n10298912	master
+n10300041	mate
+n10308066	nonmember
+n10308275	clansman
+n10313441	mezzo-soprano
+n10314836	midwife
+n10318607	millionairess
+n10329035	monologist
+n10333317	mother-in-law
+n10341343	music teacher
+n10342367	mute
+n10344319	namby-pamby
+n10345422	narcissist
+n10353355	nephew
+n10355688	newcomer
+n10356877	newsreader
+n10359546	Nobelist
+n10362319	nonsmoker
+n10368291	nursling
+n10368624	nymphet
+n10369528	observer
+n10373525	Federal
+n10376890	old-timer
+n10378780	operator
+n10380126	optimist
+n10383094	organization man
+n10383505	organizer
+n10386874	outfielder
+n10394786	paleontologist
+n10396337	panhandler
+n10400108	parishioner
+n10400437	Parliamentarian
+n10403876	passenger
+n10407310	patriot
+n10410996	peasant
+n10411867	pederast
+n10418101	personification
+n10419630	pest
+n10421470	pharmacist
+n10421956	philanthropist
+n10427223	photojournalist
+n10428004	physicist
+n10432957	pillar
+n10441037	playmate
+n10441694	pledger
+n10443032	plumber
+n10455619	portraitist
+n10456138	positivist
+n10458111	problem solver
+n10461060	poultryman
+n10464052	prayer
+n10471640	prima ballerina
+n10473917	Prince of Wales
+n10474064	princess
+n10474645	principal
+n10476467	private
+n10481268	programmer
+n10495555	pusher
+n10495756	pusher
+n10497645	quadruplet
+n10499355	queen
+n10500419	queen consort
+n10506336	ramrod
+n10506544	ranch hand
+n10513938	redneck
+n10516527	registered nurse
+n10519126	anchorite
+n10519984	remover
+n10520544	renegade
+n10523341	reservist
+n10525436	retailer
+n10530959	right-hander
+n10531109	right-hand man
+n10531838	ringleader
+n10533983	roarer
+n10537708	Romanov
+n10542608	runner
+n10544748	saboteur
+n10546428	sailing master
+n10546633	sailor
+n10551576	sapper
+n10559508	schoolfriend
+n10564098	screen actor
+n10567722	seasonal worker
+n10569011	second lieutenant
+n10574538	secularist
+n10575787	seeker
+n10578162	seminarian
+n10579549	senior vice president
+n10582604	server
+n10585217	sexton
+n10588965	shepherd
+n10594857	shyster
+n10595647	sick person
+n10604634	skeptic
+n10605253	skier
+n10617024	snob
+n10618848	socialist
+n10624437	songstress
+n10629647	Spanish American
+n10629939	sparring partner
+n10636488	spinster
+n10639637	sports announcer
+n10646780	stammerer
+n10648696	star
+n10654932	stepparent
+n10656120	stiff
+n10661002	stranger
+n10661563	strategist
+n10661732	straw boss
+n10669991	subordinate
+n10671736	successor
+n10672662	suffragette
+n10674130	suitor
+n10675609	super heavyweight
+n10676018	superior
+n10676434	supermom
+n10680609	surveyor
+n10683675	swinger
+n10684146	switcher
+n10685398	sylph
+n10686073	sympathizer
+n10688356	tactician
+n10693824	taxonomist
+n10700201	tenant
+n10702615	terror
+n10703336	testator
+n10712229	tinkerer
+n10719132	town crier
+n10720453	trader
+n10720964	trade unionist
+n10727458	Treasury
+n10728233	trend-setter
+n10728998	trier
+n10732967	tumbler
+n10735984	umpire
+n10742005	usherette
+n10744164	vacationer
+n10747119	vegetarian
+n10750031	vicar
+n10753339	vigilante
+n10756641	visionary
+n10759331	volunteer
+n10761326	voyeur
+n10763075	waif
+n10765679	wanderer
+n10773665	welder
+n10773800	welfare case
+n10781817	wimp
+n10782791	winner
+n10783539	winker
+n10788852	woman
+n10791115	working girl
+n10792335	worshiper
+n10792856	wrecker
+n11511327	facula
+n11547855	spore
+n11552133	cryptogam
+n11598886	mahuang
+n11601177	sago palm
+n11621727	white fir
+n11632619	Italian cypress
+n11645590	Wollemi pine
+n11646344	norfolk island pine
+n11660300	Japanese umbrella pine
+n11662371	Japanese yew
+n11668117	monocot
+n11677485	stylopodium
+n11677902	carpophore
+n11682659	gemma
+n11683838	nectary
+n11685621	silique
+n11691046	corolla
+n11692792	thistledown
+n11693981	custard apple
+n11695974	ilang-ilang
+n11700864	allspice
+n11701066	Carolina allspice
+n11702713	katsura tree
+n11704620	camphor tree
+n11707229	sassafras
+n11714382	nutmeg
+n11717399	lotus
+n11720891	water crowfoot
+n11722621	cursed crowfoot
+n11723452	wolfsbane
+n11741350	wax myrtle
+n11741797	bayberry
+n11748811	peanut
+n11761650	inga
+n11767877	Indian hemp
+n11782036	alocasia
+n11785875	Caladium bicolor
+n11791341	philodendron
+n11799732	ginseng
+n11800236	ginseng
+n11808299	sweet William
+n11824146	pigweed
+n11828577	lamb's-quarters
+n11828973	good-king-henry
+n11832214	beet
+n11832480	beetroot
+n11846765	epiphyllum
+n11849271	mescal
+n11855553	poke
+n11858077	common purslane
+n11869689	watercress
+n11877283	kohlrabi
+n11877646	turnip
+n11878283	mustard
+n11894558	jointed charlock
+n11919447	ragweed
+n11928858	mugwort
+n11930788	western mugwort
+n11943992	China aster
+n11953884	plume thistle
+n11955532	blessed thistle
+n11957678	calliopsis
+n11966896	Philadelphia fleabane
+n11968931	boneset
+n11979715	Jerusalem artichoke
+n12008749	cutleaved coneflower
+n12009047	golden glow
+n12013035	black salsify
+n12019035	milkweed
+n12023108	feverfew
+n12024176	dandelion
+n12036226	samara
+n12048928	calanthe
+n12087961	yam
+n12099342	sea lavender
+n12105125	wheatgrass
+n12107970	foxtail
+n12108871	tall oat grass
+n12109827	oat
+n12112609	buffalo grass
+n12117695	barnyard grass
+n12124818	perennial ryegrass
+n12130549	timothy
+n12131405	bluegrass
+n12138248	kaoliang
+n12141385	grain
+n12146311	zoysia
+n12151170	galingale
+n12156679	bur reed
+n12157056	kernel
+n12159804	zucchini
+n12165758	squirting cucumber
+n12166424	luffa
+n12167602	balsam pear
+n12180168	mahoe
+n12186839	Indian mallow
+n12196694	kurrajong
+n12204032	Japanese linden
+n12226932	heath
+n12227658	tree heath
+n12229651	bog rosemary
+n12236546	huckleberry
+n12237486	kalmia
+n12246037	European cranberry
+n12246232	blueberry
+n12262553	chestnut
+n12263204	European chestnut
+n12263738	Allegheny chinkapin
+n12263987	Ozark chinkapin
+n12274863	blackjack oak
+n12275317	Japanese oak
+n12282527	silver birch
+n12288823	hazelnut
+n12289433	cobnut
+n12303462	ash
+n12307076	winter jasmine
+n12307756	privet
+n12320010	hickory
+n12334891	eucalyptus
+n12353431	abaca
+n12356395	turmeric
+n12357485	shellflower
+n12358293	cardamom
+n12371704	silvervine
+n12392070	nettle
+n12393269	ramie
+n12397431	Indian hemp
+n12401335	fig tree
+n12402596	pipal
+n12403994	paper mulberry
+n12405714	elm
+n12407715	Chinese elm
+n12409231	hackberry
+n12413301	Dutch iris
+n12414159	German iris
+n12414818	Dutch iris
+n12416703	saffron
+n12419037	amaryllis
+n12425281	liliaceous plant
+n12433178	shallot
+n12433952	Welsh onion
+n12435152	chives
+n12463134	butcher's broom
+n12481458	mother-in-law's tongue
+n12482437	Spanish bayonet
+n12482668	Spanish bayonet
+n12493426	carob
+n12496949	logwood
+n12517642	blue pea
+n12526516	tick trefoil
+n12528974	Indian coral tree
+n12553742	bead tree
+n12557064	kidney bean
+n12564083	winged bean
+n12575812	tufted vetch
+n12584365	betel palm
+n12584715	sugar palm
+n12590499	African oil palm
+n12594989	raffia palm
+n12599185	English plantain
+n12601494	buckwheat
+n12615232	tape grass
+n12615710	pondweed
+n12621945	Cherokee rose
+n12628986	quince
+n12630763	beach strawberry
+n12631331	avens
+n12634734	Siberian crab
+n12637123	silverweed
+n12640607	apricot
+n12641931	wild cherry
+n12648196	nectarine
