@@ -1,0 +1,90 @@
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "60408", "ImageID_2": "6150", "ImageClassWNID_1": "n04379243", "ImageClassWNID_2": "n12486574"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "60408", "ImageID_2": "6150", "ImageClassWNID_1": "n04379243", "ImageClassWNID_2": "n12486574"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "60408", "ImageID_2": "6150", "ImageClassWNID_1": "n04379243", "ImageClassWNID_2": "n12486574"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "60408", "ImageID_2": "6150", "ImageClassWNID_1": "n04379243", "ImageClassWNID_2": "n12486574"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "60408", "ImageID_2": "6150", "ImageClassWNID_1": "n04379243", "ImageClassWNID_2": "n12486574"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "60408", "ImageID_2": "6150", "ImageClassWNID_1": "n04379243", "ImageClassWNID_2": "n12486574"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "60408", "ImageID_2": "6150", "ImageClassWNID_1": "n04379243", "ImageClassWNID_2": "n12486574"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "60408", "ImageID_2": "6150", "ImageClassWNID_1": "n04379243", "ImageClassWNID_2": "n12486574"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "60408", "ImageID_2": "6150", "ImageClassWNID_1": "n04379243", "ImageClassWNID_2": "n12486574"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "60408", "ImageID_2": "6150", "ImageClassWNID_1": "n04379243", "ImageClassWNID_2": "n12486574"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "60408", "ImageID_2": "6150", "ImageClassWNID_1": "n04379243", "ImageClassWNID_2": "n12486574"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "60408", "ImageID_2": "6150", "ImageClassWNID_1": "n04379243", "ImageClassWNID_2": "n12486574"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "60408", "ImageID_2": "6150", "ImageClassWNID_1": "n04379243", "ImageClassWNID_2": "n12486574"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "60408", "ImageID_2": "6150", "ImageClassWNID_1": "n04379243", "ImageClassWNID_2": "n12486574"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "60408", "ImageID_2": "6150", "ImageClassWNID_1": "n04379243", "ImageClassWNID_2": "n12486574"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "60408", "ImageID_2": "6150", "ImageClassWNID_1": "n04379243", "ImageClassWNID_2": "n12486574"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "55", "ImageID_2": "47982", "ImageClassWNID_1": "n02036711", "ImageClassWNID_2": "n03351151"}
+{"UserName": "jiao", "Status": "log", "Relativity": "yes", "UserID": "7", "ImageID_1": "70055", "ImageID_2": "4421", "ImageClassWNID_1": "n07892813", "ImageClassWNID_2": "n10085869"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "39141", "ImageID_2": "85208", "ImageClassWNID_1": "n02625258", "ImageClassWNID_2": "n12634429"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "838", "ImageID_2": "64210", "ImageClassWNID_1": "n04501947", "ImageClassWNID_2": "n06596607"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "21114", "ImageID_2": "39120", "ImageClassWNID_1": "n01824575", "ImageClassWNID_2": "n02620167"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "25982", "ImageID_2": "84849", "ImageClassWNID_1": "n01518878", "ImageClassWNID_2": "n12574866"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "44314", "ImageID_2": "72026", "ImageClassWNID_1": "n03033362", "ImageClassWNID_2": "n09411189"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "50250", "ImageID_2": "68656", "ImageClassWNID_1": "n03529860", "ImageClassWNID_2": "n07823105"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "12520", "ImageID_2": "61720", "ImageClassWNID_1": "n03555426", "ImageClassWNID_2": "n04483307"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "42106", "ImageID_2": "26882", "ImageClassWNID_1": "n02879309", "ImageClassWNID_2": "n01569566"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "6239", "ImageID_2": "31044", "ImageClassWNID_1": "n12373100", "ImageClassWNID_2": "n01880152"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "7134", "ImageID_2": "41110", "ImageClassWNID_1": "n12719684", "ImageClassWNID_2": "n02811936"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "72233", "ImageID_2": "77092", "ImageClassWNID_1": "n09445008", "ImageClassWNID_2": "n10513938"}
+{"UserName": "jiao", "Status": "log", "Relativity": "yes", "UserID": "7", "ImageID_1": "73616", "ImageID_2": "39449", "ImageClassWNID_1": "n09835506", "ImageClassWNID_2": "n02681392"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "39805", "ImageID_2": "13881", "ImageClassWNID_1": "n02726305", "ImageClassWNID_2": "n12295796"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "85292", "ImageID_2": "83464", "ImageClassWNID_1": "n12643473", "ImageClassWNID_2": "n12336224"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "65362", "ImageID_2": "13633", "ImageClassWNID_1": "n07608098", "ImageClassWNID_2": "n12071744"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "35928", "ImageID_2": "20312", "ImageClassWNID_1": "n02276258", "ImageClassWNID_2": "n04409515"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "27733", "ImageID_2": "19353", "ImageClassWNID_1": "n01611800", "ImageClassWNID_2": "n12148757"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "72313", "ImageID_2": "61268", "ImageClassWNID_1": "n09454412", "ImageClassWNID_2": "n04449550"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "44742", "ImageID_2": "84334", "ImageClassWNID_1": "n03063689", "ImageClassWNID_2": "n12477163"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "35777", "ImageID_2": "11587", "ImageClassWNID_1": "n02256172", "ImageClassWNID_2": "n07679356"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "11352", "ImageID_2": "24099", "ImageClassWNID_1": "n02169023", "ImageClassWNID_2": "n01595974"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "32633", "ImageID_2": "31723", "ImageClassWNID_1": "n02034661", "ImageClassWNID_2": "n01980166"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "29751", "ImageID_2": "58501", "ImageClassWNID_1": "n01797886", "ImageClassWNID_2": "n04221076"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "60082", "ImageID_2": "35855", "ImageClassWNID_1": "n04346328", "ImageClassWNID_2": "n02268148"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "37536", "ImageID_2": "70408", "ImageClassWNID_1": "n02416880", "ImageClassWNID_2": "n07911371"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "80748", "ImageID_2": "12497", "ImageClassWNID_1": "n11936864", "ImageClassWNID_2": "n03122202"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "16620", "ImageID_2": "12793", "ImageClassWNID_1": "n04591517", "ImageClassWNID_2": "n01968315"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "25575", "ImageID_2": "35286", "ImageClassWNID_1": "n01407798", "ImageClassWNID_2": "n02190166"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "76246", "ImageID_2": "34374", "ImageClassWNID_1": "n10314836", "ImageClassWNID_2": "n02113799"}
+{"UserName": "jiao", "Status": "log", "Relativity": "yes", "UserID": "7", "ImageID_1": "81848", "ImageID_2": "2142", "ImageClassWNID_1": "n12072722", "ImageClassWNID_2": "n12659356"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "75699", "ImageID_2": "28949", "ImageClassWNID_1": "n10205231", "ImageClassWNID_2": "n01730563"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "54867", "ImageID_2": "66161", "ImageClassWNID_1": "n03930313", "ImageClassWNID_2": "n07690019"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "1464", "ImageID_2": "78364", "ImageClassWNID_1": "n10037385", "ImageClassWNID_2": "n11524451"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "5880", "ImageID_2": "46915", "ImageClassWNID_1": "n04383839", "ImageClassWNID_2": "n03249569"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "64009", "ImageID_2": "16435", "ImageClassWNID_1": "n05716342", "ImageClassWNID_2": "n01741943"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "69228", "ImageID_2": "51628", "ImageClassWNID_1": "n07860988", "ImageClassWNID_2": "n03657121"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "13459", "ImageID_2": "59449", "ImageClassWNID_1": "n04210390", "ImageClassWNID_2": "n04295571"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "46876", "ImageID_2": "7089", "ImageClassWNID_1": "n03244047", "ImageClassWNID_2": "n03371875"}
+{"UserName": "jiao", "Status": "log", "Relativity": "yes", "UserID": "7", "ImageID_1": "30760", "ImageID_2": "57732", "ImageClassWNID_1": "n01855032", "ImageClassWNID_2": "n04160586"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "2235", "ImageID_2": "70899", "ImageClassWNID_1": "n03903424", "ImageClassWNID_2": "n07942152"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "71015", "ImageID_2": "6399", "ImageClassWNID_1": "n08505018", "ImageClassWNID_2": "n10465831"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "48750", "ImageID_2": "42754", "ImageClassWNID_1": "n03416094", "ImageClassWNID_2": "n02922578"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "24812", "ImageID_2": "336", "ImageClassWNID_1": "n00456465", "ImageClassWNID_2": "n03944138"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "35440", "ImageID_2": "6998", "ImageClassWNID_1": "n02208280", "ImageClassWNID_2": "n04019101"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "7951", "ImageID_2": "53819", "ImageClassWNID_1": "n02978055", "ImageClassWNID_2": "n03847823"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "16852", "ImageID_2": "25784", "ImageClassWNID_1": "n02836035", "ImageClassWNID_2": "n01488038"}
+{"UserName": "jiao", "Status": "log", "Relativity": "similar", "UserID": "7", "ImageID_1": "73774", "ImageID_2": "20490", "ImageClassWNID_1": "n09856671", "ImageClassWNID_2": "n04469514"}
+{"UserName": "jiao", "Status": "log", "Relativity": "yes", "UserID": "7", "ImageID_1": "28865", "ImageID_2": "9325", "ImageClassWNID_1": "n01701859", "ImageClassWNID_2": "n01755581"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "20357", "ImageID_2": "59937", "ImageClassWNID_1": "n01581984", "ImageClassWNID_2": "n04332074"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "5281", "ImageID_2": "8688", "ImageClassWNID_1": "n04559451", "ImageClassWNID_2": "n03976467"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "69656", "ImageID_2": "39476", "ImageClassWNID_1": "n07875560", "ImageClassWNID_2": "n02683454"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "54670", "ImageID_2": "40155", "ImageClassWNID_1": "n03911513", "ImageClassWNID_2": "n02757462"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "23641", "ImageID_2": "23097", "ImageClassWNID_1": "n02510455", "ImageClassWNID_2": "n07680761"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "48900", "ImageID_2": "84411", "ImageClassWNID_1": "n03424325", "ImageClassWNID_2": "n12485981"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "34445", "ImageID_2": "5962", "ImageClassWNID_1": "n02116738", "ImageClassWNID_2": "n04189816"}
+{"UserName": "jiao", "Status": "log", "Relativity": "yes", "UserID": "7", "ImageID_1": "67012", "ImageID_2": "67193", "ImageClassWNID_1": "n07725789", "ImageClassWNID_2": "n07732168"}
+{"UserName": "jiao", "Status": "log", "Relativity": "yes", "UserID": "7", "ImageID_1": "55954", "ImageID_2": "25170", "ImageClassWNID_1": "n04026813", "ImageClassWNID_2": "n00450335"}
+{"UserName": "jiao", "Status": "log", "Relativity": "similar", "UserID": "7", "ImageID_1": "13461", "ImageID_2": "45167", "ImageClassWNID_1": "n12774299", "ImageClassWNID_2": "n03098959"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "28220", "ImageID_2": "58740", "ImageClassWNID_1": "n01641206", "ImageClassWNID_2": "n04238321"}
+{"UserName": "jiao", "Status": "log", "Relativity": "yes", "UserID": "7", "ImageID_1": "2334", "ImageID_2": "29088", "ImageClassWNID_1": "n01584225", "ImageClassWNID_2": "n01740131"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "57998", "ImageID_2": "31540", "ImageClassWNID_1": "n04183217", "ImageClassWNID_2": "n01956344"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "26603", "ImageID_2": "22468", "ImageClassWNID_1": "n01555305", "ImageClassWNID_2": "n05244934"}
+{"UserName": "jiao", "Status": "log", "Relativity": "yes", "UserID": "7", "ImageID_1": "21308", "ImageID_2": "9454", "ImageClassWNID_1": "n02493793", "ImageClassWNID_2": "n02485536"}
+{"UserName": "jiao", "Status": "log", "Relativity": "no", "UserID": "7", "ImageID_1": "46976", "ImageID_2": "64582", "ImageClassWNID_1": "n03254862", "ImageClassWNID_2": "n07575076"}
+{"PreferenceNumber": "165", "PreferenceLevel": "14"}
+{"PreferenceNumber": "166", "PreferenceLevel": "14"}
+{"PreferenceNumber": "167", "PreferenceLevel": "14"}
+{"PreferenceNumber": "168", "PreferenceLevel": "14"}
+{"PreferenceNumber": "169", "PreferenceLevel": "14"}
+{"PreferenceNumber": "170", "PreferenceLevel": "14"}
+{"RelativityLevel": "9", "RelativityNumber": "86"}
+{"RelativityLevel": "9", "RelativityNumber": "90"}

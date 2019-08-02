@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Imagenet Evaluation</title>
+</head>
+
+<style type="text/css">
+
+.button{
+	font-size:24px;
+	margin-left:20px;
+	margin-right:20px;
+	width:350px;
+	height:40px;
+}
+
+.nextbutton{
+	font-size:24px;
+	margin-top:20px;
+	margin-bottom:20px;
+	margin-left:20px;
+	margin-right:20px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+</style>
+
+
+<body>
+
+<img src="data:;base64,{{EvaImageStream}}" alt="First Image Broken!" height=400 id="EvaImage">
+<img src="data:;base64,{{ComImageStream}}" alt="Second Image Broken!" height=400 id="ComImage"> <br />
+
+
+<form id="form1" method="post">
+User Name: <input type="text" name="username" value="{{UserName}}" id="userName"  readonly>
+, User ID:<input type="text" name="userid" value="{{UserID}}" id="userID" readonly> <br />
+First Image ID:<input type="text" name="evaimageid" value={{EvaluationID}} id="EvaluationID" readonly>
+, Second Image ID:<input type="text" name="comimageid" value={{CompareID}} id="CompareID" readonly>
+
+</form>
+
+
+<div>
+<button onclick="onNextSend();" class="nextbutton" id="nextButton">  Next  </button>
+<button onclick="onBrokenSend(this);" class="nextbutton" id="brokenButton1" >First Image Broken!</button>
+<button onclick="onBrokenSend(this);" class="nextbutton" id="brokenButton2">Second Image Broken!</button>
+</div>
+
+<div style="font-size:28px;">
+<p id="question"></p>
+<p id="japanese_translation"></p>
+<p id="chinese_translation"></p>
+</div>
+
+<div>
+<button id="btn1" class="button" onclick="onStateChange(this);"></button>
+<button id="btn2" class="button" onclick="onStateChange(this);"></button>
+<button id="btn3" class="button" onclick="onStateChange(this);"></button>
+</div>
+
+
+<script>
+var userName = "{{UserName}}";
+var userId = {{UserID}};
+var eva_image_name = "{{EvaluationName}}";
+var com_image_name = "{{CompareName}}";
+var eva_image_wnid = "{{EvaluationWNID}}";
+var com_image_wnid = "{{CompareWNID}}";
+var evaluationId = {{EvaluationID}};
+var compareId = {{CompareID}};
+var eva_japanese_translation = "{{EvaluationTranslateJa}}";
+var eva_chinese_translation = "{{EvaluationTranslateCh}}";
+var com_japanese_translation = "{{CompareTranslateJa}}";
+var com_chinese_translation = "{{CompareTranslateCh}}";
+var state = 0;
+var nextURL = "/next";
+var brokenURL = "/broken";
+var logURL = "/log";
+var xmlHttpRequest = null;
+var known = null;
+var formData = null;
+var q1 = "Do you like {{EvaluationName}} ? (First Image)" ;
+var q2 = "Do you like {{CompareName}} ? (Second Image)";
+var q3 = "Do you think they are related?";
+var btn1_text1 = "Yes,I like it!";
+var btn2_text1 = "No, I don't like it";
+var btn3_text1 = "Neutral.";
+var btn1_text2 = "Yes, I think they are related.";
+var btn2_text2 = "No, they are not related.";
+var btn3_text2 = "They seems similar.";
+
+
+
+document.getElementById("question").innerHTML = q1;
+document.getElementById("japanese_translation").innerHTML = eva_japanese_translation;
+document.getElementById("chinese_translation").innerHTML = eva_chinese_translation;
+document.getElementById("btn1").innerHTML = btn1_text1;
+document.getElementById("btn2").innerHTML = btn2_text1;
+document.getElementById("btn3").innerHTML = btn3_text1;
+
+
+formData = new FormData();
+formData.append("UserName",userName);
+formData.append("UserID",userId);
+formData.append("EvaluationID",evaluationId);
+formData.append("CompareImageID",compareId);
+formData.append("Description","NULL");
+formData.append("EvaluationWNID",eva_image_wnid)
+formData.append("CompareWNID",com_image_wnid)
+
+function onStateChange(btn){
+	switch(state){
+	case  0:
+	if (btn.getAttribute('id') == "btn1"){
+	formData.append("Preference_Image_eva","like");
+	}
+	else if(btn.getAttribute('id') == "btn2"){
+	formData.append("Preference_Image_eva","dislike");
+	}
+	else if(btn.getAttribute('id') == "btn3"){
+	formData.append("Preference_Image_eva","neutral");
+	}
+	document.getElementById("question").innerHTML = q2;
+	document.getElementById("japanese_translation").innerHTML = com_japanese_translation;
+	document.getElementById("chinese_translation").innerHTML = com_chinese_translation;
+	state = 1;
+	break
+
+
+	case  1:
+	if (btn.getAttribute('id') == "btn1"){
+	formData.append("Preference_Image_com","like");
+	}
+	else if(btn.getAttribute('id') == "btn2"){
+	formData.append("Preference_Image_com","dislike");
+	}
+	else if(btn.getAttribute('id') == "btn3"){
+	formData.append("Preference_Image_com","neutral");
+	}
+	
+	document.getElementById("question").innerHTML = q3;
+	document.getElementById("btn1").innerHTML = btn1_text2;
+	document.getElementById("btn2").innerHTML = btn2_text2;
+	document.getElementById("btn3").innerHTML = btn3_text2;
+	document.getElementById("japanese_translation").innerHTML = "";
+	document.getElementById("chinese_translation").innerHTML = "";
+
+	state = 2;
+	
+	break;
+
+	case 2:
+	if (btn.getAttribute('id') == "btn1"){
+	formData.append("Relativity","yes");
+	}
+	else if(btn.getAttribute('id') == "btn2"){
+	formData.append("Relativity","no");
+	}
+	else if(btn.getAttribute('id') == "btn3"){
+	formData.append("Relativity","similar");
+	}
+	
+	xmlHttpRequest = new XMLHttpRequest();
+	xmlHttpRequest.onreadystatechange = pageUpdate;
+	xmlHttpRequest.open("POST",logURL,true);
+	xmlHttpRequest.send(formData);
+	
+	break;
+
+	default:
+	alert("onStateChange Error!");
+	break;
+
+} //switch(state)
+}
+
+
+function onBrokenSend(btn){
+	if (btn.getAttribute('id') == "brokenButton1"){
+	formData.append("BrokenID",evaluationId);
+	}
+	else if (btn.getAttribute('id') == "brokenButton2"){
+	formData.append("BrokenID",compareId);
+	}
+	
+	xmlHttpRequest = new XMLHttpRequest();
+	xmlHttpRequest.onreadystatechange = pageUpdate;
+	xmlHttpRequest.open("POST",brokenURL,true);
+	xmlHttpRequest.send(formData);
+
+
+}
+
+
+function onNextSend()
+{
+	//alert("onBroken");
+	xmlHttpRequest = new XMLHttpRequest();
+	xmlHttpRequest.onreadystatechange = pageUpdate;
+	xmlHttpRequest.open("POST",nextURL,true);
+	xmlHttpRequest.send(formData);
+	
+}
+
+
+
+
+function pageUpdate()
+{
+if (xmlHttpRequest.readyState==4){
+	console.log("1")
+if (xmlHttpRequest.status==200){
+	console.log("2")
+	//alert("reload");
+	window.location.reload();
+
+} // if (xmlHttpBroken.status==200)
+} //if (xmlHttpBroken.readyState==4)
+}
+
+
+</script>
+
+
+</body>
+</html>

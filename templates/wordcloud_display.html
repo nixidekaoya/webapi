@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>WordCloud Display</title>
+</head>
+
+<style>
+
+.inline{
+    display:inline-block;
+}
+
+</style>
+
+
+<body>
+
+<div>
+<form id="form1" method="post">
+User Name: <input type="text" name="username" value="{{UserName}}" class="fixtext" id="userName"  readonly>
+, User ID:<input type="text" name="userid" value="{{UserID}}" class="fixtext" id="userID" readonly>
+</form>
+</div>
+
+<div class="inline">
+<div>
+<p>Word Cloud Like:</p>
+</div>
+<div>
+<img src="data:;base64,{{WordCloudLikeStream}}" alt="Image Broken!" height=300 >
+</div>
+</div>
+
+<div class="inline">
+<div>
+<p>Word Cloud Dislike:</p>
+</div>
+<div>
+<img src="data:;base64,{{WordCloudDislikeStream}}" alt="Image Broken!" height=300 >
+</div>
+</div>
+
+
+<div class="inline">
+<div>
+<p>Word Cloud Neutral:</p>
+</div>
+<div>
+<img src="data:;base64,{{WordCloudNeutralStream}}" alt="Image Broken!" height=300 >
+</div>
+</div>
+
+<script>
+
+window.onload = function(){
+    setTimeout('window.location.reload()',10000);
+}
+
+
+</script>
+
+</body>

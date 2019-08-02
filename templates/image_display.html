@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="reflesh" content="1">
+	<title>Image Display</title>
+</head>
+<body>
+
+<div align="center">
+<img align="center" height=800 src="" alt=" " id="image"> </img>
+</div>
+
+<div align="center" style="font-size:36px" id="imageInfo"> </div>
+
+<script>
+var xmlHttp0=null;
+var xmlHttp1=null;
+
+function callBack(){
+//alert(xmlHttp.readyState)
+if (xmlHttp1.readyState==4){
+	//alert("Here")
+	//alert(xmlHttp1.status)
+	if (xmlHttp1.status==200){
+	//alert("Here")
+	//alert(xmlHttp.responseText)
+	document.getElementById('imageInfo').innerHTML=xmlHttp1.responseText;
+	}
+	}
+}
+
+function imageCallBack(){
+if (xmlHttp0.readyState==4){
+	if (xmlHttp0.status==200){
+	var img = document.getElementById("image")
+	var blob = new Blob([xmlHttp0.response],{type:"image/jpg"})
+	var str= URL.createObjectURL(blob);
+	img.src = str;
+	}
+
+}
+}
+
+
+
+window.onload = function()
+{	
+	var image_url = "/getimage"
+	var url="/getfile";
+	xmlHttp0 = new XMLHttpRequest();
+	xmlHttp0.onreadystatechange = imageCallBack;
+	xmlHttp0.open("get",image_url,true);
+	xmlHttp0.responseType = "blob";
+	xmlHttp0.send(null)
+
+	//alert("Here!")
+	xmlHttp1 = new XMLHttpRequest();
+	xmlHttp1.onreadystatechange = callBack;
+	xmlHttp1.open("get",url,true);
+	xmlHttp1.responseType = "text";
+	xmlHttp1.send(null);
+	
+	//document.write(xmlHttp)
+	setTimeout('window.location.reload()',10000);
+}
+
+
+</script>
+
+</body>
+</html>

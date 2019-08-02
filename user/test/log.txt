@@ -1,0 +1,91 @@
+{"UserName": "test", "Status": "test", "Similarity": "yes", "Attribute": "\u54c8\u54c8", "SimilarImageID": "24569", "UserID": "3", "ImageID": "22706", "Preference": "like", "Known": "yes"}
+{"UserName": "test", "Status": "test", "Similarity": "no", "Attribute": "", "SimilarImageID": "21730", "UserID": "3", "ImageID": "42744", "Preference": "like", "Known": "yes"}
+{"UserName": "test", "Status": "test", "Attribute": "NULL", "Relativity": "no", "UserID": "3", "ImageID": "25233", "Preference": "like", "Known": "yes", "CompareImageID": "56533"}
+{"UserName": "test", "Status": "test", "Attribute": "NULL", "Relativity": "no", "UserID": "3", "ImageID": "84", "Preference": "like", "Known": "yes", "CompareImageID": "61807"}
+{"UserName": "test", "Status": "test", "Attribute": "NULL", "Relativity": "yes", "UserID": "3", "ImageID": "43439", "Preference": "like", "Known": "yes", "CompareImageID": "23666"}
+{"UserName": "test", "Status": "test", "Attribute": "NULL", "Relativity": "no", "UserID": "3", "ImageID": "74433", "Preference": "neutral", "Known": "yes", "CompareImageID": "68450"}
+{"UserName": "test", "Status": "test", "Attribute": "NULL", "Relativity": "no", "UserID": "3", "ImageID": "47804", "Preference": "dislike", "Known": "yes", "CompareImageID": "77872"}
+{"UserName": "test", "Status": "test", "Attribute": "NULL", "Relativity": "no", "UserID": "3", "ImageID": "33716", "Preference": "neutral", "Known": "yes", "CompareImageID": "78027"}
+{"UserName": "test", "Status": "test", "Attribute": "NULL", "Relativity": "no", "UserID": "3", "ImageID": "49109", "Preference": "neutral", "Known": "yes", "CompareImageID": "40241"}
+{"UserName": "test", "Status": "test", "Attribute": "NULL", "Relativity": "no", "UserID": "3", "ImageID": "19959", "Preference": "neutral", "Known": "yes", "CompareImageID": "77377"}
+{"UserName": "test", "Status": "test", "Relativity": "no", "UserID": "0", "ImageID_1": "69512", "ImageID_2": "80186", "ImageClassWNID_1": "n07871234", "ImageClassWNID_2": "n11853356"}
+{"UserName": "test", "Status": "test", "Relativity": "no", "UserID": "0", "ImageID_1": "45778", "ImageID_2": "25585", "ImageClassWNID_1": "n03142679", "ImageClassWNID_2": "n01410457"}
+{"UserName": "test", "Status": "test", "Relativity": "no", "UserID": "0", "ImageID_1": "63020", "ImageID_2": "54629", "ImageClassWNID_1": "n04589325", "ImageClassWNID_2": "n03908204"}
+{"UserName": "test", "Status": "test", "Relativity": "no", "UserID": "0", "ImageID_1": "24834", "ImageID_2": "36095", "ImageClassWNID_1": "n00440382", "ImageClassWNID_2": "n02284884"}
+{"UserName": "test", "Status": "test", "Relativity": "no", "UserID": "0", "ImageID_1": "6081", "ImageID_2": "11644", "ImageClassWNID_1": "n04095109", "ImageClassWNID_2": "n02081571"}
+{"UserName": "test", "Status": "test", "UserID": "0", "ImageID": "25515", "ImageClassWNID": "n01382033", "Preference": "like"}
+{"UserName": "test", "Status": "test", "UserID": "0", "ImageID": "78004", "ImageClassWNID": "n10720453", "Preference": "dislike"}
+{"UserName": "test", "Status": "test", "UserID": "0", "ImageID": "59112", "ImageClassWNID": "n04264361", "Preference": "dislike"}
+{"UserName": "test", "Status": "test", "UserID": "0", "ImageID": "83793", "ImageClassWNID": "n12389501", "Preference": "dislike"}
+{"UserName": "test", "Status": "test", "UserID": "0", "ImageID": "1620", "ImageClassWNID": "n04118776", "Preference": "dislike"}
+{"UserName": "test", "Status": "test", "UserID": "0", "ImageID": "66015", "ImageClassWNID": "n07684289", "Preference": "like"}
+{"UserName": "test", "Status": "test", "UserID": "0", "ImageID": "11209", "ImageClassWNID": "n11860555", "Preference": "like"}
+{"UserName": "test", "Status": "test", "UserID": "0", "ImageID": "51640", "ImageClassWNID": "n03658858", "Preference": "like"}
+{"UserName": "test", "Status": "test", "Relativity": "no", "UserID": "0", "ImageID_1": "14517", "ImageID_2": "19252", "ImageClassWNID_1": "n03498781", "ImageClassWNID_2": "n13194572"}
+{"UserName": "test", "Status": "test", "Relativity": "no", "UserID": "0", "ImageID_1": "16874", "ImageID_2": "77108", "ImageClassWNID_1": "n13060190", "ImageClassWNID_2": "n10519984"}
+{"UserName": "test", "Status": "test", "Relativity": "no", "UserID": "0", "ImageID_1": "63822", "ImageID_2": "25852", "ImageClassWNID_1": "n04972801", "ImageClassWNID_2": "n01496331"}
+{"UserName": "test", "Status": "test", "Relativity": "no", "UserID": "0", "ImageID_1": "51860", "ImageID_2": "37108", "ImageClassWNID_1": "n03679712", "ImageClassWNID_2": "n02389559"}
+{"UserName": "test", "Status": "test", "Relativity": "no", "UserID": "0", "ImageID_1": "83720", "ImageID_2": "35728", "ImageClassWNID_1": "n12380761", "ImageClassWNID_2": "n02244173"}
+{"UserName": "test", "Status": "test", "Relativity": "no", "UserID": "0", "ImageID_1": "39468", "ImageID_2": "22284", "ImageClassWNID_1": "n02683323", "ImageClassWNID_2": "n03221059"}
+{"UserName": "test", "Status": "test", "Relativity": "no", "UserID": "0", "ImageID_1": "41814", "ImageID_2": "63363", "ImageClassWNID_1": "n02861286", "ImageClassWNID_2": "n04608329"}
+{"UserName": "test", "Status": "test", "Relativity": "no", "UserID": "0", "ImageID_1": "84042", "ImageID_2": "73855", "ImageClassWNID_1": "n12426749", "ImageClassWNID_2": "n09872066"}
+{"UserName": "test", "Status": "test", "UserID": "0", "ImageID": "80220", "ImageClassWNID": "n11857696", "Preference": "dislike"}
+{"UserName": "test", "Status": "test", "UserID": "0", "ImageID": "32285", "ImageClassWNID": "n02021050", "Preference": "like"}
+{"UserName": "test", "Status": "test", "Relativity": "NULL", "UserID": "0", "ImageID_1": "68424", "ImageID_2": "27744", "ImageClassWNID_1": "n07813324", "ImageClassWNID_2": "n01611969"}
+{"UserName": "test", "Status": "test", "Relativity": "NULL", "UserID": "0", "ImageID_1": "80153", "ImageID_2": "73042", "ImageClassWNID_1": "n11849983", "ImageClassWNID_2": "n09726621"}
+{"PreferenceNumber": "37"}
+{"RelativityNumber": "25"}
+{"PreferenceNumber": "38", "PreferenceLevel": "5"}
+{"PreferenceNumber": "39", "PreferenceLevel": "5"}
+{"PreferenceNumber": "40", "PreferenceLevel": "5"}
+{"PreferenceNumber": "41", "PreferenceLevel": "5"}
+{"PreferenceNumber": "42", "PreferenceLevel": "5"}
+{"PreferenceNumber": "43", "PreferenceLevel": "5"}
+{"PreferenceNumber": "44", "PreferenceLevel": "5"}
+{"PreferenceNumber": "45", "PreferenceLevel": "6"}
+{"PreferenceNumber": "46", "PreferenceLevel": "6"}
+{"PreferenceNumber": "47", "PreferenceLevel": "6"}
+{"PreferenceNumber": "48", "PreferenceLevel": "6"}
+{"PreferenceNumber": "49", "PreferenceLevel": "6"}
+{"PreferenceNumber": "50", "PreferenceLevel": "6"}
+{"PreferenceNumber": "51", "PreferenceLevel": "6"}
+{"PreferenceNumber": "52", "PreferenceLevel": "6"}
+{"PreferenceNumber": "53", "PreferenceLevel": "6"}
+{"PreferenceNumber": "54", "PreferenceLevel": "6"}
+{"PreferenceNumber": "55", "PreferenceLevel": "6"}
+{"PreferenceNumber": "56", "PreferenceLevel": "7"}
+{"PreferenceNumber": "57", "PreferenceLevel": "7"}
+{"PreferenceNumber": "58", "PreferenceLevel": "7"}
+{"PreferenceNumber": "59", "PreferenceLevel": "7"}
+{"PreferenceNumber": "60", "PreferenceLevel": "7"}
+{"PreferenceNumber": "61", "PreferenceLevel": "7"}
+{"PreferenceNumber": "62", "PreferenceLevel": "7"}
+{"PreferenceNumber": "63", "PreferenceLevel": "7"}
+{"PreferenceNumber": "64", "PreferenceLevel": "7"}
+{"PreferenceNumber": "65", "PreferenceLevel": "7"}
+{"PreferenceNumber": "66", "PreferenceLevel": "7"}
+{"PreferenceNumber": "67", "PreferenceLevel": "7"}
+{"PreferenceNumber": "68", "PreferenceLevel": "8"}
+{"PreferenceNumber": "69", "PreferenceLevel": "8"}
+{"RelativityLevel": "4", "RelativityNumber": "29"}
+{"RelativityLevel": "4", "RelativityNumber": "33"}
+{"RelativityLevel": "5", "RelativityNumber": "37"}
+{"RelativityLevel": "5", "RelativityNumber": "41"}
+{"RelativityLevel": "6", "RelativityNumber": "45"}
+{"RelativityLevel": "6", "RelativityNumber": "49"}
+{"PreferenceNumber": "70", "PreferenceLevel": "8"}
+{"PreferenceNumber": "71", "PreferenceLevel": "8"}
+{"PreferenceNumber": "72", "PreferenceLevel": "8"}
+{"RelativityLevel": "6", "RelativityNumber": "53"}
+{"PreferenceNumber": "73", "PreferenceLevel": "8"}
+{"PreferenceNumber": "74", "PreferenceLevel": "8"}
+{"PreferenceNumber": "75", "PreferenceLevel": "8"}
+{"PreferenceNumber": "76", "PreferenceLevel": "8"}
+{"PreferenceNumber": "77", "PreferenceLevel": "8"}
+{"PreferenceNumber": "78", "PreferenceLevel": "8"}
+{"PreferenceNumber": "79", "PreferenceLevel": "8"}
+{"PreferenceNumber": "80", "PreferenceLevel": "8"}
+{"PreferenceNumber": "81", "PreferenceLevel": "9"}
+{"PreferenceNumber": "82", "PreferenceLevel": "9"}
+{"PreferenceNumber": "83", "PreferenceLevel": "9"}
+{"RelativityLevel": "7", "RelativityNumber": "57"}

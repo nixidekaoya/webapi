@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Imagenet Evaluation</title>
+</head>
+<body>
+
+<img src="data:;base64,{{EvaImageStream}}" alt="First Image Broken!" height=400 id="EvaImage">
+<img src="data:;base64,{{ComImageStream}}" alt="Second Image Broken!" height=350 id="ComImage"> <br />
+
+
+<form id="form1" method="post">
+User Name: <input type="text" name="username" value="{{UserName}}" readonly>
+, User ID:<input type="text" name="userid" value="{{UserID}}" readonly> <br />
+First Image ID:<input type="text" name="evaimageid" value={{EvaluationID}} readonly>
+, Second Image ID:<input type="text" name="comimageid" value={{CompareID}} readonly> <br />
+
+<div style="margin:0px auto;">
+Do you understand the content of the the first image? <br />
+<input type="radio" name="known" value="yes" checked> Yes <br />
+<input type="radio" name="known" value="no"> No <br />
+Do you like {{EvaluationName}}? (first image) <br />
+<input type="radio" name="preference" value="NULL" checked> No Response<br />
+<input type="radio" name="preference" value="like"> Like <br />
+<input type="radio" name="preference" value="neutral"> Neutral <br />
+<input type="radio" name="preference" value="dislike"> Dislike <br />
+Do you think it is related to {{CompareName}}? (second image)<br />
+<input type="radio" name="relativity" value="NULL" checked> No Response<br />
+<input type="radio" name="relativity" value="yes"> Yes <br />
+<input type="radio" name="relativity" value="no"> No <br />
+Type a word to describe the first image:<br />
+<input type="text" name="describe" id="describe"><br />
+
+<button type="submit" formaction="log" formmethod="post">Submit</button>
+<button type="submit" formaction="broken" formmethod="post">Broken</button>
+
+
+</form>
+
+</div>
+
+<script type="text/javascript">
+
+
+</script>
+
+</body>
+</html>

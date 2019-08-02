@@ -1,0 +1,94 @@
+{"UserName": "ustyui", "Status": "log", "Relativity": "no", "UserID": "8", "ImageID_1": "77053", "ImageID_2": "82031", "ImageClassWNID_1": "n10506544", "ImageClassWNID_2": "n12091213"}
+{"UserName": "ustyui", "Status": "log", "Relativity": "no", "UserID": "8", "ImageID_1": "50941", "ImageID_2": "26904", "ImageClassWNID_1": "n03598930", "ImageClassWNID_2": "n01570839"}
+{"UserName": "ustyui", "Status": "log", "Relativity": "no", "UserID": "8", "ImageID_1": "20174", "ImageID_2": "16751", "ImageClassWNID_1": "n03449451", "ImageClassWNID_2": "n12453186"}
+{"UserName": "ustyui", "Status": "log", "Relativity": "no", "UserID": "8", "ImageID_1": "36935", "ImageID_2": "13635", "ImageClassWNID_1": "n02382204", "ImageClassWNID_2": "n03698723"}
+{"UserName": "ustyui", "Status": "log", "Relativity": "no", "UserID": "8", "ImageID_1": "29711", "ImageID_2": "39498", "ImageClassWNID_1": "n01795088", "ImageClassWNID_2": "n02686121"}
+{"UserName": "ustyui", "Status": "log", "Relativity": "no", "UserID": "8", "ImageID_1": "39390", "ImageID_2": "6239", "ImageClassWNID_1": "n02670186", "ImageClassWNID_2": "n12373100"}
+{"UserName": "ustyui", "Status": "log", "Relativity": "no", "UserID": "8", "ImageID_1": "32019", "ImageID_2": "3123", "ImageClassWNID_1": "n02008041", "ImageClassWNID_2": "n03101796"}
+{"UserName": "ustyui", "Status": "log", "Relativity": "no", "UserID": "8", "ImageID_1": "57024", "ImageID_2": "77063", "ImageClassWNID_1": "n04111190", "ImageClassWNID_2": "n10508710"}
+{"UserName": "ustyui", "Status": "log", "Relativity": "no", "UserID": "8", "ImageID_1": "36115", "ImageID_2": "19843", "ImageClassWNID_1": "n02289307", "ImageClassWNID_2": "n04172776"}
+{"UserName": "ustyui", "Status": "log", "Relativity": "no", "UserID": "8", "ImageID_1": "9670", "ImageID_2": "75230", "ImageClassWNID_1": "n01812337", "ImageClassWNID_2": "n10137825"}
+{"UserName": "ustyui", "Status": "log", "Relativity": "similar", "UserID": "8", "ImageID_1": "15192", "ImageID_2": "53858", "ImageClassWNID_1": "n03533014", "ImageClassWNID_2": "n03854065"}
+{"UserName": "ustyui", "Status": "log", "Relativity": "no", "UserID": "8", "ImageID_1": "56187", "ImageID_2": "23710", "ImageClassWNID_1": "n04041069", "ImageClassWNID_2": "n02110185"}
+{"UserName": "ustyui", "Status": "log", "Relativity": "no", "UserID": "8", "ImageID_1": "81682", "ImageID_2": "24643", "ImageClassWNID_1": "n12052787", "ImageClassWNID_2": "n02739668"}
+{"UserName": "ustyui", "Status": "log", "Relativity": "no", "UserID": "8", "ImageID_1": "9534", "ImageID_2": "1002", "ImageClassWNID_1": "n02438580", "ImageClassWNID_2": "n01915811"}
+{"UserName": "ustyui", "Status": "log", "Relativity": "no", "UserID": "8", "ImageID_1": "84298", "ImageID_2": "40354", "ImageClassWNID_1": "n12473608", "ImageClassWNID_2": "n02769669"}
+{"UserName": "ustyui", "Status": "log", "Relativity": "no", "UserID": "8", "ImageID_1": "47127", "ImageID_2": "8058", "ImageClassWNID_1": "n03271030", "ImageClassWNID_2": "n12850168"}
+{"UserName": "ustyui", "Status": "log", "Relativity": "no", "UserID": "8", "ImageID_1": "47127", "ImageID_2": "8058", "ImageClassWNID_1": "n03271030", "ImageClassWNID_2": "n12850168"}
+{"UserName": "ustyui", "Status": "log", "Relativity": "no", "UserID": "8", "ImageID_1": "47127", "ImageID_2": "8058", "ImageClassWNID_1": "n03271030", "ImageClassWNID_2": "n12850168"}
+{"PreferenceNumber": "37", "PreferenceLevel": "5"}
+{"PreferenceNumber": "38", "PreferenceLevel": "5"}
+{"PreferenceNumber": "39", "PreferenceLevel": "5"}
+{"PreferenceNumber": "40", "PreferenceLevel": "5"}
+{"PreferenceNumber": "41", "PreferenceLevel": "5"}
+{"PreferenceNumber": "42", "PreferenceLevel": "5"}
+{"PreferenceNumber": "43", "PreferenceLevel": "5"}
+{"PreferenceNumber": "44", "PreferenceLevel": "5"}
+{"PreferenceNumber": "45", "PreferenceLevel": "6"}
+{"PreferenceNumber": "46", "PreferenceLevel": "6"}
+{"PreferenceNumber": "47", "PreferenceLevel": "6"}
+{"PreferenceNumber": "48", "PreferenceLevel": "6"}
+{"PreferenceNumber": "49", "PreferenceLevel": "6"}
+{"PreferenceNumber": "50", "PreferenceLevel": "6"}
+{"PreferenceNumber": "51", "PreferenceLevel": "6"}
+{"PreferenceNumber": "52", "PreferenceLevel": "6"}
+{"PreferenceNumber": "53", "PreferenceLevel": "6"}
+{"PreferenceNumber": "54", "PreferenceLevel": "6"}
+{"PreferenceNumber": "55", "PreferenceLevel": "6"}
+{"PreferenceNumber": "56", "PreferenceLevel": "7"}
+{"PreferenceNumber": "57", "PreferenceLevel": "7"}
+{"PreferenceNumber": "58", "PreferenceLevel": "7"}
+{"PreferenceNumber": "59", "PreferenceLevel": "7"}
+{"PreferenceNumber": "60", "PreferenceLevel": "7"}
+{"PreferenceNumber": "61", "PreferenceLevel": "7"}
+{"PreferenceNumber": "62", "PreferenceLevel": "7"}
+{"PreferenceNumber": "63", "PreferenceLevel": "7"}
+{"PreferenceNumber": "64", "PreferenceLevel": "7"}
+{"PreferenceNumber": "65", "PreferenceLevel": "7"}
+{"PreferenceNumber": "66", "PreferenceLevel": "7"}
+{"PreferenceNumber": "67", "PreferenceLevel": "7"}
+{"PreferenceNumber": "68", "PreferenceLevel": "8"}
+{"PreferenceNumber": "69", "PreferenceLevel": "8"}
+{"PreferenceNumber": "70", "PreferenceLevel": "8"}
+{"PreferenceNumber": "71", "PreferenceLevel": "8"}
+{"PreferenceNumber": "72", "PreferenceLevel": "8"}
+{"PreferenceNumber": "73", "PreferenceLevel": "8"}
+{"PreferenceNumber": "74", "PreferenceLevel": "8"}
+{"PreferenceNumber": "75", "PreferenceLevel": "8"}
+{"PreferenceNumber": "76", "PreferenceLevel": "8"}
+{"PreferenceNumber": "77", "PreferenceLevel": "8"}
+{"PreferenceNumber": "78", "PreferenceLevel": "8"}
+{"PreferenceNumber": "79", "PreferenceLevel": "8"}
+{"PreferenceNumber": "80", "PreferenceLevel": "8"}
+{"PreferenceNumber": "81", "PreferenceLevel": "9"}
+{"PreferenceNumber": "82", "PreferenceLevel": "9"}
+{"PreferenceNumber": "83", "PreferenceLevel": "9"}
+{"PreferenceNumber": "84", "PreferenceLevel": "9"}
+{"PreferenceNumber": "85", "PreferenceLevel": "9"}
+{"PreferenceNumber": "86", "PreferenceLevel": "9"}
+{"PreferenceNumber": "87", "PreferenceLevel": "9"}
+{"PreferenceNumber": "88", "PreferenceLevel": "9"}
+{"PreferenceNumber": "89", "PreferenceLevel": "9"}
+{"PreferenceNumber": "90", "PreferenceLevel": "9"}
+{"PreferenceNumber": "91", "PreferenceLevel": "9"}
+{"PreferenceNumber": "92", "PreferenceLevel": "9"}
+{"PreferenceNumber": "93", "PreferenceLevel": "9"}
+{"PreferenceNumber": "94", "PreferenceLevel": "9"}
+{"PreferenceNumber": "95", "PreferenceLevel": "10"}
+{"PreferenceNumber": "96", "PreferenceLevel": "10"}
+{"PreferenceNumber": "97", "PreferenceLevel": "10"}
+{"PreferenceNumber": "98", "PreferenceLevel": "10"}
+{"PreferenceNumber": "99", "PreferenceLevel": "10"}
+{"PreferenceNumber": "100", "PreferenceLevel": "10"}
+{"PreferenceNumber": "101", "PreferenceLevel": "10"}
+{"PreferenceNumber": "102", "PreferenceLevel": "10"}
+{"PreferenceNumber": "103", "PreferenceLevel": "10"}
+{"PreferenceNumber": "104", "PreferenceLevel": "10"}
+{"PreferenceNumber": "105", "PreferenceLevel": "10"}
+{"PreferenceNumber": "106", "PreferenceLevel": "10"}
+{"PreferenceNumber": "107", "PreferenceLevel": "10"}
+{"PreferenceNumber": "108", "PreferenceLevel": "10"}
+{"PreferenceNumber": "109", "PreferenceLevel": "10"}
+{"PreferenceNumber": "110", "PreferenceLevel": "11"}
+{"PreferenceNumber": "111", "PreferenceLevel": "11"}
+{"PreferenceNumber": "112", "PreferenceLevel": "11"}

@@ -1,0 +1,2 @@
+{"UserName": "wang yifei", "Status": "test", "Similarity": "no", "Attribute": "", "SimilarImageID": "69363", "UserID": "4", "ImageID": "159", "Preference": "like", "Known": "yes"}
+{"UserName": "wang yifei", "Status": "test", "Similarity": "NULL", "Attribute": "", "SimilarImageID": "11648", "UserID": "4", "ImageID": "66177", "Preference": "NULL", "Known": "no"}

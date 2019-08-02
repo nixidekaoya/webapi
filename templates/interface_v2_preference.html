@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Imagenet Evaluation</title>
+</head>
+
+<style type="text/css">
+
+.inline{
+    display:inline-block;
+}
+
+.button{
+	font-size:24px;
+	margin-left:20px;
+	margin-right:20px;
+	width:350px;
+	height:40px;
+}
+
+.nextbutton{
+	font-size:24px;
+	margin-top:10px;
+	margin-bottom:10px;
+	margin-left:20px;
+	margin-right:20px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+</style>
+
+
+<body>
+
+
+
+<div class="inline">
+<form id="form1" method="post">
+User Name: <input type="text" name="username" value="{{UserName}}" id="userName"  readonly>
+, User ID:<input type="text" name="userid" value="{{UserID}}" id="userID" readonly> <br />
+
+</form>
+</div>
+
+<div class="inline">
+<p class="inline">Lv. {{UserLevel}}  </p>
+<progress max = "100", value = "{{CompleteRatio}}" class="inline">{{completeRatio}}%</progress>
+</div>
+
+<div>
+<img src="data:;base64,{{ImageStream}}" alt="Image Broken!" height=350 id="Image">
+</div>
+
+<div>
+<button onclick="onNextSend();" class="nextbutton" id="nextButton">  Next  </button>
+<button onclick="onBrokenSend();" class="nextbutton" id="brokenButton">Image Broken!</button>
+</div>
+
+<div style="font-size:28px;">
+<p id="question"></p>
+<p id="japanese_translation"></p>
+<p id="chinese_translation"></p>
+</div>
+
+<div>
+<button id="btn1" class="button" onclick="onStateChange(this);"></button>
+<button id="btn2" class="button" onclick="onStateChange(this);"></button>
+<button id="btn3" class="button" onclick="onStateChange(this);"></button>
+</div>
+
+
+<script>
+var userName = "{{UserName}}";
+var userId = {{UserID}};
+var userNumber = {{UserNumber}};
+var userLevel = {{UserLevel}};
+var completeRatio = "{{CompleteRatio}}" + "%";
+var image_name = "{{ImageName}}";
+var image_wnid = "{{ImageWNID}}";
+var imageId = {{ImageID}};
+var image_japanese_translation = "{{TranslateJa}}";
+var image_chinese_translation = "{{TranslateCh}}";
+var nextURL = "/next";
+var brokenURL = "/broken";
+var logURL = "/log";
+var xmlHttpRequest = null;
+var known = null;
+var formData = null;
+var question = "Do you like {{ImageName}} ? (Japanese: {{TranslateJa}}),(Chinese: {{TranslateCh}})" ;
+var btn1_text = "Yes,I like it!";
+var btn2_text = "No, I don't like it";
+var btn3_text = "Neutral.";
+
+
+
+document.getElementById("question").innerHTML = question;
+//document.getElementById("japanese_translation").innerHTML = image_japanese_translation;
+//document.getElementById("chinese_translation").innerHTML = image_chinese_translation;
+document.getElementById("btn1").innerHTML = btn1_text;
+document.getElementById("btn2").innerHTML = btn2_text;
+document.getElementById("btn3").innerHTML = btn3_text;
+
+
+formData = new FormData();
+formData.append("UserName",userName);
+formData.append("UserID",userId);
+formData.append("ImageID",imageId);
+formData.append("ImageWNID",image_wnid)
+
+function onStateChange(btn){
+	if (btn.getAttribute('id') == "btn1"){
+	formData.append("Preference","like");
+	}
+	else if(btn.getAttribute('id') == "btn2"){
+	formData.append("Preference","dislike");
+	}
+	else if(btn.getAttribute('id') == "btn3"){
+	formData.append("Preference","neutral");
+	}
+	formData.append("Known","yes");
+	xmlHttpRequest = new XMLHttpRequest();
+	xmlHttpRequest.onreadystatechange = pageUpdate;
+	xmlHttpRequest.open("POST",logURL,true);
+	xmlHttpRequest.send(formData);
+
+}
+
+
+function onBrokenSend(){
+	formData.append("BrokenID",imageId);
+	xmlHttpRequest = new XMLHttpRequest();
+	xmlHttpRequest.onreadystatechange = pageUpdate;
+	xmlHttpRequest.open("POST",brokenURL,true);
+	xmlHttpRequest.send(formData);
+
+}
+
+
+function onNextSend()
+{
+	//alert("onBroken");
+	formData.append("Known","no");
+	xmlHttpRequest = new XMLHttpRequest();
+	xmlHttpRequest.onreadystatechange = pageUpdate;
+	xmlHttpRequest.open("POST",nextURL,true);
+	xmlHttpRequest.send(formData);
+}
+
+
+
+
+function pageUpdate()
+{
+if (xmlHttpRequest.readyState==4){
+	console.log("1")
+if (xmlHttpRequest.status==200){
+	console.log("2")
+	//alert("reload");
+	window.location.reload();
+
+} // if (xmlHttpBroken.status==200)
+} // if (xmlHttpBroken.readyState==4)
+}
+
+</script>
+
+
+</body>
+</html>

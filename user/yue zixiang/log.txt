@@ -1,0 +1,5 @@
+{"UserName": "yue zixiang", "Status": "log", "Relativity": "no", "UserID": "5", "ImageID_1": "56609", "ImageID_2": "29965", "ImageClassWNID_1": "n04074963", "ImageClassWNID_2": "n01812866"}
+{"UserName": "yue zixiang", "Status": "log", "Relativity": "no", "UserID": "5", "ImageID_1": "47549", "ImageID_2": "1673", "ImageClassWNID_1": "n03319745", "ImageClassWNID_2": "n12454159"}
+{"UserName": "yue zixiang", "Status": "log", "Relativity": "no", "UserID": "5", "ImageID_1": "54389", "ImageID_2": "14042", "ImageClassWNID_1": "n03890358", "ImageClassWNID_2": "n12173664"}
+{"UserName": "yue zixiang", "Status": "log", "Relativity": "no", "UserID": "5", "ImageID_1": "83315", "ImageID_2": "12413", "ImageClassWNID_1": "n12309277", "ImageClassWNID_2": "n07866868"}
+{"UserName": "yue zixiang", "Status": "log", "Relativity": "no", "UserID": "5", "ImageID_1": "83315", "ImageID_2": "12413", "ImageClassWNID_1": "n12309277", "ImageClassWNID_2": "n07866868"}

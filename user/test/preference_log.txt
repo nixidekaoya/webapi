@@ -1,0 +1,15 @@
+{"UserName": "test", "Status": "test", "Attribute": "Preference", "UserID": "0", "ItemWNID": "n02032480", "ImageID": "32573", "CoordniatesY": "-0.6993251984344232", "CoordinatesX": "-0.579630525862011"}
+{"UserName": "test", "Status": "test", "Attribute": "Preference", "UserID": "0", "ItemWNID": "n01579028", "ImageID": "27087", "CoordniatesY": "0.5583576058998577", "CoordinatesX": "0.8116390953624282"}
+{"UserName": "test", "Status": "test", "Attribute": "Preference", "UserID": "0", "ItemWNID": "n01503061", "ImageID": "2480", "CoordniatesY": "0.01196", "CoordinatesX": "0.38421"}
+{"UserName": "test", "Status": "test", "Attribute": "Preference", "UserID": "0", "ItemWNID": "n04200537", "ImageID": "58194", "CoordinatesY": "-0.05577", "CoordinatesX": "-0.83122"}
+{"UserName": "test", "Status": "test", "Attribute": "Preference", "UserID": "0", "ItemWNID": "n07872593", "ImageID": "69541", "CoordinatesY": "0.4528763323", "CoordinatesX": "0.2041222750"}
+{"UserName": "test", "Status": "test", "Attribute": "Preference", "UserID": "0", "ItemWNID": "n07608339", "ImageID": "65364", "CoordinatesY": "0.1514172943", "CoordinatesX": "-0.7046342074"}
+{"UserName": "test", "Status": "test", "Attribute": "Preference", "UserID": "0", "ItemWNID": "n01560419", "ImageID": "22012", "CoordinatesY": "0.3963154674", "CoordinatesX": "-0.5758699105"}
+{"UserName": "test", "Status": "test", "Attribute": "Preference", "UserID": "0", "ItemWNID": "n04969540", "ImageID": "63722", "CoordinatesY": "-0.5735751258", "CoordinatesX": "0.7706731817"}
+{"UserName": "test", "Status": "test", "Attribute": "Preference", "UserID": "0", "ItemWNID": "n07611046", "ImageID": "2103", "UserRecordID": "0", "CoordinatesY": "-0.8483967088", "CoordinatesX": "-0.3881131189"}
+{"UserName": "test", "Status": "test", "Attribute": "Preference", "UserID": "0", "ItemWNID": "n02537085", "ImageID": "38615", "UserRecordID": "0", "CoordinatesY": "0.3300346970", "CoordinatesX": "0.0424437924"}
+{"UserName": "test", "Status": "test", "Attribute": "Relativity", "UserID": "0", "ItemWNID": "n10015485", "ImageID": "13775", "UserRecordID": "9", "CoordinatesY": "-0.3127398212", "CoordinatesX": "-0.3217640136"}
+{"UserName": "test", "Status": "test", "Attribute": "Relativity", "UserID": "0", "ItemWNID": "n11752578", "ImageID": "15853", "UserRecordID": "0", "CoordinatesY": "-0.3760192488", "CoordinatesX": "0.4234253774"}
+{"UserName": "test", "Status": "test", "Attribute": "Relativity", "UserID": "0", "ItemWNID": "n02858304", "ImageID": "41756", "UserRecordID": "1", "CoordinatesY": "-0.6614204353", "CoordinatesX": "0.4279520930"}
+{"UserName": "test", "Status": "test", "Attribute": "Relativity", "UserID": "0", "ItemWNID": "n03912218", "ImageID": "54680", "UserRecordID": "2", "CoordinatesY": "0.3396923710", "CoordinatesX": "-0.4979640916"}
+{"UserName": "test", "Status": "test", "Attribute": "Preference", "UserID": "0", "ItemWNID": "n07615671", "ImageID": "20474", "CoordinatesY": "-0.6828744516", "CoordinatesX": "-0.4332753611"}

@@ -1,0 +1,5 @@
+{"PreferenceNumber": "1", "PreferenceLevel": "0"}
+{"PreferenceNumber": "2", "PreferenceLevel": "0"}
+{"PreferenceNumber": "3", "PreferenceLevel": "0"}
+{"PreferenceNumber": "4", "PreferenceLevel": "0"}
+{"PreferenceNumber": "5", "PreferenceLevel": "1"}

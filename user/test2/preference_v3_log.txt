@@ -1,0 +1,13 @@
+{"UserName": "test2", "ItemID": "281", "Attribute": "Preference", "ItemDomain": "singer", "UserID": "15", "Status": "log", "CoordinatesY": "-0.5549400131", "CoordinatesX": "0.2414550288", "ItemName": "KanaNishio"}
+{"UserName": "test2", "ItemID": "292", "Attribute": "Preference", "ItemDomain": "song", "UserID": "15", "Status": "log", "CoordinatesY": "0.7500769397", "CoordinatesX": "-0.5788574386", "ItemName": "Hatsukoi"}
+{"UserName": "test2", "ItemID": "298", "Attribute": "Preference", "ItemDomain": "photo_internet", "UserID": "15", "Status": "log", "CoordinatesY": "0.3037857648", "CoordinatesX": "-0.4638400821", "ItemName": "P1_4"}
+{"UserName": "test2", "ItemID": "312", "Attribute": "Preference", "ItemDomain": "transport", "UserID": "15", "Status": "log", "CoordinatesY": "-0.2717759573", "CoordinatesX": "-0.7741699308", "ItemName": "Hovercraft"}
+{"UserName": "test2", "ItemID": "322", "Attribute": "Preference", "ItemDomain": "anime", "UserID": "15", "Status": "log", "CoordinatesY": "-0.0872329365", "CoordinatesX": "0.1697711321", "ItemName": "AttackOnTitan"}
+{"UserName": "test2", "ItemID": "333", "Attribute": "Preference", "ItemDomain": "animal", "UserID": "15", "Status": "log", "CoordinatesY": "0.6115727820", "CoordinatesX": "-0.0558539872", "ItemName": "CebusApella"}
+{"UserName": "test2", "ItemID": "336", "Attribute": "Preference", "ItemDomain": "movie", "UserID": "15", "Status": "log", "CoordinatesY": "-0.0624807856", "CoordinatesX": "0.1589897543", "ItemName": "TheMule"}
+{"UserName": "test2", "ItemID": "349", "Attribute": "Preference", "ItemDomain": "food", "UserID": "15", "Status": "log", "CoordinatesY": "0.2453062316", "CoordinatesX": "-0.0016005171", "ItemName": "Karaage"}
+{"UserName": "test2", "ItemID": "355", "Attribute": "Preference", "ItemDomain": "brand", "UserID": "15", "Status": "log", "CoordinatesY": "0.7900892519", "CoordinatesX": "-0.0970866244", "ItemName": "LouisVuitton"}
+{"UserName": "test2", "ItemID": "373", "Attribute": "Preference", "ItemDomain": "robot", "UserID": "15", "Status": "log", "CoordinatesY": "0.2083717895", "CoordinatesX": "0.0656737858", "ItemName": "Hugvie"}
+{"UserName": "test2", "ItemID": "377", "Attribute": "Preference", "ItemDomain": "sns", "UserID": "15", "Status": "log", "CoordinatesY": "-0.1178824487", "CoordinatesX": "-0.2099338422", "ItemName": "Instagram"}
+{"UserName": "test2", "ItemID": "390", "Attribute": "Preference", "ItemDomain": "algorithm", "UserID": "15", "Status": "log", "CoordinatesY": "0.6638965749", "CoordinatesX": "0.2957084989", "ItemName": "RandomForest"}
+{"UserName": "test2", "ItemID": "403", "Attribute": "Preference", "ItemDomain": "major", "UserID": "15", "Status": "log", "CoordinatesY": "0.4792243646", "CoordinatesX": "-0.3813748076", "ItemName": "Artist"}

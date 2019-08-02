@@ -1,0 +1,1 @@
+{"Evaluation Name": "elk, European elk, moose, Alces alces", "Compare ID": 26179, "Evaluation ID": 37782, "Compare Name": "house finch, linnet, Carpodacus mexicanus"}

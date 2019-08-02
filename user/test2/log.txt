@@ -1,0 +1,41 @@
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "73683", "ImageClassWNID": "n09842823", "Preference": "dislike"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "17932", "ImageClassWNID": "n02085620", "Preference": "like"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "46752", "ImageClassWNID": "n03235042", "Preference": "dislike"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "66755", "ImageClassWNID": "n07716358", "Preference": "like"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "55930", "ImageClassWNID": "n04026053", "Preference": "like"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "70232", "ImageClassWNID": "n07901355", "Preference": "dislike"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "57280", "ImageClassWNID": "n04123740", "Preference": "neutral"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "23646", "ImageClassWNID": "n02431122", "Preference": "neutral"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "51083", "ImageID_2": "39124", "ImageClassWNID_1": "n03610682", "ImageClassWNID_2": "n02620578"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "51083", "ImageID_2": "43045", "ImageClassWNID_1": "n03610682", "ImageClassWNID_2": "n02944579"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "51083", "ImageID_2": "58972", "ImageClassWNID_1": "n03610682", "ImageClassWNID_2": "n04253931"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "51083", "ImageID_2": "4565", "ImageClassWNID_1": "n03610682", "ImageClassWNID_2": "n03320421"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "75179", "ImageID_2": "11186", "ImageClassWNID_1": "n10129825", "ImageClassWNID_2": "n03085013"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "75179", "ImageID_2": "55835", "ImageClassWNID_1": "n10129825", "ImageClassWNID_2": "n04012482"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "75179", "ImageID_2": "52016", "ImageClassWNID_1": "n10129825", "ImageClassWNID_2": "n03688943"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "75179", "ImageID_2": "65404", "ImageClassWNID_1": "n10129825", "ImageClassWNID_2": "n07610620"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "58748", "ImageID_2": "30453", "ImageClassWNID_1": "n04238321", "ImageClassWNID_2": "n01843383"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "58748", "ImageID_2": "45311", "ImageClassWNID_1": "n04238321", "ImageClassWNID_2": "n03109881"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "58748", "ImageID_2": "51612", "ImageClassWNID_1": "n04238321", "ImageClassWNID_2": "n03656484"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "58748", "ImageID_2": "58965", "ImageClassWNID_1": "n04238321", "ImageClassWNID_2": "n04252653"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "25200", "ImageID_2": "74360", "ImageClassWNID_1": "n00451370", "ImageClassWNID_2": "n09958292"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "25200", "ImageID_2": "50614", "ImageClassWNID_1": "n00451370", "ImageClassWNID_2": "n03556811"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "25200", "ImageID_2": "61127", "ImageClassWNID_1": "n00451370", "ImageClassWNID_2": "n04438507"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "25200", "ImageID_2": "11284", "ImageClassWNID_1": "n00451370", "ImageClassWNID_2": "n02869249"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "56416", "ImageID_2": "75623", "ImageClassWNID_1": "n04058239", "ImageClassWNID_2": "n10187990"}
+{"UserName": "test2", "Status": "log", "Relativity": "NULL", "UserID": "15", "ImageID_1": "56416", "ImageID_2": "13490", "ImageClassWNID_1": "n04058239", "ImageClassWNID_2": "n03518943"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "56416", "ImageID_2": "3321", "ImageClassWNID_1": "n04058239", "ImageClassWNID_2": "n02209624"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "56416", "ImageID_2": "85097", "ImageClassWNID_1": "n04058239", "ImageClassWNID_2": "n12620546"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "33024", "ImageClassWNID": "n02055803", "Preference": "like"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "74275", "ImageClassWNID": "n09941571", "Preference": "neutral"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "45862", "ImageClassWNID": "n03151077", "Preference": "like"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "52247", "ImageClassWNID": "n03714235", "Preference": "dislike"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "74290", "ImageClassWNID": "n09941964", "Preference": "dislike"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "70656", "ImageClassWNID": "n07926442", "Preference": "like"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "78184", "ImageClassWNID": "n10759331", "Preference": "dislike"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "20578", "ImageClassWNID": "n10300303", "Preference": "dislike"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "49275", "ImageClassWNID": "n03449858", "Preference": "dislike"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "63626", "ImageClassWNID": "n04966543", "Preference": "dislike"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "53958", "ImageClassWNID": "n03859495", "Preference": "dislike"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "70742", "ImageClassWNID": "n07929519", "Preference": "like"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "61803", "ImageClassWNID": "n04490091", "Preference": "dislike"}

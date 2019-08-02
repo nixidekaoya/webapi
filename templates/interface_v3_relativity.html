@@ -1,0 +1,743 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <style>
+    .innerpara {
+        font-size: 16px;
+        position: absolute;
+        /* user-select: none; */
+    }
+
+    .image{
+        vertical-align: top;
+        height:200px;
+
+    }
+
+    .inline{
+        display:inline-block;
+
+    }
+
+    .ycoordimage{
+        display:inline-block;
+        vertical-align: top;
+    }
+
+    .xcoordimage{
+        display:inline-block;
+    }
+
+    .mycanvas{
+        display:inline-block;
+    }
+
+    .button{
+        font-size: 24px;
+        font-weight:bold;
+        margin-left:20px;
+        margin-right:20px;
+        height: 100px;
+        width: 200px;
+        vertical-align:bottom;
+    }
+
+    .image{
+        width:200px;
+        vertical-align: top;
+    }
+
+    .info{
+        font-size:16px;
+        width: 200px;
+        vertical-align: top;
+    }
+
+    </style>
+  <meta charset="utf-8"/>
+  <script type="text/javascript" src="{{url_for('static', filename='three.min.js')}}"></script>
+
+  <script src="https://cdn.bootcss.com/jquery/3.3.1/jquery.min.js"></script>
+  <script type="text/javascript">
+    // ページの読み込みを待つ
+    window.addEventListener('load', init);
+
+    //const
+
+    //item variable
+    var item_wnid_list = [];
+    item_wnid_list.push("{{ItemWNID_0}}");
+    item_wnid_list.push("{{ItemWNID_1}}");
+    item_wnid_list.push("{{ItemWNID_2}}");
+    item_wnid_list.push("{{ItemWNID_3}}");
+    item_wnid_list.push("{{ItemWNID_4}}");
+    item_wnid_list.push("{{ItemWNID_5}}");
+    item_wnid_list.push("{{ItemWNID_6}}");
+    item_wnid_list.push("{{ItemWNID_7}}");
+    item_wnid_list.push("{{ItemWNID_8}}");
+    item_wnid_list.push("{{ItemWNID_9}}");
+    var item_imageid_list = [];
+    item_imageid_list.push("{{ItemID_0}}");
+    item_imageid_list.push("{{ItemID_1}}");
+    item_imageid_list.push("{{ItemID_2}}");
+    item_imageid_list.push("{{ItemID_3}}");
+    item_imageid_list.push("{{ItemID_4}}");
+    item_imageid_list.push("{{ItemID_5}}");
+    item_imageid_list.push("{{ItemID_6}}");
+    item_imageid_list.push("{{ItemID_7}}");
+    item_imageid_list.push("{{ItemID_8}}");
+    item_imageid_list.push("{{ItemID_9}}");
+    var item_name_list = [];
+    item_name_list.push("{{ItemName_0}}");
+    item_name_list.push("{{ItemName_1}}");
+    item_name_list.push("{{ItemName_2}}");
+    item_name_list.push("{{ItemName_3}}");
+    item_name_list.push("{{ItemName_4}}");
+    item_name_list.push("{{ItemName_5}}");
+    item_name_list.push("{{ItemName_6}}");
+    item_name_list.push("{{ItemName_7}}");
+    item_name_list.push("{{ItemName_8}}");
+    item_name_list.push("{{ItemName_9}}");
+
+
+    var item_info_list = [];
+    item_info_list.push("{{ItemInfo_0}}");
+    item_info_list.push("{{ItemInfo_1}}");
+    item_info_list.push("{{ItemInfo_2}}");
+    item_info_list.push("{{ItemInfo_3}}");
+    item_info_list.push("{{ItemInfo_4}}");
+    item_info_list.push("{{ItemInfo_5}}");
+    item_info_list.push("{{ItemInfo_6}}");
+    item_info_list.push("{{ItemInfo_7}}");
+    item_info_list.push("{{ItemInfo_8}}");
+    item_info_list.push("{{ItemInfo_9}}");
+
+    //console.log(item_info_list[0].replace(/\t/g,"<br />"));
+
+    var item_stream_list = [];
+    item_stream_list.push("data:;base64,{{ItemStream_0}}");
+    item_stream_list.push("data:;base64,{{ItemStream_1}}");
+    item_stream_list.push("data:;base64,{{ItemStream_2}}");
+    item_stream_list.push("data:;base64,{{ItemStream_3}}");
+    item_stream_list.push("data:;base64,{{ItemStream_4}}");
+    item_stream_list.push("data:;base64,{{ItemStream_5}}");
+    item_stream_list.push("data:;base64,{{ItemStream_6}}");
+    item_stream_list.push("data:;base64,{{ItemStream_7}}");
+    item_stream_list.push("data:;base64,{{ItemStream_8}}");
+    item_stream_list.push("data:;base64,{{ItemStream_9}}");
+
+    //console.log(item_wnid_list);
+    //console.log(item_imageid_list);
+    //console.log(item_name_list);
+
+    var text_objects = [],circle_objects = [],ring_objects = [];
+    var item_number = 10;
+    var x_bias = -24;
+    var y_bias = -12;
+    var myCanvas,ctx,textCanvas,textctx;
+    var loader = new THREE.FontLoader();
+    var language = "{{Language}}";
+    var camera,renderer,scene,font;
+
+
+    //
+    var userName = "{{UserName}}";
+    var userId = {{UserID}};
+    var logURL = "/log";
+    var xmlHttpRequest = new XMLHttpRequest;
+    var formData = new FormData;
+    formData.append("UserName",userName);
+    formData.append("UserID",userId);
+
+
+    //const
+    const window_height = window.innerHeight;
+    const window_width = window.innerWidth;
+    const width = window_width * 0.8;
+    const height = window_height * 0.9;
+    const unknown_width = width * 0.20;
+    const unknown_height = height;
+    const language_english = "english";
+    const language_japanese = "japanese";
+    const language_chinese = "chinese";
+    const radius = 40;
+    const segments = 32;
+    const line_width = 5;
+    const ring_width = 5;
+
+
+
+    function init() {
+
+      // サイズを指定
+
+      //console.log(window_height);
+      //console.log(window_width);
+
+      myCanvas = document.getElementById("myCanvas");
+      myCanvas.width = width;
+      myCanvas.height = height;
+
+      var submitButton = document.getElementById("submitbutton");
+      //submitButton.style.width = window_width * 0.2;
+      //submitButton.style.height = window_height * 0.2;
+
+      renderer = new THREE.WebGLRenderer({
+        canvas: document.querySelector('#myCanvas')
+      });
+      renderer.setPixelRatio(window.devicePixelRatio);
+      renderer.setSize(width, height);
+
+      // シーンを作成
+      scene = new THREE.Scene();
+      scene.background = new THREE.Color(0xf0f0f0);
+
+      // カメラを作成
+      camera = new THREE.OrthographicCamera(width/ -2, width/ 2, height/ 2, height/ -2, 1, 1000);
+      camera.lookAt(new THREE.Vector3(0,0,0));
+      camera.position.set(0, 0, +1000);
+
+
+      if (language == language_english){
+          console.log(language);
+          loader.load("static/Ubuntu Mono_Regular.json",function(font){font_loader_call_back(font);});
+      }
+      else if(language == language_japanese){
+          console.log(language);
+          loader.load("static/TakaoPGothic_Regular.json",function(font){font_loader_call_back(font);});
+      }
+      else if(language == language_chinese){
+          console.log(language);
+          loader.load("static/chinese_simple_Regular.json",function(font){font_loader_call_back(font);});
+      }
+      //var geometry_1 = new THREE.CircleGeometry(30,64);
+
+      // 毎フレーム時に実行されるループイベントです
+
+    }
+
+    function tick() {
+
+      for (var i = 0; i < item_number; i++){
+          text_objects[i].position.x = circle_objects[i].position.x + x_bias;
+          text_objects[i].position.y = circle_objects[i].position.y + y_bias;
+          ring_objects[i].position.x = circle_objects[i].position.x;
+          ring_objects[i].position.y = circle_objects[i].position.y;
+      }
+
+      renderer.render(scene, camera); // レンダリング
+      requestAnimationFrame(tick);
+    }
+
+
+    function font_loader_call_back(font){
+        var options = {
+            size: 14,
+            height: 14,
+            weight: "bold",
+            style: "normal",
+            font: font
+        };
+
+        var unknown_options = {
+            size: 28,
+            height: 14,
+            weight: "bold",
+            style: "normal",
+            font: font
+        };
+
+        var circle_geometry = new THREE.CircleGeometry(radius,segments);
+        var ring_geometry = new THREE.RingGeometry(radius - ring_width/2,radius + ring_width/2, segments);
+
+        var plane_geometry = new THREE.PlaneGeometry(unknown_width,unknown_height);
+
+
+        var geo_list = [];
+
+        for (var i = 0; i < item_number; i++){
+            var textgeometry = new THREE.TextGeometry(item_name_list[i], options);
+            geo_list.push(textgeometry);
+        }
+
+        var text_material = new THREE.MeshBasicMaterial({color:0x000000});
+        var ring_material = new THREE.MeshBasicMaterial({color:0xff0000, side: THREE.DoubleSide});
+        var cirle_material = new THREE.MeshBasicMaterial({color:0xff8800});
+        var plane_material = new THREE.MeshBasicMaterial({color: 0x0000ff});
+
+        var unknown_plane = new THREE.Mesh(plane_geometry,plane_material);
+        unknown_plane.position.x = 0.4 * width;
+        unknown_plane.position.y = 0;
+        unknown_plane.position.z = 100;
+        scene.add(unknown_plane);
+
+        var unknown_text_geometry = new THREE.TextGeometry("Unknown Item", unknown_options);
+        var unknown_text_object = new THREE.Mesh(unknown_text_geometry,text_material);
+        unknown_text_object.position.x = 0.4 * width;
+        unknown_text_object.position.y = - 0.2 * height;
+        unknown_text_object.position.z = 150;
+        unknown_text_object.rotation.z += Math.PI/2;
+        scene.add(unknown_text_object);
+
+        for (var i = 0; i < item_number; i++){
+
+            var text_object = new THREE.Mesh(geo_list[i], text_material);
+            var circle_object = new THREE.Mesh(circle_geometry,cirle_material);
+            var ring_object = new THREE.Mesh(ring_geometry, ring_material);
+            text_object.position.x = Math.random() * width * 0.8 - width/2 * 0.8;
+            text_object.position.y = Math.random() * height * 0.8 - height/2 * 0.8;
+            text_object.position.z = 400;
+            circle_object.position.x = text_object.position.x;
+            circle_object.position.y = text_object.position.y;
+            circle_object.position.z = 200;
+            circle_object.name = "item" + (i).toString();
+            ring_object.position.x = circle_object.position.x;
+            ring_object.position.y = circle_object.position.y;
+            ring_object.position.z = 210;
+
+            scene.add(text_object);
+            scene.add(circle_object);
+            scene.add(ring_object);
+            text_objects.push(text_object);
+            circle_objects.push(circle_object);
+            ring_objects.push(ring_object);
+        }
+
+        var dragControls = new THREE.DragControls(circle_objects,camera, renderer.domElement);
+        // レンダラーを作成
+        tick();
+
+    }
+
+    function onSubmit(){
+        for (var i = 0; i < item_number; i++){
+            var itemwnid = "ItemWNID_" + (i+1).toString();
+            var itemimageid = "ImageID_" + (i+1).toString();
+            var xCoordinateText = "X_Coordinate_" + (i+1).toString();
+            var yCoordinateText = "Y_Coordinate_" + (i+1).toString();
+            formData.append(itemwnid, item_wnid_list[i]);
+            formData.append(itemimageid, item_imageid_list[i]);
+            var x_coordinate = circle_objects[i].position.x/(width/2);
+            var y_coordinate = circle_objects[i].position.y/(height/2);
+            formData.append(xCoordinateText,x_coordinate);
+            formData.append(yCoordinateText,y_coordinate);
+        }
+
+        xmlHttpRequest.onreadystatechange = pageUpdate;
+        xmlHttpRequest.open("POST",logURL,true);
+        xmlHttpRequest.send(formData);
+    }
+
+    function pageUpdate()
+    {
+    if (xmlHttpRequest.readyState==4){
+    	console.log("1")
+    if (xmlHttpRequest.status==200){
+    	console.log("2")
+    	//alert("reload");
+    	window.location.reload();
+
+    } // if (xmlHttpBroken.status==200)
+    } // if (xmlHttpBroken.readyState==4)
+    }
+  </script>
+</head>
+<body>
+
+<div class="inline">
+    <form id="form1" method="post">
+    User Name: <input type="text" name="username" value="{{UserName}}" id="userName"  readonly>
+    , User ID:<input type="text" name="userid" value="{{UserID}}" id="userID" readonly> <br />
+    </form>
+</div>
+
+<div class="inline">
+    <p class="inline">Lv. {{UserLevel}}  </p>
+    <progress max = "100", value = "{{CompleteRatio}}" class="inline">{{completeRatio}}%</progress>
+</div>
+
+<div>
+    <div class="inline">
+        <div>
+            <canvas id="myCanvas"></canvas>
+        </div>
+    </div>
+    <div class="inline">
+            <image id="image" class="image"></image>
+            <p id="info" class="info"></p>
+            <button id="submitbutton" class="button" onclick="onSubmit();">Submit</button>
+    </div>
+</div>
+
+</body>
+<script>
+/*
+ * @author zz85 / https://github.com/zz85
+ * @author mrdoob / http://mrdoob.com
+ * Running this will allow you to drag three.js objects around the screen.
+ */
+
+THREE.DragControls = function ( _objects, _camera, _domElement ) {
+
+	if ( _objects instanceof THREE.Camera ) {
+
+		console.warn( 'THREE.DragControls: Constructor now expects ( objects, camera, domElement )' );
+		var temp = _objects; _objects = _camera; _camera = temp;
+
+	}
+
+    var img = document.getElementById("image");
+    var info = document.getElementById("info");
+	var _plane = new THREE.Plane();
+	var _raycaster = new THREE.Raycaster();
+
+	var _mouse = new THREE.Vector2();
+	var _offset = new THREE.Vector3();
+	var _intersection = new THREE.Vector3();
+	var _worldPosition = new THREE.Vector3();
+	var _inverseMatrix = new THREE.Matrix4();
+
+	var _selected = null, _hovered = null;
+
+	//
+
+	var scope = this;
+
+	function activate() {
+
+		_domElement.addEventListener( 'mousemove', onDocumentMouseMove, false );
+		_domElement.addEventListener( 'mousedown', onDocumentMouseDown, false );
+		_domElement.addEventListener( 'mouseup', onDocumentMouseCancel, false );
+		_domElement.addEventListener( 'mouseleave', onDocumentMouseCancel, false );
+		_domElement.addEventListener( 'touchmove', onDocumentTouchMove, false );
+		_domElement.addEventListener( 'touchstart', onDocumentTouchStart, false );
+		_domElement.addEventListener( 'touchend', onDocumentTouchEnd, false );
+
+	}
+
+	function deactivate() {
+
+		_domElement.removeEventListener( 'mousemove', onDocumentMouseMove, false );
+		_domElement.removeEventListener( 'mousedown', onDocumentMouseDown, false );
+		_domElement.removeEventListener( 'mouseup', onDocumentMouseCancel, false );
+		_domElement.removeEventListener( 'mouseleave', onDocumentMouseCancel, false );
+		_domElement.removeEventListener( 'touchmove', onDocumentTouchMove, false );
+		_domElement.removeEventListener( 'touchstart', onDocumentTouchStart, false );
+		_domElement.removeEventListener( 'touchend', onDocumentTouchEnd, false );
+
+	}
+
+	function dispose() {
+
+		deactivate();
+
+	}
+
+	function onDocumentMouseMove( event ) {
+
+		event.preventDefault();
+
+		var rect = _domElement.getBoundingClientRect();
+
+		_mouse.x = ( ( event.clientX - rect.left ) / rect.width ) * 2 - 1;
+		_mouse.y = - ( ( event.clientY - rect.top ) / rect.height ) * 2 + 1;
+
+		_raycaster.setFromCamera( _mouse, _camera );
+
+		if ( _selected && scope.enabled ) {
+
+			if ( _raycaster.ray.intersectPlane( _plane, _intersection ) ) {
+
+				_selected.position.copy( _intersection.sub( _offset ).applyMatrix4( _inverseMatrix ) );
+
+			}
+
+			scope.dispatchEvent( { type: 'drag', object: _selected } );
+
+			return;
+
+		}
+
+		_raycaster.setFromCamera( _mouse, _camera );
+
+		var intersects = _raycaster.intersectObjects( _objects );
+
+		if ( intersects.length > 0 ) {
+
+			var object = intersects[ 0 ].object;
+
+
+            /*
+            if(object.name == "item1"){
+                img.src = src1;
+                img.style.display = "inline: block";
+                //console.log("1");
+            }
+            else if(object.name == "item2"){
+                img.src = src2;
+                img.style.display = "inline: block";
+                //console.log("2");
+
+            }
+            else{
+                img.style.display = "none";
+                //console.log("0");
+            }
+            */
+
+			_plane.setFromNormalAndCoplanarPoint( _camera.getWorldDirection( _plane.normal ), _worldPosition.setFromMatrixPosition( object.matrixWorld ) );
+
+			if ( _hovered !== object ) {
+
+				scope.dispatchEvent( { type: 'hoveron', object: object } );
+
+				_domElement.style.cursor = 'pointer';
+				_hovered = object;
+
+			}
+
+		} else {
+
+
+
+			if ( _hovered !== null ) {
+
+
+
+				scope.dispatchEvent( { type: 'hoveroff', object: _hovered } );
+
+				_domElement.style.cursor = 'auto';
+				_hovered = null;
+
+			}
+
+		}
+
+	}
+
+	function onDocumentMouseDown( event ) {
+
+		event.preventDefault();
+
+		_raycaster.setFromCamera( _mouse, _camera );
+
+        console.log("click");
+
+		var intersects = _raycaster.intersectObjects( _objects );
+        //console.log(intersects)
+		if ( intersects.length > 0 ) {
+
+			_selected = intersects[ 0 ].object;
+
+            var object = intersects[ 0 ].object;
+
+            //console.log(_selected.name);
+            if(object.name == "item0"){
+                img.src = item_stream_list[0];
+                info.innerHTML = item_info_list[0].replace(/\t/g,"<br />");
+
+            }
+            else if(object.name == "item1"){
+                img.src = item_stream_list[1];
+                info.innerHTML = item_info_list[1].replace(/\t/g,"<br />");
+
+            }
+            else if (object.name == "item2"){
+                img.src = item_stream_list[2];
+                info.innerHTML = item_info_list[2].replace(/\t/g,"<br />");
+            }
+            else if (object.name == "item3"){
+                img.src = item_stream_list[3];
+                info.innerHTML = item_info_list[3].replace(/\t/g,"<br />");
+            }
+            else if (object.name == "item4"){
+                img.src = item_stream_list[4];
+                info.innerHTML = item_info_list[4].replace(/\t/g,"<br />");
+            }
+            else if (object.name == "item5"){
+                img.src = item_stream_list[5];
+                info.innerHTML = item_info_list[5].replace(/\t/g,"<br />");
+            }
+            else if (object.name == "item6"){
+                img.src = item_stream_list[6];
+                info.innerHTML = item_info_list[6].replace(/\t/g,"<br />");
+            }
+            else if (object.name == "item7"){
+                img.src = item_stream_list[7];
+                info.innerHTML = item_info_list[7].replace(/\t/g,"<br />");
+            }
+            else if (object.name == "item8"){
+                img.src = item_stream_list[8];
+                info.innerHTML = item_info_list[8].replace(/\t/g,"<br />");
+            }
+            else if (object.name == "item9"){
+                img.src = item_stream_list[9];
+                info.innerHTML = item_info_list[9].replace(/\t/g,"<br />");
+            }
+            else{
+                var info_list = [];
+            }
+
+
+
+
+
+
+
+			if ( _raycaster.ray.intersectPlane( _plane, _intersection ) ) {
+
+				_inverseMatrix.getInverse( _selected.parent.matrixWorld );
+				_offset.copy( _intersection ).sub( _worldPosition.setFromMatrixPosition( _selected.matrixWorld ) );
+
+			}
+			_domElement.style.cursor = 'move';
+			scope.dispatchEvent( { type: 'dragstart', object: _selected } );
+		}
+
+
+	}
+
+	function onDocumentMouseCancel( event ) {
+
+		event.preventDefault();
+
+		if ( _selected ) {
+
+			scope.dispatchEvent( { type: 'dragend', object: _selected } );
+
+			_selected = null;
+
+		}
+
+		_domElement.style.cursor = _hovered ? 'pointer' : 'auto';
+
+	}
+
+	function onDocumentTouchMove( event ) {
+
+		event.preventDefault();
+		event = event.changedTouches[ 0 ];
+
+		var rect = _domElement.getBoundingClientRect();
+
+		_mouse.x = ( ( event.clientX - rect.left ) / rect.width ) * 2 - 1;
+		_mouse.y = - ( ( event.clientY - rect.top ) / rect.height ) * 2 + 1;
+
+		_raycaster.setFromCamera( _mouse, _camera );
+
+		if ( _selected && scope.enabled ) {
+
+			if ( _raycaster.ray.intersectPlane( _plane, _intersection ) ) {
+
+				_selected.position.copy( _intersection.sub( _offset ).applyMatrix4( _inverseMatrix ) );
+
+			}
+
+			scope.dispatchEvent( { type: 'drag', object: _selected } );
+
+			return;
+
+		}
+
+	}
+
+	function onDocumentTouchStart( event ) {
+
+		event.preventDefault();
+		event = event.changedTouches[ 0 ];
+
+		var rect = _domElement.getBoundingClientRect();
+
+		_mouse.x = ( ( event.clientX - rect.left ) / rect.width ) * 2 - 1;
+		_mouse.y = - ( ( event.clientY - rect.top ) / rect.height ) * 2 + 1;
+
+		_raycaster.setFromCamera( _mouse, _camera );
+
+		var intersects = _raycaster.intersectObjects( _objects );
+
+		if ( intersects.length > 0 ) {
+
+			_selected = intersects[ 0 ].object;
+
+
+			_plane.setFromNormalAndCoplanarPoint( _camera.getWorldDirection( _plane.normal ), _worldPosition.setFromMatrixPosition( _selected.matrixWorld ) );
+
+			if ( _raycaster.ray.intersectPlane( _plane, _intersection ) ) {
+
+				_inverseMatrix.getInverse( _selected.parent.matrixWorld );
+				_offset.copy( _intersection ).sub( _worldPosition.setFromMatrixPosition( _selected.matrixWorld ) );
+
+			}
+
+			_domElement.style.cursor = 'move';
+
+			scope.dispatchEvent( { type: 'dragstart', object: _selected } );
+
+		}
+
+
+	}
+
+	function onDocumentTouchEnd( event ) {
+
+		event.preventDefault();
+
+		if ( _selected ) {
+
+			scope.dispatchEvent( { type: 'dragend', object: _selected } );
+
+			_selected = null;
+
+		}
+
+		_domElement.style.cursor = 'auto';
+
+	}
+
+	activate();
+
+	// API
+
+	this.enabled = true;
+
+	this.activate = activate;
+	this.deactivate = deactivate;
+	this.dispose = dispose;
+
+	// Backward compatibility
+
+	this.setObjects = function () {
+
+		console.error( 'THREE.DragControls: setObjects() has been removed.' );
+
+	};
+
+	this.on = function ( type, listener ) {
+
+		console.warn( 'THREE.DragControls: on() has been deprecated. Use addEventListener() instead.' );
+		scope.addEventListener( type, listener );
+
+	};
+
+	this.off = function ( type, listener ) {
+
+		console.warn( 'THREE.DragControls: off() has been deprecated. Use removeEventListener() instead.' );
+		scope.removeEventListener( type, listener );
+
+	};
+
+	this.notify = function ( type ) {
+
+		console.error( 'THREE.DragControls: notify() has been deprecated. Use dispatchEvent() instead.' );
+		scope.dispatchEvent( { type: type } );
+
+	};
+
+};
+
+THREE.DragControls.prototype = Object.create( THREE.EventDispatcher.prototype );
+THREE.DragControls.prototype.constructor = THREE.DragControls;
+
+</script>
+
+</html>

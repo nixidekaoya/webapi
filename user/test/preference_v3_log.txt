@@ -1,0 +1,15 @@
+{"UserName": "test", "ItemID": "149", "Attribute": "Preference", "ItemDomain": "singer", "UserID": "0", "Status": "test", "CoordinatesY": "0.2853185438", "CoordinatesX": "-0.5441352178", "ItemName": "NamieAmuro"}
+{"UserName": "test", "ItemID": "162", "Attribute": "Preference", "ItemDomain": "song", "UserID": "0", "Status": "test", "CoordinatesY": "0.3160972455", "CoordinatesX": "-0.6786838235", "ItemName": "Hatsukoi"}
+{"UserName": "test", "ItemID": "275", "Attribute": "Preference", "ItemDomain": "singer", "UserID": "0", "Status": "test", "CoordinatesY": "0.2909579153", "CoordinatesX": "0.0206851734", "ItemName": "DaDump"}
+{"UserName": "test", "ItemID": "290", "Attribute": "Preference", "ItemDomain": "song", "UserID": "0", "Status": "test", "CoordinatesY": "0.5192366768", "CoordinatesX": "-0.4877116089", "ItemName": "Change"}
+{"UserName": "test", "ItemID": "302", "Attribute": "Preference", "ItemDomain": "photo_internet", "UserID": "0", "Status": "test", "CoordinatesY": "0.3807325191", "CoordinatesX": "-0.2555067570", "ItemName": "P1_8"}
+{"UserName": "test", "ItemID": "305", "Attribute": "Preference", "ItemDomain": "transport", "UserID": "0", "Status": "test", "CoordinatesY": "-0.2348415152", "CoordinatesX": "0.1720105871", "ItemName": "Motorbike"}
+{"UserName": "test", "ItemID": "320", "Attribute": "Preference", "ItemDomain": "anime", "UserID": "0", "Status": "test", "CoordinatesY": "0.6515850942", "CoordinatesX": "0.0287814261", "ItemName": "Clannad"}
+{"UserName": "test", "ItemID": "328", "Attribute": "Preference", "ItemDomain": "animal", "UserID": "0", "Status": "test", "CoordinatesY": "0.7685441607", "CoordinatesX": "-0.5246039685", "ItemName": "StrixUralensis"}
+{"UserName": "test", "ItemID": "343", "Attribute": "Preference", "ItemDomain": "movie", "UserID": "0", "Status": "test", "CoordinatesY": "0.2237611403", "CoordinatesX": "-0.5007324417", "ItemName": "ShockAndAwe"}
+{"UserName": "test", "ItemID": "352", "Attribute": "Preference", "ItemDomain": "food", "UserID": "0", "Status": "test", "CoordinatesY": "0.1068020738", "CoordinatesX": "-0.3401421703", "ItemName": "Yakigyoza"}
+{"UserName": "test", "ItemID": "357", "Attribute": "Preference", "ItemDomain": "brand", "UserID": "0", "Status": "test", "CoordinatesY": "-0.6349646376", "CoordinatesX": "-0.5267741073", "ItemName": "Zara"}
+{"UserName": "test", "ItemID": "371", "Attribute": "Preference", "ItemDomain": "robot", "UserID": "0", "Status": "test", "CoordinatesY": "-0.1055709680", "CoordinatesX": "-0.5528157730", "ItemName": "Geminoid"}
+{"UserName": "test", "ItemID": "381", "Attribute": "Preference", "ItemDomain": "sns", "UserID": "0", "Status": "test", "CoordinatesY": "-0.6072638060", "CoordinatesX": "-0.2728678674", "ItemName": "Tumblr"}
+{"UserName": "test", "ItemID": "388", "Attribute": "Preference", "ItemDomain": "algorithm", "UserID": "0", "Status": "test", "CoordinatesY": "-0.1855955925", "CoordinatesX": "-0.7134060444", "ItemName": "K-Nearest"}
+{"UserName": "test", "ItemID": "398", "Attribute": "Preference", "ItemDomain": "major", "UserID": "0", "Status": "test", "CoordinatesY": "0.3407202069", "CoordinatesX": "0.1589897543", "ItemName": "Agriculture"}

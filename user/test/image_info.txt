@@ -1,0 +1,1 @@
+{"Evaluation Name": "bullfighting, tauromachy", "Compare ID": 60964, "Evaluation ID": 25233, "Compare Name": "textile mill"}

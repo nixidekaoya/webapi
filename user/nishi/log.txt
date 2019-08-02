@@ -1,0 +1,4 @@
+{"UserName": "nishi", "Status": "log", "Relativity": "no", "UserID": "3", "ImageID_1": "13357", "ImageID_2": "65237", "ImageClassWNID_1": "n03219010", "ImageClassWNID_2": "n07601175"}
+{"UserName": "nishi", "Status": "log", "Relativity": "no", "UserID": "3", "ImageID_1": "78909", "ImageID_2": "64589", "ImageClassWNID_1": "n11661372", "ImageClassWNID_2": "n07575392"}
+{"UserName": "nishi", "Status": "log", "Relativity": "similar", "UserID": "3", "ImageID_1": "64540", "ImageID_2": "27566", "ImageClassWNID_1": "n07574602", "ImageClassWNID_2": "n01603600"}
+{"UserName": "nishi", "Status": "log", "Relativity": "no", "UserID": "3", "ImageID_1": "81125", "ImageID_2": "57700", "ImageClassWNID_1": "n11971783", "ImageClassWNID_2": "n04154565"}

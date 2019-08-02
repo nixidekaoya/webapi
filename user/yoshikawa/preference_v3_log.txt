@@ -1,0 +1,11 @@
+{"UserName": "yoshikawa", "Status": "log", "Attribute": "Preference", "UserID": "16", "ItemWNID": "n03724870", "ImageID": "52438", "CoordinatesY": "-0.3232796715", "CoordinatesX": "-0.2345565774"}
+{"UserName": "yoshikawa", "Status": "log", "Attribute": "Preference", "UserID": "16", "ItemWNID": "n11959259", "ImageID": "23845", "CoordinatesY": "0.1613171359", "CoordinatesX": "0.0712991518"}
+{"UserName": "yoshikawa", "Status": "log", "Attribute": "Preference", "UserID": "16", "ItemWNID": "n11545714", "ImageID": "78414", "CoordinatesY": "-0.1692378140", "CoordinatesX": "0.2736284797"}
+{"UserName": "yoshikawa", "Status": "log", "Attribute": "Preference", "UserID": "16", "ItemWNID": "n03234164", "ImageID": "46742", "CoordinatesY": "-0.6870603635", "CoordinatesX": "0.4502060445"}
+{"UserName": "yoshikawa", "Status": "log", "Attribute": "Preference", "UserID": "16", "ItemWNID": "n07705931", "ImageID": "4349", "CoordinatesY": "0.0194767571", "CoordinatesX": "0.1309836399"}
+{"UserName": "yoshikawa", "Status": "log", "Attribute": "Preference", "UserID": "16", "ItemWNID": "n03790755", "ImageID": "53209", "CoordinatesY": "-0.3164919546", "CoordinatesX": "-0.2940552705"}
+{"UserName": "yoshikawa", "Status": "log", "Attribute": "Preference", "UserID": "16", "ItemWNID": "n02656670", "ImageID": "19794", "CoordinatesY": "0.1346906336", "CoordinatesX": "-0.6007233462"}
+{"UserName": "yoshikawa", "Status": "log", "Attribute": "Preference", "UserID": "16", "ItemWNID": "n12621945", "ImageID": "85114", "CoordinatesY": "-0.0097130555", "CoordinatesX": "-0.1395589879"}
+{"UserName": "yoshikawa", "Status": "log", "Attribute": "Preference", "UserID": "16", "ItemWNID": "n12980840", "ImageID": "2361", "CoordinatesY": "-0.4264217351", "CoordinatesX": "0.8627887298"}
+{"UserName": "yoshikawa", "Status": "log", "Attribute": "Preference", "UserID": "16", "ItemWNID": "n12879527", "ImageID": "19384", "CoordinatesY": "0.1589764484", "CoordinatesX": "-0.4934089904"}
+{"UserName": "yoshikawa", "Status": "log", "Attribute": "Preference", "UserID": "16", "ItemWNID": "n03642806", "ImageID": "51457", "CoordinatesY": "0.4786355897", "CoordinatesX": "0.4349929290"}

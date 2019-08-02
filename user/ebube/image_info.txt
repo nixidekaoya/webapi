@@ -1,0 +1,1 @@
+{"Evaluation Name": "forest tent caterpillar, Malacosoma disstria", "Compare ID": 64374, "Evaluation ID": 36217, "Compare Name": "diet"}

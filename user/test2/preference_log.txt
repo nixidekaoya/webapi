@@ -1,0 +1,10 @@
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "54775", "ImageClassWNID": "n03920288", "Preference": "dislike"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "84751", "ImageClassWNID": "n12557064", "Preference": "dislike"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "9834", "ImageClassWNID": "n02769075", "Preference": "like"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "34105", "ImageClassWNID": "n02106662", "Preference": "dislike"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "63259", "ImageClassWNID": "n04601938", "Preference": "dislike"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "55413", "ImageClassWNID": "n03977966", "Preference": "like"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "19107", "ImageClassWNID": "n03599486", "Preference": "like"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "73913", "ImageClassWNID": "n09886403", "Preference": "dislike"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "62633", "ImageClassWNID": "n04559994", "Preference": "like"}
+{"UserName": "test2", "Status": "log", "UserID": "15", "ImageID": "18453", "ImageClassWNID": "n13144084", "Preference": "neutral"}

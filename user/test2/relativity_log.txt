@@ -1,0 +1,16 @@
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "12797", "ImageID_2": "3750", "ImageClassWNID_1": "n09607630", "ImageClassWNID_2": "n07736813"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "12797", "ImageID_2": "84960", "ImageClassWNID_1": "n09607630", "ImageClassWNID_2": "n12590499"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "12797", "ImageID_2": "44687", "ImageClassWNID_1": "n09607630", "ImageClassWNID_2": "n03062122"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "12797", "ImageID_2": "59832", "ImageClassWNID_1": "n09607630", "ImageClassWNID_2": "n04325704"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "11577", "ImageID_2": "13305", "ImageClassWNID_1": "n07609632", "ImageClassWNID_2": "n04008634"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "11577", "ImageID_2": "30340", "ImageClassWNID_1": "n07609632", "ImageClassWNID_2": "n01835769"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "11577", "ImageID_2": "60894", "ImageClassWNID_1": "n07609632", "ImageClassWNID_2": "n04409806"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "11577", "ImageID_2": "22637", "ImageClassWNID_1": "n07609632", "ImageClassWNID_2": "n13003254"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "20824", "ImageID_2": "60490", "ImageClassWNID_1": "n08633683", "ImageClassWNID_2": "n04383130"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "20824", "ImageID_2": "18526", "ImageClassWNID_1": "n08633683", "ImageClassWNID_2": "n02694045"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "20824", "ImageID_2": "52384", "ImageClassWNID_1": "n08633683", "ImageClassWNID_2": "n03722007"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "20824", "ImageID_2": "47975", "ImageClassWNID_1": "n08633683", "ImageClassWNID_2": "n03350204"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "20824", "ImageID_2": "60490", "ImageClassWNID_1": "n08633683", "ImageClassWNID_2": "n04383130"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "20824", "ImageID_2": "18526", "ImageClassWNID_1": "n08633683", "ImageClassWNID_2": "n02694045"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "20824", "ImageID_2": "52384", "ImageClassWNID_1": "n08633683", "ImageClassWNID_2": "n03722007"}
+{"UserName": "test2", "Status": "log", "Relativity": "no", "UserID": "15", "ImageID_1": "20824", "ImageID_2": "47975", "ImageClassWNID_1": "n08633683", "ImageClassWNID_2": "n03350204"}

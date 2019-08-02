@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en" id="demo">
+<head>
+	<meta charset="UTF-8">
+	<title>Imagenet home</title>
+</head>
+
+<style type="text/css">
+.buttondiv{
+margin:0 auto;
+}
+
+
+.button{
+font-size:16px;
+margin-left:40px;
+margin-right:40px;
+margin-top:20px;
+margin-bottom:20px;
+width:120px;
+height:40px;
+}
+
+</style>
+
+<body>
+<h1 align="center",style="font-size:48px;color:black;">Welcome to Imagenet Evaluation platform!</h1>
+<hr />
+
+<p align="center">Please input your name:</p><br />
+
+
+<div align="center" style="margin:0 auto;">
+username: <input type="text" name="username" id="inputname" required="required" align="center"> <br />
+
+<button id="preferencebutton" value="Preference" class="button" onclick="buttonClick(this);"></button>
+<button id="relativitybutton" value="Relativity" class="button" onclick="buttonClick(this);"></button>
+</div>
+
+<script type="text/javascript">
+var formData = null;
+var loginURL = "/login";
+var xmlHttpRequest = null;
+
+document.getElementById('preferencebutton').innerHTML = "Preference";
+document.getElementById('relativitybutton').innerHTML = "Relation";
+
+
+formData = new FormData();
+
+function buttonClick(btn){
+if (btn.getAttribute('id') == "preferencebutton"){
+formData.append("Evaluation","Preference");
+} else if (btn.getAttribute('id') == "relativitybutton"){
+formData.append("Evaluation","Relativity");
+}
+formData.append("username",document.getElementById("inputname").value);
+
+	
+xmlHttpRequest = new XMLHttpRequest();
+xmlHttpRequest.onreadystatechange = pageUpdate;
+xmlHttpRequest.open("POST",loginURL,true);
+xmlHttpRequest.send(formData);
+
+}
+
+function pageUpdate()
+{
+if (xmlHttpRequest.readyState==4){
+	console.log("1");
+if (xmlHttpRequest.status==200){
+	console.log("2");
+	alert("reload");
+	window.location.reload()
+
+} // if (xmlHttpBroken.status==200)
+} // if (xmlHttpBroken.readyState==4)
+}
+
+
+</script>
+
+</body>
+</html>

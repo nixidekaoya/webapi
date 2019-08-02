@@ -1,0 +1,1 @@
+{"UserName": "sasa", "Status": "log", "ItemID": "176", "Attribute": "Relativity", "UserID": "20", "UserRecordID": 1, "CoordinatesY": "0.0999632649", "CoordinatesX": "-0.1445701427", "ItemName": "Television"}

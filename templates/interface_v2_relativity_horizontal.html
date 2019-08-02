@@ -1,0 +1,355 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Imagenet Evaluation</title>
+</head>
+
+<style type="text/css">
+
+.inline{
+    display: inline-block;
+
+}
+
+.inlinetop{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.inlinedisplay{
+    vertical-align: top;
+    display: inline-block;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 16px;
+    font-weight: bold;
+
+}
+
+.fixtext{
+	width:80px;
+}
+
+.basetranslationtext{
+    font-size:20px;
+    font-weight: bold;
+}
+
+.subtranslation{
+    max-width: 150px;
+    font-size:12px;
+    font-weight: bold;
+}
+
+.radiotext{
+    vertical-align: bottom;
+    font-size:12px;
+    margin-top:1px;
+    margin-bottom: 1px;
+}
+
+.baseimage{
+    display: inline-block;
+    margin-top:2px;
+    margin-bottom:2px;
+	height:200px;
+	width:200px;
+}
+
+
+
+.submitbutton{
+	font-size:24px;
+    margin-top:20px;
+	margin-left:20px;
+	margin-right:20px;
+	width:200px;
+	height:40px;
+}
+
+.nextbutton{
+	font-size:20px;
+	margin-top:1px;
+	margin-bottom:1px;
+	margin-left:10px;
+	margin-right:10px;
+	padding-left:10px;
+	padding-right:10px;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+
+.subimagediv{
+	display:inline-block;
+    vertical-align: top;
+    margin-left:10px;
+    margin-right:10px;
+    margin-top:2px;
+    margin-bottom: 2px;
+	width:150;
+	height:500;
+	font-size:12px;
+}
+
+.subimage{
+	height:150px;
+	width:150px;
+}
+
+</style>
+
+
+<body>
+
+<div class="inline">
+<form id="form1" method="post">
+User Name: <input type="text" name="username" value="{{UserName}}" class="fixtext" id="userName"  readonly>
+, User ID:<input type="text" name="userid" value="{{UserID}}" class="fixtext" id="userID" readonly>
+</form>
+</div>
+
+<div class="inline">
+<p class="inline">, Lv. {{UserLevel}}  </p>
+<progress max = "100", value = "{{CompleteRatio}}" class="inline">{{completeRatio}}%</progress>
+</div>
+
+<div>
+<div class="baseimage">
+<img src="data:;base64,{{BaseImageStream}}" alt="Base Image Broken!" id="BaseImage" class="baseimage">
+</div>
+
+<div class="inlinedisplay">
+<p id="BaseImageEnglish"> BaseImageEnglish</p>
+<p id="BaseImageJapanese"> BaseImageJapanese</p>
+<p id="BaseImageChinese"> BaseImageChinese</p>
+</div>
+
+<div class="inlinetop">
+<button onclick="onNextSend();" class="nextbutton" id="nextButton">  Next  </button>
+<button onclick="onBrokenSend();" class="nextbutton" id="brokenButton">Image Broken!</button>
+</div>
+
+</div>
+
+
+
+<div style="font-size:16px;">
+<p id="question">Do you think the 4 concepts below are related to the concept above? Click the radio button and press Submit button to submit.</p>
+</div>
+
+<div class="subimagediv">
+<img src="data:;base64,{{SubImageStream1}}" alt="Sub Image1 Broken!" id="SubImage1" class="subimage">
+<div class="subtranslation">
+<p id="SubImage1English">SubImage1Englsih</p>
+<p id="SubImage1Japanese">SubImage1Japanese </p>
+<p id="SubImage1Chinese">SubImage1Chinese </p>
+</div>
+<div class="radiotext">
+<input type="radio" name="SubImage1" value="1">Related<br />
+<input type="radio" name="SubImage1" value="2">Not Related<br />
+<input type="radio" name="SubImage1" value="3" checked="checked">Content Unknown<br />
+</div>
+</div>
+
+
+<div class="subimagediv">
+<img src="data:;base64,{{SubImageStream2}}" alt="Sub Image2 Broken!" id="SubImage2" class="subimage">
+<div class="subtranslation">
+<p id="SubImage2English">SubImage2Englsih</p>
+<p id="SubImage2Japanese">SubImage2Japanese </p>
+<p id="SubImage2Chinese">SubImage2Chinese </p>
+</div>
+<div class="radiotext">
+<input type="radio" name="SubImage2" value="1">Related<br />
+<input type="radio" name="SubImage2" value="2">Not Related<br />
+<input type="radio" name="SubImage2" value="3" checked="checked">Content Unknown<br />
+</div>
+</div>
+
+<div class="subimagediv">
+<img src="data:;base64,{{SubImageStream3}}" alt="Sub Image3 Broken!" id="SubImage3" class="subimage">
+<div class="subtranslation">
+<p id="SubImage3English">SubImage3Englsih</p>
+<p id="SubImage3Japanese">SubImage3Japanese </p>
+<p id="SubImage3Chinese">SubImage3Chinese </p>
+</div>
+<div class="radiotext">
+<input type="radio" name="SubImage3" value="1">Related<br />
+<input type="radio" name="SubImage3" value="2">Not Related<br />
+<input type="radio" name="SubImage3" value="3" checked="checked">Content Unknown<br />
+</div>
+</div>
+
+<div class="subimagediv">
+<img src="data:;base64,{{SubImageStream4}}" alt="Sub Image4 Broken!" id="SubImage4" class="subimage">
+
+<div class="subtranslation">
+<p id="SubImage4English">SubImage4Englsih</p>
+<p id="SubImage4Japanese">SubImage4Japanese </p>
+<p id="SubImage4Chinese">SubImage4Chinese </p>
+</div>
+
+<div class="radiotext">
+<input type="radio" name="SubImage4" value="1">Related<br />
+<input type="radio" name="SubImage4" value="2">Not Related<br />
+<input type="radio" name="SubImage4" value="3" checked="checked">Content Unknown<br />
+</div>
+</div>
+
+
+<div class="inline">
+<button type="button" id="submitbutton" class="submitbutton" onclick="onSubmit();">Submit</button>
+</div>
+
+<script>
+var userName = "{{UserName}}";
+var userId = {{UserID}};
+var userNumber = {{UserNumber}};
+var userLevel = {{UserLevel}};
+var completeRatio = "{{CompleteRatio}}" + "%";
+
+var baseImageName = "{{BaseImageName}}";
+var baseImageWNID = "{{BaseImageWNID}}";
+var baseImageID = {{BaseImageID}};
+var baseImageJapaneseTranslation = "{{BaseTranslateJa}}";
+var baseImageChineseTranslation = "{{BaseTranslateCh}}";
+
+var subImageName1 = "{{SubImageName1}}";
+var subImageWNID1 = "{{SubImageWNID1}}";
+var subImageID1 = {{SubImageID1}};
+var subImageJapaneseTranslation1 = "{{SubTranslateJa1}}";
+var subImageChineseTranslation1 = "{{SubTranslateCh1}}";
+
+var subImageName2 = "{{SubImageName2}}";
+var subImageWNID2 = "{{SubImageWNID2}}";
+var subImageID2 = {{SubImageID2}};
+var subImageJapaneseTranslation2 = "{{SubTranslateJa2}}";
+var subImageChineseTranslation2 = "{{SubTranslateCh2}}";
+
+var subImageName3 = "{{SubImageName3}}";
+var subImageWNID3 = "{{SubImageWNID3}}";
+var subImageID3 = {{SubImageID3}};
+var subImageJapaneseTranslation3 = "{{SubTranslateJa3}}";
+var subImageChineseTranslation3 = "{{SubTranslateCh3}}";
+
+var subImageName4 = "{{SubImageName4}}";
+var subImageWNID4 = "{{SubImageWNID4}}";
+var subImageID4 = {{SubImageID4}};
+var subImageJapaneseTranslation4 = "{{SubTranslateJa4}}";
+var subImageChineseTranslation4 = "{{SubTranslateCh4}}";
+
+var nextURL = "/next";
+var brokenURL = "/broken";
+var logURL = "/log";
+
+var xmlHttpRequest = null;
+var formData = null;
+
+
+document.getElementById("BaseImageEnglish").innerHTML = baseImageName;
+document.getElementById("BaseImageJapanese").innerHTML = baseImageJapaneseTranslation;
+document.getElementById("BaseImageChinese").innerHTML = baseImageChineseTranslation;
+document.getElementById("SubImage1English").innerHTML = subImageName1;
+document.getElementById("SubImage1Japanese").innerHTML = subImageJapaneseTranslation1;
+document.getElementById("SubImage1Chinese").innerHTML = subImageChineseTranslation1;
+document.getElementById("SubImage2English").innerHTML = subImageName2;
+document.getElementById("SubImage2Japanese").innerHTML = subImageJapaneseTranslation2;
+document.getElementById("SubImage2Chinese").innerHTML = subImageChineseTranslation2;
+document.getElementById("SubImage3English").innerHTML = subImageName3;
+document.getElementById("SubImage3Japanese").innerHTML = subImageJapaneseTranslation3;
+document.getElementById("SubImage3Chinese").innerHTML = subImageChineseTranslation3;
+document.getElementById("SubImage4English").innerHTML = subImageName4;
+document.getElementById("SubImage4Japanese").innerHTML = subImageJapaneseTranslation4;
+document.getElementById("SubImage4Chinese").innerHTML = subImageChineseTranslation4;
+
+
+formData = new FormData();
+formData.append("UserName",userName);
+formData.append("UserID",userId);
+formData.append("BaseImageID",baseImageID);
+formData.append("BaseImageWNID",baseImageWNID);
+formData.append("SubImage1ID",subImageID1);
+formData.append("SubImage1WNID",subImageWNID1);
+formData.append("SubImage2ID",subImageID2);
+formData.append("SubImage2WNID",subImageWNID2);
+formData.append("SubImage3ID",subImageID3);
+formData.append("SubImage3WNID",subImageWNID3);
+formData.append("SubImage4ID",subImageID4);
+formData.append("SubImage4WNID",subImageWNID4);
+
+function onSubmit(){
+    var radioObj1 = document.getElementsByName("SubImage1");
+    for (var i = 0; i < radioObj1.length; i++){
+        if(radioObj1[i].checked){
+            formData.append("SubImage1Relativity",radioObj1[i].value);
+        }
+    }
+    var radioObj2 = document.getElementsByName("SubImage2");
+    for (var i = 0; i < radioObj2.length; i++){
+        if(radioObj2[i].checked){
+            formData.append("SubImage2Relativity",radioObj2[i].value);
+        }
+    }
+    var radioObj3 = document.getElementsByName("SubImage3");
+    for (var i = 0; i < radioObj3.length; i++){
+        if(radioObj3[i].checked){
+            formData.append("SubImage3Relativity",radioObj3[i].value);
+        }
+    }
+    var radioObj4 = document.getElementsByName("SubImage4");
+    for (var i = 0; i < radioObj4.length; i++){
+        if(radioObj4[i].checked){
+            formData.append("SubImage4Relativity",radioObj4[i].value);
+        }
+    }
+
+    xmlHttpRequest = new XMLHttpRequest();
+    xmlHttpRequest.onreadystatechange = pageUpdate;
+    xmlHttpRequest.open("POST",logURL,true);
+    xmlHttpRequest.send(formData);
+
+}
+
+function onBrokenSend(){
+	formData.append("BrokenID",baseImageID);
+	xmlHttpRequest = new XMLHttpRequest();
+	xmlHttpRequest.onreadystatechange = pageUpdate;
+	xmlHttpRequest.open("POST",brokenURL,true);
+	xmlHttpRequest.send(formData);
+
+}
+
+
+function onNextSend()
+{
+	//alert("onBroken");
+	formData.append("Known","no");
+	xmlHttpRequest = new XMLHttpRequest();
+	xmlHttpRequest.onreadystatechange = pageUpdate;
+	xmlHttpRequest.open("POST",nextURL,true);
+	xmlHttpRequest.send(formData);
+}
+
+
+
+
+function pageUpdate()
+{
+if (xmlHttpRequest.readyState==4){
+	console.log("1")
+if (xmlHttpRequest.status==200){
+	console.log("2")
+	//alert("reload");
+	window.location.reload();
+
+} // if (xmlHttpBroken.status==200)
+} // if (xmlHttpBroken.readyState==4)
+}
+
+</script>
+
+</body>
+</html>
