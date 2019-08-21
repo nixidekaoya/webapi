@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Interface V4 Restaurant</title>
+</head>
+<style type="text/css">
+
+.inline{
+    display:inline-block;
+}
+
+.fixtext{
+    width:80px;
+}
+
+.question{
+    font-size:32px;
+    margin-left:20px;
+}
+
+.subimagediv{
+    display:inline-block;
+    vertical-align:top;
+    margin-left:10px;
+    margin-right:10px;
+    margin-top:10px;
+    margin-bottom:10px;
+    width:250;
+    height:500;
+}
+
+.subimage{
+    height:250px;
+    width:250px;
+}
+
+.button{
+    font-size:24px;
+    margin-left:10px;
+    margin-right:10px;
+    margin-top:1px;
+    margin-bottom:1px;
+    padding-left:10px;
+    padding-right:10px;
+    padding-top:5px;
+    pading-bottom:5px;
+}
+
+
+</style>
+
+<body>
+
+<div class="inline">
+<form id="form1" method="post">
+User Name: <input type="text" value="{{UserName}}" class="fixtext" id="userName" readonly>, User ID: <input type="text" name="userid" value="{{UserID}}" class="fixtext" id="userID" readonly>, No.: <input type="text" id="dataNumber" name="dataNumber" value="{{DataNumber}}">
+</div>
+
+<div>
+<p class="question" id="Question"></p>
+</div>
+
+<div class="subimagediv">
+<img src="data:;base64,{{CHOICE_1_ImageStream}}" id="SubImage1" class="subimage">
+<div>
+<button id="btn1" type="button" class="button" onclick="onSubmit(this);"></button>
+</div>
+</div>
+
+
+<div class="subimagediv">
+<img src="data:;base64,{{CHOICE_2_ImageStream}}" id="SubImage2" class="subimage">
+<div>
+<button id="btn2" type="button" class="button" onclick="onSubmit(this);"></button>
+</div>
+</div>
+
+
+<div class="subimagediv">
+<img src="data:;base64,{{CHOICE_3_ImageStream}}" id="SubImage3" class="subimage">
+<div>
+<button id="btn3" type="button" class="button" onclick="onSubmit(this);"></button>
+</div>
+</div>
+
+
+
+<div class="subimagediv">
+<img src="data:;base64,{{CHOICE_4_ImageStream}}" id="SubImage4" class="subimage">
+<div>
+<button id="btn4" type="button" class="button" onclick="onSubmit(this);"></button>
+</div>
+</div>
+
+
+<script type="text/javascript">
+
+window.addEventListener('load',init);
+
+var userID = "{{UserID}}";
+var userName = "{{UserName}}";
+var userNumber = "{{DataNumber}}";
+
+var AListID = {{WHO_ID}};
+var BListID = {{WHERE_ID}};
+var CListID1 = {{CHOICE_1_ID}};
+var CListID2 = {{CHOICE_2_ID}};
+var CListID3 = {{CHOICE_3_ID}};
+var CListID4 = {{CHOICE_4_ID}};
+
+var question = "{{WHO_NAME}}" + "{{EXTRA_1}}" + "{{WHERE_NAME}}" + "{{EXTRA_2}}";
+
+var logURL = "/log";
+var xmlHttpRequest = null;
+var formData = null;
+
+var dateBegin = null;
+var dateEnd = null;
+
+
+document.getElementById("Question").innerHTML = question;
+document.getElementById("btn1").innerHTML = "{{CHOICE_1_NAME}}";
+document.getElementById("btn2").innerHTML = "{{CHOICE_2_NAME}}";
+document.getElementById("btn3").innerHTML = "{{CHOICE_3_NAME}}";
+document.getElementById("btn4").innerHTML = "{{CHOICE_4_NAME}}";
+
+formData = new FormData();
+formData.append("UserName", userName);
+formData.append("UserID", userID);
+formData.append("AListID", AListID);
+formData.append("BListID", BListID);
+formData.append("CListID1", CListID1);
+formData.append("CListID2", CListID2);
+formData.append("CListID3", CListID3);
+formData.append("CListID4", CListID4);
+
+function init() {
+    dateBegin = new Date();
+}
+
+function onSubmit(btn){
+    dateEnd = new Date();
+    var ResponseTime = dateEnd.getTime() - dateBegin.getTime();
+    formData.append("ResponseTime", ResponseTime);
+    if (btn.getAttribute('id') == "btn1"){
+    formData.append("CListSelectID",CListID1);
+    }
+    else if (btn.getAttribute('id') == "btn2"){
+    formData.append("CListSelectID",CListID2);
+    }
+    else if (btn.getAttribute('id') == "btn3"){
+    formData.append("CListSelectID",CListID3);
+    }
+    else if (btn.getAttribute('id') == "btn4"){
+    formData.append("CListSelectID",CListID4);
+    }
+    xmlHttpRequest = new XMLHttpRequest();
+    xmlHttpRequest.onreadystatechange = pageUpdate;
+    xmlHttpRequest.open("POST",logURL,true);
+    xmlHttpRequest.send(formData);
+}
+
+
+function pageUpdate(){
+if (xmlHttpRequest.readyState==4){
+if (xmlHttpRequest.status==200){
+    window.location.reload();
+}
+}
+}
+
+</script>
+</body>
+</html>
